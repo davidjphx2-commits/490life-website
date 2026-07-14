@@ -64,7 +64,7 @@ a { color: var(--gold-deep); }
 }
 .header-inner { display: flex; align-items: center; justify-content: space-between; padding: 0.5rem 0; }
 .brand { display: flex; align-items: center; gap: 0.65rem; text-decoration: none; }
-.brand-logo { height: 64px; width: auto; display: block; }
+.brand-logo { height: 56px; width: auto; display: block; }
 .brand-word { font-family: var(--display); font-size: 1.55rem; font-weight: 700; letter-spacing: 0.05em; color: #FBF7EE; }
 .header-cta { font-size: 1.05rem; }
 
@@ -154,7 +154,7 @@ h2.section-title { font-size: clamp(2.3rem, 4vw, 3.2rem); margin-bottom: 1.2rem;
 /* Footer */
 .site-footer { border-top: 1px solid rgba(200, 162, 76, 0.32); padding: 4.5rem 0; text-align: center; color: rgba(251, 247, 238, 0.7); background: var(--brown); }
 .footer-brand { display: inline-flex; flex-direction: column; align-items: center; gap: 0.5rem; text-decoration: none; margin-bottom: 0.7rem; }
-.footer-logo { height: 140px; width: auto; display: block; }
+.footer-logo { height: 122px; width: auto; display: block; }
 .footer-word { font-family: var(--display); font-size: 1.6rem; font-weight: 700; letter-spacing: 0.05em; color: #FBF7EE; }
 .footer-meta { font-size: 1rem; margin-top: 0.6rem; line-height: 1.9; color: rgba(251, 247, 238, 0.72); }
 .footer-meta a { color: rgba(251, 247, 238, 0.92); text-decoration: none; }
