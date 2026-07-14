@@ -66,7 +66,7 @@ a { color: var(--gold-deep); }
 .header-cta { font-size: 1.05rem; }
 
 /* ── Hero with cathedral light ─────────────────────────── */
-.hero { position: relative; padding: 6rem 0 5rem; overflow: hidden; border-bottom: 1px solid var(--line); }
+.hero { position: relative; padding: 4rem 0 4rem; overflow: hidden; border-bottom: 1px solid var(--line); }
 /* the luminous field: brightest at the top-left corner (the light source) */
 .hero::before {
   content: ''; position: absolute; inset: 0; z-index: 0;
@@ -96,15 +96,15 @@ a { color: var(--gold-deep); }
   background: radial-gradient(circle at 42% 38%, rgba(255, 248, 220, 0.95) 0%, rgba(255, 240, 200, 0.5) 38%, rgba(255, 240, 200, 0) 70%);
 }
 .hero-cover img {
-  position: relative; z-index: 1; border-radius: 3px;
-  box-shadow: 0 34px 60px -22px rgba(120, 90, 30, 0.5), 0 0 0 1px rgba(200, 162, 76, 0.3), 0 0 60px -10px rgba(255, 236, 180, 0.9);
-  transform: perspective(1500px) rotateY(-8deg);
+  position: relative; z-index: 1; width: 100%; max-width: 300px; height: auto; border-radius: 3px;
+  box-shadow: 0 30px 55px -24px rgba(120, 90, 30, 0.55), 0 0 0 1px rgba(200, 162, 76, 0.3), 0 0 55px -12px rgba(255, 236, 180, 0.85);
+  transform: perspective(1600px) rotateY(-4deg);
   transition: transform 0.4s ease;
 }
-.hero-cover img:hover { transform: perspective(1500px) rotateY(-3deg) translateY(-5px); }
+.hero-cover img:hover { transform: perspective(1600px) rotateY(0deg) translateY(-4px); }
 
 /* Section rhythm */
-section { padding: 5.5rem 0; }
+section { padding: 4.2rem 0; }
 .section-line { border-top: 1px solid var(--line); }
 .center { text-align: center; }
 .eyebrow { font-family: var(--display); letter-spacing: 0.3em; text-transform: uppercase; font-size: 0.82rem; color: var(--gold-deep); margin-bottom: 0.9rem; }
@@ -130,7 +130,7 @@ h2.section-title { font-size: clamp(2.3rem, 4vw, 3.2rem); margin-bottom: 1.2rem;
 .pull .mark { color: var(--gold-soft); font-size: 3.4rem; display: block; margin-bottom: 0.2rem; }
 
 /* About */
-.about-grid { display: grid; grid-template-columns: 260px 1fr; gap: 3rem; align-items: start; }
+.about-grid { display: grid; grid-template-columns: 340px 1fr; gap: 3rem; align-items: start; }
 .about-photo img { border-radius: 4px; border: 1px solid var(--line); box-shadow: 0 22px 44px -20px rgba(120, 90, 30, 0.4); }
 .about-copy p { color: var(--ink-soft); margin-bottom: 1.1rem; }
 .about-copy .name { font-family: var(--display); font-size: 2rem; color: var(--ink); margin-bottom: 0.2rem; }
