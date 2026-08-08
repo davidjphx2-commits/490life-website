@@ -1,0 +1,10 @@
+{
+  "name": "490life-website",
+  "private": true,
+  "scripts": {
+    "build": "eleventy",
+    "serve": "eleventy --serve",
+    "test": "node scripts/smoke.js"
+  },
+  "devDependencies": { "@11ty/eleventy": "^3.0.0" }
+}
