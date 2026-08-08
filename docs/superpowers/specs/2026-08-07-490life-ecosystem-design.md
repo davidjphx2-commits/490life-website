@@ -87,6 +87,12 @@ DSG: banner per page → matching 490 URL now; 301 redirects (nginx config in DS
 1. **Foundation** — Eleventy rebuild, home, book page port, `/teachings` + prayer post, about, Brevo wiring + lead-magnet PDF, launch. Site swap is atomic (same container, new build).
 2. **DSG fold-in** — five pages ported + banners; 301s.
 3. **Shop** — WP/Woo container, Printful plugin, Stripe (David creates account + enters keys), theme skin, AZ tax, test order end-to-end. First shirt-design session (Magnific concepts → Printful).
+
+   **Merch brand direction (David, 2026-08-07):**
+   - Brand mark: gold crowned winged lion + wordmark (as on book back cover, MINUS "Publishing" line). Source asset: `Downloads\Brand Logo with Powerful Lion Emblem.png` (lion + "490LIFE", no publishing text) — strip background to transparent for print; resolution fine at sleeve/neck size, upscale if large placements needed.
+   - Mark placement: sleeve OR center back-neck (small, by the collar). Consistent across the line.
+   - Front of shirts: creative/witty Christian sayings (design sessions produce these; mockups via image gen before Printful upload).
+   - Open micro-decision at design session: wordmark "490LIFE" (as in asset) vs "490.LIFE".
 4. **Automation + polish** — publishing bridge, Studio tenant setup for 490 Life, Umami, sitemap/RSS/SEO verification.
 
 Phases 1–2 have no external dependencies. Phase 3 blocks on Stripe account. Phase 4 blocks on nothing but ordering.
