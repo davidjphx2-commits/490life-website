@@ -1,0 +1,22 @@
+---
+layout: base.njk
+---
+<header class="post-header">
+  <div class="container">
+    <div class="kicker">{{ passage }}</div>
+    <h1>{{ title }}</h1>
+    <div class="date">{{ page.date | readableDate }} &middot; David S. Jones</div>
+  </div>
+</header>
+
+<article class="post-body">
+{{ content | safe }}
+
+{% if bookCallout %}
+<div class="book-callout">
+  <strong>Go deeper on forgiveness.</strong> I wrote a whole book on the God who forgives past all counting &mdash; <a href="/seventy-times-seven/"><em>Seventy Times Seven</em></a>. If this teaching met you where you are, the book walks the whole road.
+</div>
+{% endif %}
+</article>
+
+{% include "signup.njk" %}

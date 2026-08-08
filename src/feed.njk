@@ -1,0 +1,23 @@
+---
+permalink: /feed.xml
+eleventyExcludeFromCollections: true
+---
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>490 Life — Weekly Teachings</title>
+  <subtitle>Teachings from Scripture for the life of limitless forgiveness.</subtitle>
+  <link href="{{ site.url }}/feed.xml" rel="self"/>
+  <link href="{{ site.url }}/"/>
+  <updated>{% if collections.teachings.length %}{{ (collections.teachings | reverse | first).date | isoDate }}{% endif %}</updated>
+  <id>{{ site.url }}/</id>
+  <author><name>David S. Jones</name><email>{{ site.email }}</email></author>
+  {%- for post in collections.teachings | reverse %}
+  <entry>
+    <title>{{ post.data.title }}</title>
+    <link href="{{ site.url }}{{ post.url }}"/>
+    <updated>{{ post.date | isoDate }}</updated>
+    <id>{{ site.url }}{{ post.url }}</id>
+    <summary>{{ post.data.description }}</summary>
+  </entry>
+  {%- endfor %}
+</feed>

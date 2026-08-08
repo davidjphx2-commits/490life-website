@@ -1,0 +1,90 @@
+---
+layout: base.njk
+title: "490 Life — Live the life of limitless forgiveness"
+description: "490 = seventy times seven. Weekly teachings, the book Seventy Times Seven, and resources for a life with the God who keeps no record of wrongs."
+---
+
+<section class="hero hero-home">
+  <div class="hero-glow-source" aria-hidden="true"></div>
+  <div class="light-rays" aria-hidden="true">
+    <svg viewBox="0 0 1440 900" preserveAspectRatio="xMidYMid slice">
+      <defs>
+        <linearGradient id="beam" x1="0" y1="0" x2="0.65" y2="1">
+          <stop offset="0%" stop-color="#FFF4D2" stop-opacity="0.92"/>
+          <stop offset="55%" stop-color="#FFF4D2" stop-opacity="0.35"/>
+          <stop offset="100%" stop-color="#FFF4D2" stop-opacity="0"/>
+        </linearGradient>
+      </defs>
+      <g fill="url(#beam)" style="mix-blend-mode:screen">
+        <polygon points="-80,-80 300,960 210,960"/>
+        <polygon points="-80,-80 520,960 380,960"/>
+        <polygon points="-80,-80 760,960 600,960"/>
+        <polygon points="-80,-80 1010,960 860,960"/>
+        <polygon points="-80,-80 1280,960 1130,960"/>
+      </g>
+    </svg>
+  </div>
+  <div class="container hero-grid">
+    <div class="hero-copy">
+      <div class="kicker">Seventy Times Seven &middot; Matthew 18:22</div>
+      <h1>Live the 490 Life.</h1>
+      <p class="hero-hook">When Peter asked how many times he had to forgive, Jesus ended the counting: <span class="gold">seventy times seven.</span> 490 isn't a number &mdash; it's a way of life with the God who keeps no record of wrongs.</p>
+      <p class="hope-line">Weekly teachings from Scripture, a book about limitless grace, and a place to begin &mdash; wherever you stand with God.</p>
+      <div class="hero-actions">
+        <a href="#subscribe" class="btn btn-primary">Get the free study guide</a>
+        <a href="/teachings/" class="btn btn-ghost">Read the teachings</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="meaning section-line">
+  <div class="narrow center">
+    <div class="eyebrow">What is the 490 Life?</div>
+    <h2 class="section-title">The end of counting.</h2>
+    <div class="meaning" style="text-align:left">
+      <p><strong>The question.</strong> Peter thought he was being generous: &ldquo;Lord, how often shall my brother sin against me and I forgive him? Up to seven times?&rdquo; Seven was more than double what the rabbis required. He was ready to be congratulated.</p>
+      <p><strong>The answer.</strong> Jesus said, &ldquo;I do not say to you up to seven times, but up to seventy times seven.&rdquo; Four hundred ninety. Not a higher ceiling &mdash; the end of ceilings. Nobody keeping count gets to 490. That's the point: the people of a forgiving God stop counting.</p>
+      <p><strong>The invitation.</strong> The 490 Life is life shaped by that answer &mdash; receiving a forgiveness you could never earn, and learning to give it away. This site is a place to walk that road: teachings from Scripture every week, honest resources, and a book that traces grace from the heart of God to the wounded places of ordinary life.</p>
+    </div>
+    <hr class="gold-rule">
+  </div>
+</section>
+
+<section class="section-line">
+  <div class="container">
+    <div class="center">
+      <div class="eyebrow">This Week&rsquo;s Table</div>
+      <h2 class="section-title">Latest teachings.</h2>
+    </div>
+    <div class="teaching-list">
+      {% for post in collections.teachings | reverse %}{% if loop.index <= 3 %}
+      <article class="teaching-card">
+        <div class="passage-badge">{{ post.data.passage }}</div>
+        <h3><a href="{{ post.url }}">{{ post.data.title }}</a></h3>
+        <div class="date">{{ post.date | readableDate }}</div>
+        <p class="excerpt">{{ post.data.description }}</p>
+      </article>
+      {% endif %}{% endfor %}
+    </div>
+    <div class="center" style="margin-top:2.2rem">
+      <a href="/teachings/" class="btn btn-ghost">All teachings</a>
+    </div>
+  </div>
+</section>
+
+<section class="section-line">
+  <div class="container">
+    <div class="book-card">
+      <img src="/assets/cover.jpg" alt="Seventy Times Seven by David S. Jones — book cover" width="1600" height="2560">
+      <div>
+        <div class="eyebrow">The Book</div>
+        <h3>He kept no record of your wrongs. Why do you still keep yours?</h3>
+        <p><em>Seventy Times Seven</em> traces the scandal of grace from the heart of a holy God to the foot of the cross and back into the wounded places of ordinary life &mdash; because a river cannot flow from an empty spring.</p>
+        <a href="/seventy-times-seven/" class="btn btn-primary">About the book</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+{% include "signup.njk" %}

@@ -1,0 +1,30 @@
+---
+layout: base.njk
+title: "Teachings"
+description: "Weekly teachings from Scripture — walking the 490 Life one passage at a time."
+permalink: /teachings/
+tags: []
+eleventyExcludeFromCollections: true
+---
+
+<section>
+  <div class="container">
+    <div class="center">
+      <div class="eyebrow">The Weekly Table</div>
+      <h2 class="section-title">Teachings.</h2>
+      <p class="lead narrow">One passage a week, taken seriously &mdash; context, the original words, and what it asks of us. New teachings land every week; <a href="/#subscribe">join the list</a> and they come to you.</p>
+    </div>
+    <div class="teaching-list">
+      {% for post in collections.teachings | reverse %}
+      <article class="teaching-card">
+        <div class="passage-badge">{{ post.data.passage }}</div>
+        <h3><a href="{{ post.url }}">{{ post.data.title }}</a></h3>
+        <div class="date">{{ post.date | readableDate }}</div>
+        <p class="excerpt">{{ post.data.description }}</p>
+      </article>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+
+{% include "signup.njk" %}
