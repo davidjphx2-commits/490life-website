@@ -69,6 +69,14 @@ description: "${meta.description}"
   <div class="container">
     <div class="kicker">Resources</div>
     <h1>${meta.title}</h1>
+    <nav class="resource-strip" aria-label="Resources">
+      <a href="/resources/">All Resources</a>
+      <a href="/gospel/"${meta.slug === "gospel" ? ' class="current"' : ""}>Gospel</a>
+      <a href="/what-is-the-bible/"${meta.slug === "what-is-the-bible" ? ' class="current"' : ""}>The Bible</a>
+      <a href="/studying-the-bible/"${meta.slug === "studying-the-bible" ? ' class="current"' : ""}>Studying It</a>
+      <a href="/christian-life/"${meta.slug === "christian-life" ? ' class="current"' : ""}>Christian Life</a>
+      <a href="/finding-a-church/"${meta.slug === "finding-a-church" ? ' class="current"' : ""}>Finding a Church</a>
+    </nav>
   </div>
 </header>
 
