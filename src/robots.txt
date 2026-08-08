@@ -1,4 +1,5 @@
 User-agent: *
 Allow: /
+Disallow: /assets/pf-8f3a2c/
 
 Sitemap: https://490.life/sitemap.xml
