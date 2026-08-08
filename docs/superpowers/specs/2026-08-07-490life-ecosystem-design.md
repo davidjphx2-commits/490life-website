@@ -1,6 +1,6 @@
 # 490.life Ecosystem — Design Spec
 
-**Date:** 2026-08-07 · **Approved by:** David · **Status:** awaiting spec review
+**Date:** 2026-08-07 · **Approved by:** David · **Status:** Phases 1-2 LIVE (2026-08-08 overnight); Phase 3 blocked on Printful store-attach (their side) + Stripe account; Phase 4 pending
 
 ## Vision
 
