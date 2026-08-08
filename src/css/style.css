@@ -213,6 +213,21 @@ h2.section-title { font-size: clamp(2.3rem, 4vw, 3.2rem); margin-bottom: 1.2rem;
 .book-callout { background: linear-gradient(180deg, var(--paper-warm), var(--paper-glow)); border: 1px solid var(--line); border-left: 3px solid var(--gold); border-radius: var(--radius); padding: 1.5rem 1.8rem; margin: 2.4rem 0; font-size: 1.15rem; color: var(--ink-soft); }
 .book-callout a { font-weight: 600; }
 
+/* ── Resource pages (DSG ports) ─────────────────────── */
+.resource { width: min(880px, 92vw); }
+.resource > p, .resource > ul, .resource > ol, .resource > h2, .resource > h3, .resource > hr, .resource > blockquote { max-width: 720px; margin-left: auto; margin-right: auto; }
+.resource h2 { background: linear-gradient(180deg, var(--paper-warm), var(--paper-glow)); border-left: 4px solid var(--gold); border-radius: var(--radius); padding: 0.8rem 1.4rem; margin: 2.6rem auto 1rem; }
+.resource h3 { color: var(--gold-deep); }
+.resource ul li, .resource ol li { margin-bottom: 0.55rem; }
+.diagram-card { margin: 2.4rem auto; padding: 1.5rem 1.2rem 1rem; background: var(--paper-glow); border: 1px solid var(--line); border-top: 4px solid var(--gold); border-radius: var(--radius); box-shadow: 0 14px 34px -22px rgba(120, 90, 30, 0.35); overflow-x: auto; max-width: 880px; }
+.diagram-card svg { display: block; min-width: 640px; margin: 0 auto; }
+.video-series { margin: 2.4rem auto; max-width: 720px; }
+.video-embed { margin: 1.6rem auto; }
+.video-title { font-family: var(--display); font-size: 1.3rem; font-weight: 600; color: var(--ink); margin-bottom: 0.6rem; }
+.video-frame { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; border-radius: var(--radius); border: 1px solid var(--line); box-shadow: 0 14px 34px -22px rgba(120, 90, 30, 0.4); }
+.video-frame iframe { position: absolute; inset: 0; width: 100%; height: 100%; border: 0; }
+@media (max-width: 600px) { .diagram-card { padding: 0.9rem 0.6rem 0.6rem; } }
+
 /* Thank-you page */
 .thanks-hero { text-align: center; padding: 5.5rem 0; }
 .thanks-hero h1 { font-size: clamp(2.6rem, 5vw, 4rem); margin-bottom: 1.2rem; }
