@@ -57,5 +57,22 @@
   </div>
 </footer>
 
+<script>
+document.querySelectorAll("form.capture").forEach(function (f) {
+  f.addEventListener("submit", async function (e) {
+    e.preventDefault();
+    var btn = f.querySelector("button[type=submit]");
+    btn.disabled = true;
+    btn.textContent = "Sending…";
+    try {
+      await fetch(f.action, { method: "POST", mode: "no-cors", body: new FormData(f) });
+      window.location.href = "/almost-there/";
+    } catch (err) {
+      btn.disabled = false;
+      btn.textContent = "Try again";
+    }
+  });
+});
+</script>
 </body>
 </html>

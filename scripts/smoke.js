@@ -12,6 +12,7 @@ const expectPages = [
   "teachings/necessities-of-effective-prayer-mark-11/index.html",
   "about/index.html",
   "thank-you/index.html",
+  "almost-there/index.html",
   "feed.xml",
   "sitemap.xml",
   "robots.txt",
@@ -55,6 +56,8 @@ for (const file of htmlFiles(SITE)) {
 const home = fs.readFileSync(path.join(SITE, "index.html"), "utf8");
 if (!home.includes('id="subscribe"')) failures.push("HOME missing #subscribe section");
 if (!home.includes("sibforms.com/serve")) failures.push("HOME missing Brevo form action");
+if (!home.includes("form.capture")) failures.push("HOME missing capture-form submit script");
+if (!home.includes("/almost-there/")) failures.push("HOME missing almost-there redirect");
 
 const book = fs.readFileSync(path.join(SITE, "seventy-times-seven/index.html"), "utf8");
 const amazonCount = (book.match(/a\.co\/d\/04EfFHKO/g) || []).length;
