@@ -4,6 +4,8 @@ passage: "Matthew 4:17 · 2 Corinthians 10:3–5 · Romans 12:2"
 date: 2026-08-24
 description: "Three commands of Scripture — repent, take every thought captive, be transformed by the renewing of your mind — turn out to be one campaign. The battlefield is your mind, and the Greek behind each verse shows you how the fight is actually won."
 bookCallout: true
+ogImage: /assets/teaching-battle-cover.jpg
+ogType: article
 ---
 
 <style>

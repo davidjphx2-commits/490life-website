@@ -1,6 +1,23 @@
 ---
 layout: base.njk
 ---
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": {{ title | dump | safe }},
+  "description": {{ description | dump | safe }},
+  "about": {{ passage | dump | safe }},
+  "url": "{{ site.url }}{{ page.url }}",
+  "datePublished": "{{ page.date | isoDate }}",
+  "inLanguage": "en",
+  "image": "{{ site.url }}{{ ogImage or '/assets/logo.png' }}",
+  "author": { "@type": "Person", "name": "David S. Jones", "url": "{{ site.url }}/about/" },
+  "publisher": { "@type": "Person", "name": "David S. Jones", "url": "{{ site.url }}/" },
+  "isPartOf": { "@type": "WebSite", "name": "490 Life", "url": "{{ site.url }}/" },
+  "mainEntityOfPage": "{{ site.url }}{{ page.url }}"
+}
+</script>
 <header class="post-header">
   <div class="container">
     <div class="kicker">{{ passage }}</div>

@@ -1,0 +1,35 @@
+---
+permalink: /llms.txt
+eleventyExcludeFromCollections: true
+---
+# 490 Life
+
+> Weekly Bible teachings, resources for the Christian life, and the book *Seventy Times Seven* by David S. Jones — on the God who forgives past all counting. The name comes from Matthew 18:22: Jesus' command to forgive "seventy times seven."
+
+Author and site owner: David S. Jones (Arizona, USA). Contact: david@490.life.
+
+## The Book
+
+- [Seventy Times Seven]({{ site.url }}/seventy-times-seven/): "Seventy Times Seven: On the God Who Forgives Past All Counting" — Christian living / forgiveness. ISBN 979-8-9969382-1-6, published by 490 Life Publishing, available on Amazon (paperback, hardcover, Kindle).
+
+## Teachings (Bible studies)
+
+Weekly studies of Scripture — context, the original Greek words, practical application, and small-group discussion questions.
+
+{% for post in collections.teachings | reverse -%}
+- [{{ post.data.title | safe }}]({{ site.url }}{{ post.url }}): {{ post.data.passage | safe }} — {{ post.data.description | safe }}
+{% endfor %}
+## Resources
+
+- [The Gospel]({{ site.url }}/gospel/): what the good news of Jesus Christ is.
+- [What Is the Bible?]({{ site.url }}/what-is-the-bible/): introduction to Scripture.
+- [Studying the Bible]({{ site.url }}/studying-the-bible/): how to study Scripture well.
+- [The Christian Life]({{ site.url }}/christian-life/): living the faith day to day.
+- [Finding a Church]({{ site.url }}/finding-a-church/): how to find a faithful local church.
+- [About]({{ site.url }}/about/): about David S. Jones and 490 Life.
+- [Shop](https://shop.490.life/): 490 Life merchandise.
+
+## Feeds
+
+- [Atom feed]({{ site.url }}/feed.xml)
+- [Sitemap]({{ site.url }}/sitemap.xml)

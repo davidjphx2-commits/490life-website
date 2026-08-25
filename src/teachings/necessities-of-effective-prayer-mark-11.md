@@ -4,6 +4,8 @@ passage: "Mark 11:22-25"
 date: 2026-08-08
 description: "Jesus interrupts Passion Week to teach on prayer: all of heaven's resources are at the disposal of the believer who prays. Five necessities — remember, trust, believe, ask, forgive."
 bookCallout: true
+ogImage: /assets/teaching-prayer-cover.jpg
+ogType: article
 ---
 
 <style>
