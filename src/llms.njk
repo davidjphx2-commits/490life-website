@@ -4,7 +4,7 @@ eleventyExcludeFromCollections: true
 ---
 # 490 Life
 
-> Weekly Bible teachings, resources for the Christian life, and the book *Seventy Times Seven* by David S. Jones — on the God who forgives past all counting. The name comes from Matthew 18:22: Jesus' command to forgive "seventy times seven."
+> David S. Jones — weekly Bible teachings, biblical coaching and mentoring for men, speaking for churches and men's groups, resources for the Christian life, and the book *Seventy Times Seven* — on the God who forgives past all counting. The name comes from Matthew 18:22: Jesus' command to forgive "seventy times seven."
 
 Author and site owner: David S. Jones (Arizona, USA). Contact: david@490.life.
 
@@ -19,6 +19,11 @@ Weekly studies of Scripture — context, the original Greek words, practical app
 {% for post in collections.teachings | reverse -%}
 - [{{ post.data.title | safe }}]({{ site.url }}{{ post.url }}): {{ post.data.passage | safe }} — {{ post.data.description | safe }}
 {% endfor %}
+## Work with David
+
+- [Coaching]({{ site.url }}/coaching/): one-to-one biblical coaching and mentoring for men — Scripture-first; first conversation free.
+- [Speaking]({{ site.url }}/speaking/): David speaks at churches, men's breakfasts, retreats, and conferences on forgiveness, the mind, prayer, and starting over.
+
 ## Resources
 
 - [The Gospel]({{ site.url }}/gospel/): what the good news of Jesus Christ is.

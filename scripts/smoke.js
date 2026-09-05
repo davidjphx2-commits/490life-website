@@ -11,6 +11,11 @@ const expectPages = [
   "teachings/index.html",
   "teachings/necessities-of-effective-prayer-mark-11/index.html",
   "about/index.html",
+  "coaching/index.html",
+  "speaking/index.html",
+  "assets/david-headshot-beach.jpg",
+  "assets/david-studio-crossed.jpg",
+  "assets/mens-group-lawn.jpg",
   "thank-you/index.html",
   "almost-there/index.html",
   "gospel/index.html",
@@ -63,6 +68,8 @@ if (!home.includes('id="subscribe"')) failures.push("HOME missing #subscribe sec
 if (!home.includes("sibforms.com/serve")) failures.push("HOME missing Brevo form action");
 if (!home.includes("form.capture")) failures.push("HOME missing capture-form submit script");
 if (!home.includes("/almost-there/")) failures.push("HOME missing almost-there redirect");
+if (!home.includes("/coaching/") || !home.includes("/speaking/")) failures.push("HOME missing coaching/speaking links");
+if (!home.includes('class="nav-toggle"')) failures.push("HOME missing mobile nav toggle");
 
 const book = fs.readFileSync(path.join(SITE, "seventy-times-seven/index.html"), "utf8");
 const amazonCount = (book.match(/a\.co\/d\/04EfFHKO/g) || []).length;

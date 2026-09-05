@@ -2,10 +2,10 @@
   "version": "0.0.1",
   "configurations": [
     {
-      "name": "490life-dev",
-      "runtimeExecutable": "npm",
-      "runtimeArgs": ["run", "serve"],
-      "port": 8080
+      "name": "490life-static",
+      "runtimeExecutable": "npx",
+      "runtimeArgs": ["http-server", "_site", "-p", "8490", "-c-1", "--silent"],
+      "port": 8490
     }
   ]
 }
