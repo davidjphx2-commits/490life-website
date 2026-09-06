@@ -288,7 +288,8 @@ h2.section-title { font-size: clamp(2.1rem, 4vw, 3rem); margin-bottom: 1rem; }
 .page-hero h1 i { font-style: italic; color: var(--ocean); }
 .page-hero .lead { max-width: 56ch; }
 .page-hero .heart { max-width: 58ch; margin-top: 1.1rem; color: var(--ink); font-size: 1.02rem; line-height: 1.65; border-left: 2px solid var(--gold); padding-left: 1rem; }
-.page-hero.split { display: grid; grid-template-columns: 1.1fr 0.9fr; gap: 3rem; align-items: center; }
+.page-hero .split { display: grid; grid-template-columns: 1.1fr 0.9fr; gap: 3rem; align-items: start; }
+.page-hero .split > .frame { margin-top: 0.4rem; }
 
 /* ── Coaching / speaking inner pages ──────────────────── */
 .two-col { display: grid; grid-template-columns: 1fr 1fr; gap: 3rem; align-items: start; }
@@ -399,7 +400,7 @@ h2.section-title { font-size: clamp(2.1rem, 4vw, 3rem); margin-bottom: 1rem; }
   .hero-portrait { max-width: 320px; margin: 0 auto; justify-self: center; }
   .hero-cover { max-width: 260px; margin: 0 auto; order: -1; }
   .hero-cover img { transform: none; }
-  .thesis .container, .speak-grid, .coach-grid, .two-col, .page-hero.split, .story .container > .section-head { grid-template-columns: 1fr; gap: 1.6rem; }
+  .thesis .container, .speak-grid, .coach-grid, .two-col, .page-hero .split, .story .container > .section-head { grid-template-columns: 1fr; gap: 1.6rem; }
   .strip, .strip.strip-5 { grid-template-columns: 1fr 1fr; }
   .photo-pair.three { grid-template-columns: 1fr 1fr; }
   .journey-grid { grid-template-columns: 1fr; }
