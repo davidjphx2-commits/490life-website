@@ -37,6 +37,9 @@ ogImage: /assets/david-studio-crossed.jpg
       <figure><img src="/assets/brothers-in-christ.jpg" alt="David with two brothers in Christ at a men's retreat" width="1600" height="1067" loading="lazy"><figcaption>Brothers in Christ &middot; Men&rsquo;s retreat</figcaption></figure>
       <figure><img src="/assets/caesarea-amphitheater.jpg" alt="David in the amphitheater at Caesarea where Paul preached" width="1600" height="1067" loading="lazy"><figcaption>The amphitheater where Paul preached &middot; Caesarea</figcaption></figure>
       <figure><img src="/assets/martha-beck.jpg" alt="David with Dr. Martha Beck at her conference in Colorado" width="1600" height="1067" loading="lazy"><figcaption>Dr. Martha Beck&rsquo;s conference &middot; Colorado</figcaption></figure>
+      <figure><img src="/assets/refugee-family-istanbul.jpg" alt="David with a refugee family in Istanbul" width="1600" height="1067" loading="lazy"><figcaption>Ministering to a refugee family &middot; Istanbul</figcaption></figure>
+      <figure><img src="/assets/older-brother-retreat.jpg" alt="David with his older brother at a men's retreat" width="1600" height="1067" loading="lazy"><figcaption>Seeing my older brother at the retreat</figcaption></figure>
+      <figure class="video-tile"><video controls preload="none" playsinline poster="/assets/house-church-istanbul-poster.jpg" src="/assets/house-church-istanbul.mp4"></video><figcaption>Worshipping with a house church &middot; Istanbul &middot; video</figcaption></figure>
     </div>
   </div>
 </section>
@@ -97,3 +100,9 @@ ogImage: /assets/david-studio-crossed.jpg
 </section>
 
 {% include "signup.njk" %}
+
+<script>
+document.querySelectorAll('.video-tile video').forEach(function (v) {
+  v.addEventListener('play', function () { v.closest('.video-tile').classList.add('playing'); v.closest('.video-tile').scrollIntoView({ block: 'center', behavior: 'smooth' }); });
+});
+</script>
