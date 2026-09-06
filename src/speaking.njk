@@ -38,7 +38,7 @@ ogImage: /assets/david-studio-crossed.jpg
       <figure><img src="/assets/caesarea-amphitheater.jpg" alt="David in the amphitheater at Caesarea where Paul preached" width="1600" height="1067" loading="lazy"><figcaption>The amphitheater where Paul preached &middot; Caesarea</figcaption></figure>
       <figure><img src="/assets/martha-beck.jpg" alt="David, guest speaker at Dr. Martha Beck's conference in Colorado, with Dr. Beck" width="1600" height="1067" loading="lazy"><figcaption>Guest speaker at Dr. Martha Beck&rsquo;s conference &middot; Colorado</figcaption></figure>
       <figure><img src="/assets/refugee-family-istanbul.jpg" alt="David with a refugee family in Istanbul" width="1600" height="1067" loading="lazy"><figcaption>Ministering to a refugee family &middot; Istanbul</figcaption></figure>
-      <figure><img src="/assets/older-brother-retreat.jpg" alt="David with his older brother at a men's retreat" width="1600" height="1067" loading="lazy"><figcaption>Seeing my older brother at the retreat</figcaption></figure>
+      <figure class="video-tile yt" data-yt="KXi11Jnyo7o"><img src="https://i.ytimg.com/vi/KXi11Jnyo7o/hqdefault.jpg" alt="Missionary trip to Istanbul 2025" width="480" height="360" loading="lazy"><button type="button" class="play" aria-label="Play video: Missionary trip to Istanbul 2025"><span></span></button><figcaption>Missionary trip to Istanbul 2025 &middot; video</figcaption></figure>
       <figure class="video-tile"><video controls preload="metadata" playsinline poster="/assets/house-church-istanbul-poster.jpg"><source src="/assets/house-church-istanbul.mp4" type="video/mp4"></video><button type="button" class="play" aria-label="Play: Worshipping with a house church in Istanbul"><span></span></button><figcaption>Worshipping with a house church &middot; Istanbul &middot; video</figcaption></figure>
     </div>
   </div>
@@ -104,17 +104,28 @@ ogImage: /assets/david-studio-crossed.jpg
 <script>
 document.querySelectorAll('.video-tile').forEach(function (tile) {
   var v = tile.querySelector('video');
+  var yt = tile.getAttribute('data-yt');
   function start() {
+    if (tile.classList.contains('playing')) return;
     tile.classList.add('playing');
-    var p = v.play();
-    if (p && p.catch) { p.catch(function () {}); }
+    if (yt) {
+      var f = document.createElement('iframe');
+      f.src = 'https://www.youtube-nocookie.com/embed/' + yt + '?autoplay=1&rel=0&modestbranding=1';
+      f.allow = 'accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share';
+      f.allowFullscreen = true;
+      f.title = tile.querySelector('img').alt;
+      tile.insertBefore(f, tile.firstChild);
+    } else if (v) {
+      var p = v.play();
+      if (p && p.catch) { p.catch(function () {}); }
+    }
     tile.scrollIntoView({ block: 'center', behavior: 'smooth' });
   }
   tile.querySelector('.play').addEventListener('click', function (e) { e.stopPropagation(); start(); });
   tile.addEventListener('click', function (e) {
-    if (tile.classList.contains('playing')) return;   // native controls take over once playing
+    if (tile.classList.contains('playing')) return;
     e.preventDefault(); start();
   });
-  v.addEventListener('play', function () { tile.classList.add('playing'); });
+  if (v) { v.addEventListener('play', function () { tile.classList.add('playing'); }); }
 });
 </script>

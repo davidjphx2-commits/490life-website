@@ -181,6 +181,7 @@ h2.section-title { font-size: clamp(2.1rem, 4vw, 3rem); margin-bottom: 1rem; }
 .story .section-head p { font-size: 1rem; color: var(--ink-soft); max-width: 54ch; }
 .strip { display: grid; grid-template-columns: 1.1fr 0.8fr 1.1fr 1.1fr; gap: 0.9rem; align-items: start; }
 .strip.strip-5 { grid-template-columns: 1fr 1fr 1fr 1fr 0.8fr; }
+.strip.strip-6 { grid-template-columns: repeat(3, 1fr); }
 .strip figure { margin: 0; position: relative; border-radius: var(--radius); overflow: hidden; aspect-ratio: 4 / 3; background: var(--mist); }
 .strip figure.tall { aspect-ratio: 4 / 5; }
 .strip img { width: 100%; height: 100%; object-fit: cover; transition: transform 0.5s ease; }
@@ -310,6 +311,8 @@ h2.section-title { font-size: clamp(2.1rem, 4vw, 3rem); margin-bottom: 1rem; }
 .photo-pair { display: grid; grid-template-columns: 1fr 1fr; gap: 0.9rem; }
 .photo-pair.three { grid-template-columns: repeat(3, 1fr); }
 .video-tile { background: var(--deep); cursor: pointer; }
+.video-tile img { width: 100%; height: 100%; object-fit: cover; display: block; }
+.video-tile iframe { position: absolute; inset: 0; width: 100%; height: 100%; border: 0; z-index: 2; }
 .video-tile video { width: 100%; height: 100%; object-fit: cover; display: block; }
 .video-tile figcaption { pointer-events: none; }
 .video-tile .play { position: absolute; left: 50%; top: 50%; transform: translate(-50%, -50%); width: 64px; height: 64px; border-radius: 50%; border: 0; background: rgba(255, 255, 255, 0.92); cursor: pointer; box-shadow: 0 10px 30px -10px rgba(0, 0, 0, 0.6); transition: transform 0.15s ease, background 0.15s ease; }
@@ -419,7 +422,7 @@ h2.section-title { font-size: clamp(2.1rem, 4vw, 3rem); margin-bottom: 1rem; }
   .hero-cover { max-width: 260px; margin: 0 auto; order: -1; }
   .hero-cover img { transform: none; }
   .thesis .container, .speak-grid, .coach-grid, .two-col, .page-hero .split, .story .container > .section-head { grid-template-columns: 1fr; gap: 1.6rem; }
-  .strip, .strip.strip-5 { grid-template-columns: 1fr 1fr; }
+  .strip, .strip.strip-5, .strip.strip-6 { grid-template-columns: 1fr 1fr; }
   .photo-pair.three { grid-template-columns: 1fr 1fr; }
   .journey-grid { grid-template-columns: 1fr; }
   .about-grid { grid-template-columns: 1fr; gap: 1.8rem; }
@@ -434,7 +437,7 @@ h2.section-title { font-size: clamp(2.1rem, 4vw, 3rem); margin-bottom: 1rem; }
 
 }
 @media (max-width: 560px) {
-  .doors-grid, .teaching-grid, .strip, .strip.strip-5, .photo-pair, .photo-pair.three, .footer-grid { grid-template-columns: 1fr; }
+  .doors-grid, .teaching-grid, .strip, .strip.strip-5, .strip.strip-6, .photo-pair, .photo-pair.three, .footer-grid { grid-template-columns: 1fr; }
   .strip figure, .strip figure.tall { aspect-ratio: 4 / 3; }
   .diagram-card { padding: 0.9rem 0.6rem 0.6rem; }
 }
