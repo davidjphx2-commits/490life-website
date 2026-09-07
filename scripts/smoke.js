@@ -10,6 +10,8 @@ const expectPages = [
   "seventy-times-seven/index.html",
   "teachings/index.html",
   "teachings/necessities-of-effective-prayer-mark-11/index.html",
+  "teachings/the-end-of-counting/index.html",
+  "assets/490-life-study-guide-the-end-of-counting.pdf",
   "about/index.html",
   "coaching/index.html",
   "speaking/index.html",
