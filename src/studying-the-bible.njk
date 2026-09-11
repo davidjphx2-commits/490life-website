@@ -20,6 +20,21 @@ description: "A practical guide to reading Scripture well: context, observation,
 </header>
 
 <article class="post-body resource">
+<style>
+.sg-figure { text-align: center; margin: 0 0 2.2rem; }
+.sg-figure img { width: 100%; height: auto; border: 1px solid var(--foam); border-radius: var(--radius); }
+.sg-figure .sg-cap { font-size: 0.88rem; color: var(--ink-faint); font-style: italic; margin-top: 0.6rem; line-height: 1.4; }
+.kit { display: grid; grid-template-columns: repeat(7, 1fr); gap: 0.7rem; margin: 1.4rem 0 1.8rem; }
+.kit a, .kit span { display: flex; flex-direction: column; align-items: center; gap: 0.5rem; padding: 0.9rem 0.4rem; background: #fff; border: 1px solid var(--line); border-top: 3px solid var(--gold); border-radius: var(--radius); text-decoration: none; color: var(--deep); font-size: 0.8rem; line-height: 1.25; text-align: center; font-weight: 600; }
+.kit a:hover { border-color: var(--foam); color: var(--ocean); }
+.kit svg { width: 30px; height: 30px; color: var(--ocean); }
+@media (max-width: 720px) { .kit { grid-template-columns: repeat(4, 1fr); } }
+@media (max-width: 480px) { .kit { grid-template-columns: repeat(2, 1fr); } }
+</style>
+<div class="sg-figure">
+<img src="/assets/study-kitchen-table.jpg" alt="Engraved illustration: a man at a kitchen table before dawn, an open Bible under a small lamp, a notebook and a mug of coffee beside it" width="1344" height="768" loading="eager">
+<div class="sg-cap">Not a classroom. A kitchen table, a lamp, and a Tuesday. That is where most of the knowing happens.</div>
+</div>
 <p>
   The Bible is not only a book to be read. It is a book to be <em>studied</em>, and there is a difference. Reading gives you familiarity. Study gives you understanding. And understanding is what changes a life.
 </p>
@@ -48,6 +63,89 @@ description: "A practical guide to reading Scripture well: context, observation,
 
 <hr>
 
+<div class="diagram-card">
+  <svg viewBox="0 0 700 250" xmlns="http://www.w3.org/2000/svg" style="width:100%;max-width:880px;" role="img" aria-labelledby="stepsTitle">
+    <title id="stepsTitle">Five steps of Bible study: Read, Interpret, Evaluate, Apply, Correlate, and back to Read</title>
+    <defs>
+      <linearGradient id="stepFill" x1="0" y1="0" x2="0" y2="1">
+        <stop offset="0" stop-color="#FFFFFF"/>
+        <stop offset="1" stop-color="#F2F7F6"/>
+      </linearGradient>
+      <filter id="stepShadow" x="-20%" y="-20%" width="140%" height="140%">
+        <feDropShadow dx="0" dy="3" stdDeviation="4" flood-color="#1B2A2E" flood-opacity="0.22"/>
+      </filter>
+      <marker id="stepArrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+        <path d="M0,0 L10,5 L0,10 z" fill="#0E3B45"/>
+      </marker>
+      <marker id="stepArrowGold" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+        <path d="M0,0 L10,5 L0,10 z" fill="#A2761F"/>
+      </marker>
+    </defs>
+
+    <text x="350" y="22" text-anchor="middle" font-size="15" font-weight="700" fill="#1B2A2E">Five Steps, One Question Each</text>
+
+    <!-- step cards: x = 12, 150, 288, 426, 564; width 124 -->
+    <g filter="url(#stepShadow)">
+      <rect x="12" y="44" width="124" height="118" rx="8" fill="url(#stepFill)" stroke="#1B2A2E" stroke-width="1.2"/>
+      <rect x="12" y="44" width="124" height="8" rx="4" fill="#A2761F"/>
+      <circle cx="74" cy="72" r="13" fill="#0E3B45"/>
+      <text x="74" y="77" text-anchor="middle" font-size="13" font-weight="700" fill="#FFFFFF">1</text>
+      <text x="74" y="103" text-anchor="middle" font-size="14" font-weight="700" fill="#1B2A2E">Read</text>
+      <text x="74" y="126" text-anchor="middle" font-size="10.5" fill="#4E6166">What does</text>
+      <text x="74" y="140" text-anchor="middle" font-size="10.5" fill="#4E6166">it say?</text>
+    </g>
+    <g filter="url(#stepShadow)">
+      <rect x="150" y="44" width="124" height="118" rx="8" fill="url(#stepFill)" stroke="#1B2A2E" stroke-width="1.2"/>
+      <rect x="150" y="44" width="124" height="8" rx="4" fill="#A2761F"/>
+      <circle cx="212" cy="72" r="13" fill="#0E3B45"/>
+      <text x="212" y="77" text-anchor="middle" font-size="13" font-weight="700" fill="#FFFFFF">2</text>
+      <text x="212" y="103" text-anchor="middle" font-size="14" font-weight="700" fill="#1B2A2E">Interpret</text>
+      <text x="212" y="126" text-anchor="middle" font-size="10.5" fill="#4E6166">What does</text>
+      <text x="212" y="140" text-anchor="middle" font-size="10.5" fill="#4E6166">it mean?</text>
+    </g>
+    <g filter="url(#stepShadow)">
+      <rect x="288" y="44" width="124" height="118" rx="8" fill="url(#stepFill)" stroke="#1B2A2E" stroke-width="1.2"/>
+      <rect x="288" y="44" width="124" height="8" rx="4" fill="#A2761F"/>
+      <circle cx="350" cy="72" r="13" fill="#0E3B45"/>
+      <text x="350" y="77" text-anchor="middle" font-size="13" font-weight="700" fill="#FFFFFF">3</text>
+      <text x="350" y="103" text-anchor="middle" font-size="14" font-weight="700" fill="#1B2A2E">Evaluate</text>
+      <text x="350" y="126" text-anchor="middle" font-size="10.5" fill="#4E6166">Am I on</text>
+      <text x="350" y="140" text-anchor="middle" font-size="10.5" fill="#4E6166">solid ground?</text>
+    </g>
+    <g filter="url(#stepShadow)">
+      <rect x="426" y="44" width="124" height="118" rx="8" fill="url(#stepFill)" stroke="#1B2A2E" stroke-width="1.2"/>
+      <rect x="426" y="44" width="124" height="8" rx="4" fill="#A2761F"/>
+      <circle cx="488" cy="72" r="13" fill="#0E3B45"/>
+      <text x="488" y="77" text-anchor="middle" font-size="13" font-weight="700" fill="#FFFFFF">4</text>
+      <text x="488" y="103" text-anchor="middle" font-size="14" font-weight="700" fill="#1B2A2E">Apply</text>
+      <text x="488" y="126" text-anchor="middle" font-size="10.5" fill="#4E6166">What does it</text>
+      <text x="488" y="140" text-anchor="middle" font-size="10.5" fill="#4E6166">mean for me?</text>
+    </g>
+    <g filter="url(#stepShadow)">
+      <rect x="564" y="44" width="124" height="118" rx="8" fill="url(#stepFill)" stroke="#1B2A2E" stroke-width="1.2"/>
+      <rect x="564" y="44" width="124" height="8" rx="4" fill="#A2761F"/>
+      <circle cx="626" cy="72" r="13" fill="#0E3B45"/>
+      <text x="626" y="77" text-anchor="middle" font-size="13" font-weight="700" fill="#FFFFFF">5</text>
+      <text x="626" y="103" text-anchor="middle" font-size="14" font-weight="700" fill="#1B2A2E">Correlate</text>
+      <text x="626" y="126" text-anchor="middle" font-size="10.5" fill="#4E6166">Where else does</text>
+      <text x="626" y="140" text-anchor="middle" font-size="10.5" fill="#4E6166">Scripture say this?</text>
+    </g>
+
+    <!-- forward arrows between cards -->
+    <line x1="137" y1="103" x2="148" y2="103" stroke="#0E3B45" stroke-width="2" marker-end="url(#stepArrow)"/>
+    <line x1="275" y1="103" x2="286" y2="103" stroke="#0E3B45" stroke-width="2" marker-end="url(#stepArrow)"/>
+    <line x1="413" y1="103" x2="424" y2="103" stroke="#0E3B45" stroke-width="2" marker-end="url(#stepArrow)"/>
+    <line x1="551" y1="103" x2="562" y2="103" stroke="#0E3B45" stroke-width="2" marker-end="url(#stepArrow)"/>
+
+    <!-- loop back: correlate sends you back into the text -->
+    <path d="M626,164 L626,196 L74,196 L74,166" fill="none" stroke="#A2761F" stroke-width="2" stroke-dasharray="5 4" marker-end="url(#stepArrowGold)"/>
+    <rect x="240" y="186" width="220" height="20" rx="10" fill="#FFFFFF"/>
+    <text x="350" y="200" text-anchor="middle" font-size="10.5" fill="#A2761F" font-weight="600">and the whole Bible sends you back to the text</text>
+
+    <text x="350" y="236" text-anchor="middle" font-size="11" fill="#4E6166" font-style="italic">Prayer before, humility throughout. The Spirit who wrote it is the one who teaches it.</text>
+  </svg>
+</div>
+
 <h2>Step 1: Read</h2>
 
 <p>
@@ -65,6 +163,143 @@ description: "A practical guide to reading Scripture well: context, observation,
   days. In less than three years you can know the entire New Testament this way. There is no
   substitute for this kind of immersive, repeated reading.
 </p>
+
+<div class="diagram-card">
+  <svg viewBox="0 0 700 300" xmlns="http://www.w3.org/2000/svg" style="width:100%;max-width:880px;" role="img" aria-labelledby="calTitle">
+    <title id="calTitle">The thirty-day method: read one whole New Testament book every day for a month; split long books into seven-chapter blocks</title>
+    <defs>
+      <linearGradient id="calFill" x1="0" y1="0" x2="0" y2="1">
+        <stop offset="0" stop-color="#FFFFFF"/>
+        <stop offset="1" stop-color="#F2F7F6"/>
+      </linearGradient>
+      <filter id="calShadow" x="-20%" y="-20%" width="140%" height="140%">
+        <feDropShadow dx="0" dy="3" stdDeviation="4" flood-color="#1B2A2E" flood-opacity="0.22"/>
+      </filter>
+      <marker id="calArrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+        <path d="M0,0 L10,5 L0,10 z" fill="#A2761F"/>
+      </marker>
+    </defs>
+    <text x="350" y="22" text-anchor="middle" font-size="15" font-weight="700" fill="#1B2A2E">The Thirty-Day Method</text>
+    <text x="350" y="38" text-anchor="middle" font-size="11" fill="#4E6166">One book. Every day. Until you know it.</text>
+    <g filter="url(#calShadow)">
+      <rect x="14" y="54" width="332" height="222" rx="8" fill="url(#calFill)" stroke="#1B2A2E" stroke-width="1.2"/>
+      <rect x="14" y="54" width="332" height="8" rx="4" fill="#A2761F"/>
+      <text x="180" y="84" text-anchor="middle" font-size="13" font-weight="700" fill="#1B2A2E">Short book: 1 John (5 chapters)</text>
+      <text x="180" y="99" text-anchor="middle" font-size="10.5" fill="#4E6166">the whole book, in one sitting, thirty days straight</text>
+      <rect x="30" y="110" width="46" height="26" rx="4" fill="#FFFFFF" stroke="#0E3B45" stroke-width="1"/>
+      <text x="38" y="121" font-size="7.5" fill="#4E6166">Day 1</text>
+      <text x="53" y="131" text-anchor="middle" font-size="8.5" font-weight="600" fill="#1B2A2E">1 John</text>
+      <rect x="82" y="110" width="46" height="26" rx="4" fill="#FFFFFF" stroke="#0E3B45" stroke-width="1"/>
+      <text x="90" y="121" font-size="7.5" fill="#4E6166">Day 2</text>
+      <text x="105" y="131" text-anchor="middle" font-size="8.5" font-weight="600" fill="#1B2A2E">1 John</text>
+      <rect x="134" y="110" width="46" height="26" rx="4" fill="#FFFFFF" stroke="#0E3B45" stroke-width="1"/>
+      <text x="142" y="121" font-size="7.5" fill="#4E6166">Day 3</text>
+      <text x="157" y="131" text-anchor="middle" font-size="8.5" font-weight="600" fill="#1B2A2E">1 John</text>
+      <rect x="186" y="110" width="46" height="26" rx="4" fill="#FFFFFF" stroke="#0E3B45" stroke-width="1"/>
+      <text x="194" y="121" font-size="7.5" fill="#4E6166">Day 4</text>
+      <text x="209" y="131" text-anchor="middle" font-size="8.5" font-weight="600" fill="#1B2A2E">1 John</text>
+      <rect x="238" y="110" width="46" height="26" rx="4" fill="#FFFFFF" stroke="#0E3B45" stroke-width="1"/>
+      <text x="246" y="121" font-size="7.5" fill="#4E6166">Day 5</text>
+      <text x="261" y="131" text-anchor="middle" font-size="8.5" font-weight="600" fill="#1B2A2E">1 John</text>
+      <rect x="290" y="110" width="46" height="26" rx="4" fill="#FFFFFF" stroke="#0E3B45" stroke-width="1"/>
+      <text x="298" y="121" font-size="7.5" fill="#4E6166">Day 6</text>
+      <text x="313" y="131" text-anchor="middle" font-size="8.5" font-weight="600" fill="#1B2A2E">1 John</text>
+      <rect x="30" y="142" width="46" height="26" rx="4" fill="#FFFFFF" stroke="#0E3B45" stroke-width="1"/>
+      <text x="38" y="153" font-size="7.5" fill="#4E6166">Day 7</text>
+      <text x="53" y="163" text-anchor="middle" font-size="8.5" font-weight="600" fill="#1B2A2E">1 John</text>
+      <rect x="82" y="142" width="46" height="26" rx="4" fill="#FFFFFF" stroke="#0E3B45" stroke-width="1"/>
+      <text x="90" y="153" font-size="7.5" fill="#4E6166">Day 8</text>
+      <text x="105" y="163" text-anchor="middle" font-size="8.5" font-weight="600" fill="#1B2A2E">1 John</text>
+      <rect x="134" y="142" width="46" height="26" rx="4" fill="#FFFFFF" stroke="#0E3B45" stroke-width="1"/>
+      <text x="142" y="153" font-size="7.5" fill="#4E6166">Day 9</text>
+      <text x="157" y="163" text-anchor="middle" font-size="8.5" font-weight="600" fill="#1B2A2E">1 John</text>
+      <rect x="186" y="142" width="46" height="26" rx="4" fill="#FFFFFF" stroke="#0E3B45" stroke-width="1"/>
+      <text x="194" y="153" font-size="7.5" fill="#4E6166">Day 10</text>
+      <text x="209" y="163" text-anchor="middle" font-size="8.5" font-weight="600" fill="#1B2A2E">1 John</text>
+      <rect x="238" y="142" width="46" height="26" rx="4" fill="#FFFFFF" stroke="#0E3B45" stroke-width="1"/>
+      <text x="246" y="153" font-size="7.5" fill="#4E6166">Day 11</text>
+      <text x="261" y="163" text-anchor="middle" font-size="8.5" font-weight="600" fill="#1B2A2E">1 John</text>
+      <rect x="290" y="142" width="46" height="26" rx="4" fill="#FFFFFF" stroke="#0E3B45" stroke-width="1"/>
+      <text x="298" y="153" font-size="7.5" fill="#4E6166">Day 12</text>
+      <text x="313" y="163" text-anchor="middle" font-size="8.5" font-weight="600" fill="#1B2A2E">1 John</text>
+      <rect x="30" y="174" width="46" height="26" rx="4" fill="#FFFFFF" stroke="#0E3B45" stroke-width="1"/>
+      <text x="38" y="185" font-size="7.5" fill="#4E6166">Day 13</text>
+      <text x="53" y="195" text-anchor="middle" font-size="8.5" font-weight="600" fill="#1B2A2E">1 John</text>
+      <rect x="82" y="174" width="46" height="26" rx="4" fill="#FFFFFF" stroke="#0E3B45" stroke-width="1"/>
+      <text x="90" y="185" font-size="7.5" fill="#4E6166">Day 14</text>
+      <text x="105" y="195" text-anchor="middle" font-size="8.5" font-weight="600" fill="#1B2A2E">1 John</text>
+      <rect x="134" y="174" width="46" height="26" rx="4" fill="#FFFFFF" stroke="#0E3B45" stroke-width="1"/>
+      <text x="142" y="185" font-size="7.5" fill="#4E6166">Day 15</text>
+      <text x="157" y="195" text-anchor="middle" font-size="8.5" font-weight="600" fill="#1B2A2E">1 John</text>
+      <rect x="186" y="174" width="46" height="26" rx="4" fill="#FFFFFF" stroke="#0E3B45" stroke-width="1"/>
+      <text x="194" y="185" font-size="7.5" fill="#4E6166">Day 16</text>
+      <text x="209" y="195" text-anchor="middle" font-size="8.5" font-weight="600" fill="#1B2A2E">1 John</text>
+      <rect x="238" y="174" width="46" height="26" rx="4" fill="#FFFFFF" stroke="#0E3B45" stroke-width="1"/>
+      <text x="246" y="185" font-size="7.5" fill="#4E6166">Day 17</text>
+      <text x="261" y="195" text-anchor="middle" font-size="8.5" font-weight="600" fill="#1B2A2E">1 John</text>
+      <rect x="290" y="174" width="46" height="26" rx="4" fill="#FFFFFF" stroke="#0E3B45" stroke-width="1"/>
+      <text x="298" y="185" font-size="7.5" fill="#4E6166">Day 18</text>
+      <text x="313" y="195" text-anchor="middle" font-size="8.5" font-weight="600" fill="#1B2A2E">1 John</text>
+      <rect x="30" y="206" width="46" height="26" rx="4" fill="#FFFFFF" stroke="#0E3B45" stroke-width="1"/>
+      <text x="38" y="217" font-size="7.5" fill="#4E6166">Day 19</text>
+      <text x="53" y="227" text-anchor="middle" font-size="8.5" font-weight="600" fill="#1B2A2E">1 John</text>
+      <rect x="82" y="206" width="46" height="26" rx="4" fill="#FFFFFF" stroke="#0E3B45" stroke-width="1"/>
+      <text x="90" y="217" font-size="7.5" fill="#4E6166">Day 20</text>
+      <text x="105" y="227" text-anchor="middle" font-size="8.5" font-weight="600" fill="#1B2A2E">1 John</text>
+      <rect x="134" y="206" width="46" height="26" rx="4" fill="#FFFFFF" stroke="#0E3B45" stroke-width="1"/>
+      <text x="142" y="217" font-size="7.5" fill="#4E6166">Day 21</text>
+      <text x="157" y="227" text-anchor="middle" font-size="8.5" font-weight="600" fill="#1B2A2E">1 John</text>
+      <rect x="186" y="206" width="46" height="26" rx="4" fill="#FFFFFF" stroke="#0E3B45" stroke-width="1"/>
+      <text x="194" y="217" font-size="7.5" fill="#4E6166">Day 22</text>
+      <text x="209" y="227" text-anchor="middle" font-size="8.5" font-weight="600" fill="#1B2A2E">1 John</text>
+      <rect x="238" y="206" width="46" height="26" rx="4" fill="#FFFFFF" stroke="#0E3B45" stroke-width="1"/>
+      <text x="246" y="217" font-size="7.5" fill="#4E6166">Day 23</text>
+      <text x="261" y="227" text-anchor="middle" font-size="8.5" font-weight="600" fill="#1B2A2E">1 John</text>
+      <rect x="290" y="206" width="46" height="26" rx="4" fill="#FFFFFF" stroke="#0E3B45" stroke-width="1"/>
+      <text x="298" y="217" font-size="7.5" fill="#4E6166">Day 24</text>
+      <text x="313" y="227" text-anchor="middle" font-size="8.5" font-weight="600" fill="#1B2A2E">1 John</text>
+      <rect x="30" y="238" width="46" height="26" rx="4" fill="#FFFFFF" stroke="#0E3B45" stroke-width="1"/>
+      <text x="38" y="249" font-size="7.5" fill="#4E6166">Day 25</text>
+      <text x="53" y="259" text-anchor="middle" font-size="8.5" font-weight="600" fill="#1B2A2E">1 John</text>
+      <rect x="82" y="238" width="46" height="26" rx="4" fill="#FFFFFF" stroke="#0E3B45" stroke-width="1"/>
+      <text x="90" y="249" font-size="7.5" fill="#4E6166">Day 26</text>
+      <text x="105" y="259" text-anchor="middle" font-size="8.5" font-weight="600" fill="#1B2A2E">1 John</text>
+      <rect x="134" y="238" width="46" height="26" rx="4" fill="#FFFFFF" stroke="#0E3B45" stroke-width="1"/>
+      <text x="142" y="249" font-size="7.5" fill="#4E6166">Day 27</text>
+      <text x="157" y="259" text-anchor="middle" font-size="8.5" font-weight="600" fill="#1B2A2E">1 John</text>
+      <rect x="186" y="238" width="46" height="26" rx="4" fill="#FFFFFF" stroke="#0E3B45" stroke-width="1"/>
+      <text x="194" y="249" font-size="7.5" fill="#4E6166">Day 28</text>
+      <text x="209" y="259" text-anchor="middle" font-size="8.5" font-weight="600" fill="#1B2A2E">1 John</text>
+      <rect x="238" y="238" width="46" height="26" rx="4" fill="#FFFFFF" stroke="#0E3B45" stroke-width="1"/>
+      <text x="246" y="249" font-size="7.5" fill="#4E6166">Day 29</text>
+      <text x="261" y="259" text-anchor="middle" font-size="8.5" font-weight="600" fill="#1B2A2E">1 John</text>
+      <rect x="290" y="238" width="46" height="26" rx="4" fill="#0E3B45" stroke="#0E3B45" stroke-width="1"/>
+      <text x="298" y="249" font-size="7.5" fill="#D7ECE8">Day 30</text>
+      <text x="313" y="259" text-anchor="middle" font-size="8.5" font-weight="600" fill="#FFFFFF">1 John</text>
+    </g>
+    <g filter="url(#calShadow)">
+      <rect x="362" y="54" width="324" height="222" rx="8" fill="url(#calFill)" stroke="#1B2A2E" stroke-width="1.2"/>
+      <rect x="362" y="54" width="324" height="8" rx="4" fill="#0E3B45"/>
+      <text x="524" y="84" text-anchor="middle" font-size="13" font-weight="700" fill="#1B2A2E">Long book: John (21 chapters)</text>
+      <text x="524" y="99" text-anchor="middle" font-size="10.5" fill="#4E6166">split into three blocks of seven, thirty days each</text>
+      <rect x="380" y="112" width="200" height="32" rx="6" fill="#FFFFFF" stroke="#0E3B45" stroke-width="1"/>
+      <rect x="380" y="112" width="66" height="32" rx="6" fill="#D7ECE8" opacity="0.9"/>
+      <text x="392" y="132" font-size="11.5" font-weight="600" fill="#1B2A2E">Chapters 1 to 7</text>
+      <text x="598" y="132" font-size="10.5" fill="#4E6166">Days 1 to 30</text>
+      <rect x="380" y="154" width="200" height="32" rx="6" fill="#FFFFFF" stroke="#0E3B45" stroke-width="1"/>
+      <rect x="380" y="154" width="132" height="32" rx="6" fill="#D7ECE8" opacity="0.9"/>
+      <text x="392" y="174" font-size="11.5" font-weight="600" fill="#1B2A2E">Chapters 8 to 14</text>
+      <text x="598" y="174" font-size="10.5" fill="#4E6166">Days 31 to 60</text>
+      <rect x="380" y="196" width="200" height="32" rx="6" fill="#FFFFFF" stroke="#0E3B45" stroke-width="1"/>
+      <rect x="380" y="196" width="198" height="32" rx="6" fill="#D7ECE8" opacity="0.9"/>
+      <text x="392" y="216" font-size="11.5" font-weight="600" fill="#1B2A2E">Chapters 15 to 21</text>
+      <text x="598" y="216" font-size="10.5" fill="#4E6166">Days 61 to 90</text>
+      <line x1="380" y1="246" x2="580" y2="246" stroke="#A2761F" stroke-width="2" marker-end="url(#calArrow)"/>
+      <text x="480" y="264" text-anchor="middle" font-size="11" font-weight="700" fill="#A2761F">Ninety days. You know John.</text>
+    </g>
+    <text x="350" y="293" text-anchor="middle" font-size="11" fill="#1B2A2E" font-style="italic">Then the next book. Book by book, until the whole New Testament is yours. Write each chapter&apos;s theme on a card as you go.</text>
+  </svg>
+</div>
 
 <p>
   As you read, write down the theme of each chapter on a small card. Memorize those themes as
@@ -91,9 +326,93 @@ description: "A practical guide to reading Scripture well: context, observation,
 </p>
 
 <p>
-  A few essential rules to keep you on track:
+  Five rules keep you on track. Think of them as the tick marks on the rod:
 </p>
 
+
+<div class="diagram-card">
+  <svg viewBox="0 0 700 250" xmlns="http://www.w3.org/2000/svg" style="width:100%;max-width:880px;" role="img" aria-labelledby="rodTitle">
+    <title id="rodTitle">The measuring rod: five rules for interpreting any verse, measured against the whole of Scripture</title>
+    <defs>
+      <linearGradient id="rodFill" x1="0" y1="0" x2="0" y2="1">
+        <stop offset="0" stop-color="#E8D3A0"/>
+        <stop offset="1" stop-color="#C8A24C"/>
+      </linearGradient>
+      <filter id="rodShadow" x="-20%" y="-20%" width="140%" height="140%">
+        <feDropShadow dx="0" dy="3" stdDeviation="4" flood-color="#1B2A2E" flood-opacity="0.22"/>
+      </filter>
+      <marker id="rodArrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+        <path d="M0,0 L10,5 L0,10 z" fill="#0E3B45"/>
+      </marker>
+    </defs>
+
+    <text x="350" y="22" text-anchor="middle" font-size="15" font-weight="700" fill="#1B2A2E">The Measuring Rod</text>
+    <text x="350" y="38" text-anchor="middle" font-size="11" fill="#4E6166">Canon means &#8220;measuring rod.&#8221; Scripture is its own interpreter, so every verse is measured against the whole.</text>
+
+    <!-- the verse being measured -->
+    <g filter="url(#rodShadow)">
+      <rect x="250" y="56" width="200" height="40" rx="8" fill="#FFFFFF" stroke="#1B2A2E" stroke-width="1.2"/>
+      <text x="350" y="73" text-anchor="middle" font-size="11" fill="#4E6166">the verse in front of you</text>
+      <text x="350" y="88" text-anchor="middle" font-size="12" font-weight="700" fill="#1B2A2E">&#8220;What does this mean?&#8221;</text>
+    </g>
+    <line x1="350" y1="98" x2="350" y2="120" stroke="#0E3B45" stroke-width="2" marker-end="url(#rodArrow)"/>
+
+    <!-- the rod -->
+    <g filter="url(#rodShadow)">
+      <rect x="20" y="124" width="660" height="34" rx="5" fill="url(#rodFill)" stroke="#A2761F" stroke-width="1.4"/>
+      <!-- tick marks -->
+      <g stroke="#0E3B45" stroke-width="1.6">
+        <line x1="86" y1="124" x2="86" y2="142"/>
+        <line x1="218" y1="124" x2="218" y2="142"/>
+        <line x1="350" y1="124" x2="350" y2="142"/>
+        <line x1="482" y1="124" x2="482" y2="142"/>
+        <line x1="614" y1="124" x2="614" y2="142"/>
+      </g>
+      <g stroke="#0E3B45" stroke-width="1" opacity="0.6">
+        <line x1="53" y1="124" x2="53" y2="133"/><line x1="119" y1="124" x2="119" y2="133"/>
+        <line x1="152" y1="124" x2="152" y2="133"/><line x1="185" y1="124" x2="185" y2="133"/>
+        <line x1="251" y1="124" x2="251" y2="133"/><line x1="284" y1="124" x2="284" y2="133"/>
+        <line x1="317" y1="124" x2="317" y2="133"/><line x1="383" y1="124" x2="383" y2="133"/>
+        <line x1="416" y1="124" x2="416" y2="133"/><line x1="449" y1="124" x2="449" y2="133"/>
+        <line x1="515" y1="124" x2="515" y2="133"/><line x1="548" y1="124" x2="548" y2="133"/>
+        <line x1="581" y1="124" x2="581" y2="133"/><line x1="647" y1="124" x2="647" y2="133"/>
+      </g>
+      <g font-size="11" font-weight="700" fill="#0E3B45" text-anchor="middle">
+        <text x="86" y="153">1</text><text x="218" y="153">2</text><text x="350" y="153">3</text><text x="482" y="153">4</text><text x="614" y="153">5</text>
+      </g>
+    </g>
+
+    <!-- the five rules under their ticks -->
+    <g font-size="10.5" fill="#1B2A2E" text-anchor="middle">
+      <text x="86" y="180" font-weight="700">Read it like</text>
+      <text x="86" y="194" font-weight="700">any other book</text>
+      <text x="86" y="209" fill="#4E6166">poetry as poetry,</text>
+      <text x="86" y="222" fill="#4E6166">history as history</text>
+
+      <text x="218" y="180" font-weight="700">Take the literal</text>
+      <text x="218" y="194" font-weight="700">sense seriously</text>
+      <text x="218" y="209" fill="#4E6166">the author&apos;s intended</text>
+      <text x="218" y="222" fill="#4E6166">meaning, in context</text>
+
+      <text x="350" y="180" font-weight="700">Explicit governs</text>
+      <text x="350" y="194" font-weight="700">implicit</text>
+      <text x="350" y="209" fill="#4E6166">no major doctrine on</text>
+      <text x="350" y="222" fill="#4E6166">what is only implied</text>
+
+      <text x="482" y="180" font-weight="700">Clear interprets</text>
+      <text x="482" y="194" font-weight="700">obscure</text>
+      <text x="482" y="209" fill="#4E6166">never the other</text>
+      <text x="482" y="222" fill="#4E6166">way around</text>
+
+      <text x="614" y="180" font-weight="700">Scripture interprets</text>
+      <text x="614" y="194" font-weight="700">Scripture</text>
+      <text x="614" y="209" fill="#4E6166">cross-references,</text>
+      <text x="614" y="222" fill="#4E6166">the whole counsel of God</text>
+    </g>
+
+    <text x="350" y="243" text-anchor="middle" font-size="11" fill="#1B2A2E" font-style="italic">If your reading of one passage contradicts the plain teaching of another, adjust the reading. Never the Bible.</text>
+  </svg>
+</div>
 <ul>
   <li>
     <strong>Read it like any other book.</strong> God communicated through real human authors
@@ -190,6 +509,16 @@ description: "A practical guide to reading Scripture well: context, observation,
 <hr>
 
 <h2>Practical Tips to Get Started Today</h2>
+
+<div class="kit">
+  <a href="https://www.crossway.org/bibles/esv-study-bible-case/" target="_blank" rel="noopener"><svg><use href="/assets/icons.svg#icon-bible"/></svg>A good study Bible</a>
+  <span><svg><use href="/assets/icons.svg#icon-letter"/></svg>Start with 1 John</span>
+  <span><svg><use href="/assets/icons.svg#icon-notebook"/></svg>Keep a notebook</span>
+  <a href="https://www.blueletterbible.org" target="_blank" rel="noopener"><svg><use href="/assets/icons.svg#icon-search"/></svg>Free online tools</a>
+  <span><svg><use href="/assets/icons.svg#icon-people"/></svg>Study in community</span>
+  <span><svg><use href="/assets/icons.svg#icon-sun"/></svg>Read it every day</span>
+  <span><svg><use href="/assets/icons.svg#icon-speak"/></svg>Teach what you learn</span>
+</div>
 
 <ul>
   <li>
