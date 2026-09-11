@@ -403,8 +403,8 @@ h2.section-title { font-size: clamp(2.1rem, 4vw, 3rem); margin-bottom: 1rem; }
   .strip.strip-5 { grid-template-columns: 1fr 1fr 1fr; }
   .footer-grid { grid-template-columns: 1fr 1fr; }
 }
-@media (max-width: 960px) {
-  /* mobile nav kicks in below 960 so the 8-item bar never wraps */
+@media (max-width: 1160px) {
+  /* mobile nav kicks in below 1160: the full 8-item bar measures ~1160px wide, so anything narrower overflowed the page (2026-09-10) */
   .nav-toggle { display: inline-block; }
   .site-nav { display: none; position: absolute; left: 0; right: 0; top: 100%; background: #fff; border-bottom: 1px solid var(--line); box-shadow: 0 24px 40px -24px rgba(14, 59, 69, 0.35); flex-direction: column; align-items: stretch; gap: 0; padding: 0.5rem 4vw 1rem; }
   .site-nav.open { display: flex; }
