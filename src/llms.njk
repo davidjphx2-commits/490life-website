@@ -4,24 +4,24 @@ eleventyExcludeFromCollections: true
 ---
 # 490 Life
 
-> David S. Jones — weekly Bible teachings, biblical coaching and mentoring for men, speaking for churches and men's groups, resources for the Christian life, and the book *Seventy Times Seven* — on the God who forgives past all counting. The name comes from Matthew 18:22: Jesus' command to forgive "seventy times seven."
+> David S. Jones: weekly Bible teachings, biblical coaching and mentoring for men, speaking for churches and men's groups, resources for the Christian life, and the book *Seventy Times Seven*, on the God who forgives past all counting. The name comes from Matthew 18:22: Jesus' command to forgive "seventy times seven."
 
 Author and site owner: David S. Jones (Arizona, USA). Contact: david@490.life.
 
 ## The Book
 
-- [Seventy Times Seven]({{ site.url }}/seventy-times-seven/): "Seventy Times Seven: On the God Who Forgives Past All Counting" — Christian living / forgiveness. ISBN 979-8-9969382-1-6, published by 490 Life Publishing, available on Amazon (paperback, hardcover, Kindle).
+- [Seventy Times Seven]({{ site.url }}/seventy-times-seven/): "Seventy Times Seven: On the God Who Forgives Past All Counting" (Christian living / forgiveness). ISBN 979-8-9969382-1-6, published by 490 Life Publishing, available on Amazon (paperback, hardcover, Kindle).
 
 ## Teachings (Bible studies)
 
-Weekly studies of Scripture — context, the original Greek words, practical application, and small-group discussion questions.
+Weekly studies of Scripture: context, the original Greek words, practical application, and small-group discussion questions.
 
 {% for post in collections.teachings | reverse -%}
-- [{{ post.data.title | safe }}]({{ site.url }}{{ post.url }}): {{ post.data.passage | safe }} — {{ post.data.description | safe }}
+- [{{ post.data.title | safe }}]({{ site.url }}{{ post.url }}): {{ post.data.passage | safe }}. {{ post.data.description | safe }}
 {% endfor %}
 ## Work with David
 
-- [Coaching]({{ site.url }}/coaching/): one-to-one biblical coaching and mentoring for men — Scripture-first; first conversation free.
+- [Coaching]({{ site.url }}/coaching/): one-to-one biblical coaching and mentoring for men. Scripture-first; first conversation free.
 - [Speaking]({{ site.url }}/speaking/): David speaks at churches, men's breakfasts, retreats, and conferences on forgiveness, the mind, prayer, and starting over.
 
 ## Resources
