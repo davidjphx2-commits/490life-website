@@ -14,6 +14,8 @@ const expectPages = [
   "assets/490-life-study-guide-the-end-of-counting.pdf",
   "about/index.html",
   "coaching/index.html",
+  "write-your-book/index.html",
+  "write-your-book/thanks/index.html",
   "speaking/index.html",
   "assets/david-headshot-beach.jpg",
   "assets/david-studio-crossed.jpg",
@@ -57,6 +59,7 @@ for (const file of htmlFiles(SITE)) {
   while ((m = hrefRe.exec(html))) {
     const target = m[1].replace(/\?.*$/, "");
     if (target === "/") continue;
+    if (target.startsWith("/x/")) continue; // analytics scripts are proxied at runtime, never in _site
     const asFile = path.join(SITE, target);
     const asIndex = path.join(SITE, target, "index.html");
     if (!fs.existsSync(asFile) && !fs.existsSync(asIndex)) {
