@@ -89,7 +89,7 @@ a:focus-visible, button:focus-visible, input:focus-visible { outline: 2px solid 
 
 .site-nav { display: flex; align-items: center; gap: 0; }
 .site-nav > a, .site-nav .nav-drop > a { display: inline-flex; align-items: center; height: 2.4rem; line-height: 1; }
-.site-nav > * + *::before { content: "\2726"; color: var(--gold); font-size: 0.55rem; opacity: 0.85; margin: 0 1.05rem; align-self: center; }
+.site-nav > * + *::before { content: "\2726"; color: var(--gold); font-size: 0.55rem; opacity: 0.85; margin: 0 0.6rem; align-self: center; }
 .site-nav > .nav-drop { display: inline-flex; align-items: center; }
 .site-nav > .nav-cta { margin-left: 1.4rem; height: auto; }
 .site-nav > .nav-cta::before { content: none; margin: 0; }
@@ -406,8 +406,8 @@ h2.section-title { font-size: clamp(2.1rem, 4vw, 3rem); margin-bottom: 1rem; }
   .strip.strip-5 { grid-template-columns: 1fr 1fr 1fr; }
   .footer-grid { grid-template-columns: 1fr 1fr; }
 }
-@media (max-width: 1160px) {
-  /* mobile nav kicks in below 1160: the full 8-item bar measures ~1160px wide, so anything narrower overflowed the page (2026-09-10) */
+@media (max-width: 1300px) {
+  /* mobile nav kicks in below 1300: brand + the full 9-item bar (Your Book added 2026-09-19, separator margins trimmed 1.05rem to 0.6rem) measures ~1165px, so anything narrower overflowed the container */
   .nav-toggle { display: inline-block; }
   .site-nav { display: none; position: absolute; left: 0; right: 0; top: 100%; background: #fff; border-bottom: 1px solid var(--line); box-shadow: 0 24px 40px -24px rgba(14, 59, 69, 0.35); flex-direction: column; align-items: stretch; gap: 0; padding: 0.5rem 4vw 1rem; }
   .site-nav.open { display: flex; }
@@ -452,3 +452,29 @@ h2.section-title { font-size: clamp(2.1rem, 4vw, 3rem); margin-bottom: 1rem; }
   .gallery { columns: 1; }
   .diagram-card { padding: 0.9rem 0.6rem 0.6rem; }
 }
+
+/* Write Your Book: tiers + faq + home strip (2026-09-19) */
+.tiers { display: grid; grid-template-columns: repeat(3, 1fr); gap: 1rem; margin-top: 2rem; align-items: stretch; }
+.tier { background: #fff; border: 1px solid var(--foam); border-radius: var(--radius); padding: 1.8rem 1.6rem; display: flex; flex-direction: column; gap: 0.6rem; }
+.tier .eyebrow { margin-bottom: 0; }
+.tier h3 { font-size: 1.7rem; color: var(--deep); }
+.tier .price { font-family: var(--display); font-size: 2.4rem; color: var(--deep); line-height: 1; margin: 0.2rem 0 0.4rem; font-weight: 600; }
+.tier .fit { font-size: 0.92rem; color: var(--ink-soft); }
+.tier ul { list-style: none; padding: 0; margin: 0.4rem 0 1rem; display: grid; gap: 0.35rem; font-size: 0.92rem; flex: 1; }
+.tier li::before { content: "\00b7"; color: var(--gold); font-weight: 700; margin-right: 0.5rem; }
+.tier .btn { align-self: flex-start; }
+.tier.featured { background: var(--deep); border-color: var(--deep); color: #fff; box-shadow: 0 28px 50px -30px rgba(14, 59, 69, 0.55); }
+.tier.featured h3, .tier.featured .price { color: #fff; }
+.tier.featured .eyebrow, .tier.featured li::before { color: var(--gold); }
+.tier.featured .fit, .tier.featured ul { color: rgba(255, 255, 255, 0.8); }
+.faq { display: grid; gap: 0.6rem; margin-top: 1.6rem; max-width: 72ch; }
+.faq details { border: 1px solid var(--line); border-radius: var(--radius); background: #fff; padding: 0.9rem 1.2rem; }
+.faq summary { cursor: pointer; font-family: var(--display); font-size: 1.3rem; color: var(--deep); }
+.faq details p { margin-top: 0.6rem; font-size: 0.95rem; color: var(--ink-soft); }
+.book-strip { background: var(--deep); color: #fff; }
+.book-strip .eyebrow { color: var(--gold); }
+.book-strip .section-title { color: #fff; }
+.book-strip p { color: rgba(255, 255, 255, 0.78); max-width: 60ch; }
+.book-strip-inner { display: flex; align-items: center; justify-content: space-between; gap: 2rem; padding: 3rem 0; }
+@media (max-width: 900px) { .tiers { grid-template-columns: 1fr; } }
+@media (max-width: 800px) { .book-strip-inner { flex-direction: column; align-items: flex-start; } }
