@@ -260,11 +260,15 @@ table.sg-syn td:first-child { font-weight: 600; color: var(--gold-deep); backgro
 
 <h3 class="sg-sign"><span class="sg-snum">1</span>Jeremiah 29:11</h3>
 
+<p><em>“For I know the plans I have for you, declares the LORD, plans for welfare and not for evil, to give you a future and a hope.”</em> (Jeremiah 29:11)</p>
+
 <div class="sg-vs"><div class="sg-feel"><span class="sg-lab">Often read as</span>“God has a plan to make my life go well, starting now.”</div><div class="sg-word"><span class="sg-lab">In context it says</span>God will keep his covenant with his exiled people, after seventy years in Babylon.</div></div>
 
-<p>“For I know the plans I have for you, declares the LORD, plans for welfare and not for evil, to give you a future and a hope.” The verse just before it says, “When seventy years are completed for Babylon, I will visit you” (29:10). Jeremiah is writing to people who have just been dragged into exile, and he is telling them to settle in, build houses, plant gardens, and pray for the city, because they are not going home soon (29:4–7). Most of the adults reading that letter would die in Babylon. The promise is real, and it does reach us, because God’s faithfulness to his covenant people runs all the way to Christ. But it is a promise of faithfulness through a long hardship, not a promise that the hardship will skip you.</p>
+<p>The verse just before it says, “When seventy years are completed for Babylon, I will visit you” (29:10). Jeremiah is writing to people who have just been dragged into exile, and he is telling them to settle in, build houses, plant gardens, and pray for the city, because they are not going home soon (29:4–7). Most of the adults reading that letter would die in Babylon. The promise is real, and it does reach us, because God’s faithfulness to his covenant people runs all the way to Christ. But it is a promise of faithfulness through a long hardship, not a promise that the hardship will skip you.</p>
 
 <h3 class="sg-sign"><span class="sg-snum">2</span>Philippians 4:13</h3>
+
+<p><em>“I can do all things through him who strengthens me.”</em> (Philippians 4:13)</p>
 
 <div class="sg-vs"><div class="sg-feel"><span class="sg-lab">Often read as</span>“With Jesus I can win the game, pass the test, close the deal.”</div><div class="sg-word"><span class="sg-lab">In context it says</span>Christ makes me content whether I am full or hungry, rich or poor.</div></div>
 
@@ -272,11 +276,15 @@ table.sg-syn td:first-child { font-weight: 600; color: var(--gold-deep); backgro
 
 <h3 class="sg-sign"><span class="sg-snum">3</span>Matthew 18:20</h3>
 
+<p><em>“For where two or three are gathered in my name, there am I among them.”</em> (Matthew 18:20)</p>
+
 <div class="sg-vs"><div class="sg-feel"><span class="sg-lab">Often read as</span>“Jesus shows up when at least two of us pray together.”</div><div class="sg-word"><span class="sg-lab">In context it says</span>Christ stands behind his church when it rightly deals with unrepentant sin.</div></div>
 
-<p>“For where two or three are gathered in my name, there am I among them.” The paragraph is about church discipline: going to a brother privately, then with “one or two others” as witnesses, then telling it to the church (18:15–17). The “two or three” echoes the witnesses required by the law (Deut. 19:15). Jesus is promising his authority and presence to the church as it does this hard work. He is present with his people in many ways. This verse is about one specific way.</p>
+<p>The paragraph is about church discipline: going to a brother privately, then with “one or two others” as witnesses, then telling it to the church (18:15–17). The “two or three” echoes the witnesses required by the law (Deut. 19:15). Jesus is promising his authority and presence to the church as it does this hard work. He is present with his people in many ways. This verse is about one specific way.</p>
 
 <h3 class="sg-sign"><span class="sg-snum">4</span>Isaiah 28:10</h3>
+
+<p><em>“For it is precept upon precept, precept upon precept, line upon line, line upon line, here a little, there a little.”</em> (Isaiah 28:10)</p>
 
 <div class="sg-vs"><div class="sg-feel"><span class="sg-lab">Often read as</span>“Precept upon precept, line upon line: God’s method for teaching us.”</div><div class="sg-word"><span class="sg-lab">In context it says</span>Drunken leaders mock Isaiah’s preaching as baby talk, and God answers with judgment.</div></div>
 
