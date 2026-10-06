@@ -175,6 +175,8 @@ h2.section-title { font-size: clamp(2.1rem, 4vw, 3rem); margin-bottom: 1rem; }
 /* meaning (older pages) */
 .meaning p { color: var(--ink-soft); margin-bottom: 1.1rem; }
 .meaning p strong { color: var(--ink); font-weight: 600; }
+.meaning h3 { font-family: var(--display); font-size: 1.6rem; font-weight: 600; color: var(--deep); margin: 2rem 0 0.6rem; }
+.meaning h3:first-child { margin-top: 0; }
 
 /* ── Story strip ──────────────────────────────────────── */
 .story .container > .section-head { display: grid; grid-template-columns: 1fr 1.2fr; gap: 2.4rem; }
