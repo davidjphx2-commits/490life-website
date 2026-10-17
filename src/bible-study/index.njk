@@ -1,0 +1,71 @@
+---
+layout: base.njk
+title: "The Whole Story: A Bible Study"
+description: "A 26-lesson walk through the whole Bible for anyone who did not grow up in church: one story from creation to new creation, with real dates, a timeline, and the two threads that carry the gospel from Genesis to Revelation."
+permalink: /bible-study/
+ogImage: /assets/whole-story-01-river.jpg
+---
+
+<style>
+.ws-hero img { width: 100%; max-width: 760px; border: 1px solid var(--gold-soft); border-radius: var(--radius); display: block; margin: 1.6rem auto 0.4rem; }
+.ws-hero .cap { text-align: center; font-size: 0.9rem; color: var(--ink-faint); font-style: italic; }
+.ws-how { display: grid; grid-template-columns: repeat(auto-fit, minmax(230px, 1fr)); gap: 1.1rem; margin: 2.4rem 0 1rem; }
+.ws-how div { background: var(--paper-warm); border: 1px solid var(--gold-soft); border-radius: var(--radius); padding: 1.1rem 1.3rem; }
+.ws-how b { display: block; font-family: var(--display); font-size: 1.3rem; color: var(--deep); margin-bottom: 0.3rem; }
+.ws-how p { margin: 0; color: var(--ink-soft); font-size: 0.97rem; line-height: 1.55; }
+.ws-unit { margin-top: 2.6rem; }
+.ws-unit h3 { font-size: 1.55rem; border-bottom: 3px solid var(--gold-soft); padding-bottom: 0.35rem; margin-bottom: 0.9rem; }
+.ws-unit h3 span { color: var(--gold-deep); }
+.ws-lesson { display: flex; gap: 1rem; align-items: baseline; padding: 0.7rem 0.2rem; border-bottom: 1px solid var(--line); }
+.ws-num { flex: 0 0 2.2rem; height: 2.2rem; border-radius: 50%; background: var(--paper-warm); border: 1.5px solid var(--gold-soft); color: var(--gold-deep); font-weight: 600; display: inline-flex; align-items: center; justify-content: center; font-size: 0.95rem; align-self: center; }
+.ws-lesson.live .ws-num { background: var(--deep); border-color: var(--deep); color: #fff; }
+.ws-body { flex: 1; }
+.ws-body .t { font-family: var(--display); font-size: 1.3rem; color: var(--ink-soft); }
+.ws-lesson.live .ws-body .t a { color: var(--deep); font-weight: 600; text-decoration: none; }
+.ws-lesson.live .ws-body .t a:hover { color: var(--ocean); }
+.ws-body .p { font-size: 0.86rem; color: var(--ink-faint); }
+.ws-tag { font-size: 0.72rem; letter-spacing: 0.14em; text-transform: uppercase; color: var(--ink-faint); white-space: nowrap; }
+.ws-lesson.live .ws-tag { color: var(--ocean); font-weight: 600; }
+</style>
+
+<section>
+  <div class="container">
+    <div class="center">
+      <div class="eyebrow">Bible Study</div>
+      <h2 class="section-title">The Whole Story.</h2>
+      <p class="lead narrow">Most people meet the Bible in pieces: a manger, an ark, a verse on a mug. This study puts the pieces together. Over twenty-six lessons we walk the whole Bible from the first page to the last, with real dates, a timeline you can keep in your head, and two threads that run from Genesis to Revelation. It is written for anyone who did not grow up in church, and for anyone who did and never saw how it all fits.</p>
+    </div>
+
+    <div class="ws-hero">
+      <img src="/assets/whole-story-01-river.jpg" alt="A single golden river winding from a garden with a great tree, past a tent camp and a walled city with a temple, to a radiant city on a distant mountain" loading="eager">
+      <div class="cap">The Bible begins and ends beside the same river (Genesis 2:10; Revelation 22:1).</div>
+    </div>
+
+    <div class="ws-how">
+      <div><b>One story</b><p>Creation, Fall, Redemption, Restoration. Every page of the Bible belongs to one of these four acts, and all of it points to Jesus (Luke 24:27).</p></div>
+      <div><b>Real history</b><p>Every lesson shows where it sits on the timeline, from Adam to Abraham, Moses, David, the temple, the exile, Jesus, and the church.</p></div>
+      <div><b>Two threads</b><p>God dwelling with his people, and the Lamb. Follow them from the garden to the tabernacle to the cross to the city of God.</p></div>
+      <div><b>For groups</b><p>Each lesson has discussion questions, practices for the week, and a printable study guide for your small group.</p></div>
+    </div>
+
+    {%- set published = collections.bibleStudy %}
+    {%- for unit in wholeStory.units %}
+    <div class="ws-unit">
+      <h3><span>Unit {{ loop.index }}:</span> {{ unit.name }}</h3>
+      {%- for l in unit.lessons %}
+        {%- set post = published | lessonPost(l.n) %}
+      <div class="ws-lesson{% if post %} live{% endif %}">
+        <span class="ws-num">{{ l.n }}</span>
+        <div class="ws-body">
+          <div class="t">{% if post %}<a href="{{ post.url }}">{{ l.title }}</a>{% else %}{{ l.title }}{% endif %}</div>
+          <div class="p">{{ l.passage }}</div>
+        </div>
+        <span class="ws-tag">{% if post %}Read now{% else %}Coming soon{% endif %}</span>
+      </div>
+      {%- endfor %}
+    </div>
+    {%- endfor %}
+  </div>
+</section>
+
+{% include "signup.njk" %}

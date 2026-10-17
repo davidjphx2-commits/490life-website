@@ -1,0 +1,43 @@
+{
+  "title": "The Whole Story",
+  "units": [
+    { "name": "Foundations", "lessons": [
+      { "n": 1, "title": "The Story Jesus Told", "passage": "Luke 24" },
+      { "n": 2, "title": "The God Who Is There", "passage": "Genesis 1; Psalm 19; John 1" },
+      { "n": 3, "title": "Creation and the Image of God", "passage": "Genesis 1–2" },
+      { "n": 4, "title": "The Fall", "passage": "Genesis 3" },
+      { "n": 5, "title": "Ruin Spreads: Cain, the Flood, and Babel", "passage": "Genesis 4–11" }
+    ]},
+    { "name": "The Promise", "lessons": [
+      { "n": 6, "title": "Abraham: The Call and the Covenant", "passage": "Genesis 12; 15; 22" },
+      { "n": 7, "title": "Isaac, Jacob, and Joseph", "passage": "Genesis 25–50" }
+    ]},
+    { "name": "Rescue and Covenant", "lessons": [
+      { "n": 8, "title": "The Exodus and the Passover Lamb", "passage": "Exodus 1–15" },
+      { "n": 9, "title": "Sinai: The Law and the Covenant", "passage": "Exodus 19–24" },
+      { "n": 10, "title": "The Tabernacle: God Moves In", "passage": "Exodus 25–40" },
+      { "n": 11, "title": "Sacrifice and the Day of Atonement", "passage": "Leviticus 16; Hebrews 9–10" },
+      { "n": 12, "title": "Wilderness and Conquest", "passage": "Numbers; Deuteronomy; Joshua" }
+    ]},
+    { "name": "The Kingdom", "lessons": [
+      { "n": 13, "title": "Judges and Ruth", "passage": "Judges; Ruth" },
+      { "n": 14, "title": "Saul, David, and a Forever King", "passage": "1–2 Samuel" },
+      { "n": 15, "title": "Solomon and the First Temple", "passage": "1 Kings 1–11" },
+      { "n": 16, "title": "A Kingdom Divided, Prophets Sent", "passage": "1 Kings 12 – 2 Kings 17" },
+      { "n": 17, "title": "Exile: The Temple Falls", "passage": "2 Kings 25; Jeremiah; Daniel" },
+      { "n": 18, "title": "Return: The Second Temple and the Silent Years", "passage": "Ezra; Nehemiah; Malachi" }
+    ]},
+    { "name": "The King Arrives", "lessons": [
+      { "n": 19, "title": "Who Jesus Is", "passage": "The Gospels" },
+      { "n": 20, "title": "The Kingdom of God", "passage": "Matthew 5–7; Mark 1" },
+      { "n": 21, "title": "The Cross: The Final Lamb", "passage": "Isaiah 53; Hebrews 10" },
+      { "n": 22, "title": "Resurrection and Ascension", "passage": "1 Corinthians 15; Acts 1" }
+    ]},
+    { "name": "The Church and the End", "lessons": [
+      { "n": 23, "title": "Acts: The Spirit and the Church", "passage": "Acts 1–12" },
+      { "n": 24, "title": "Paul’s Journeys and Letters", "passage": "Acts 13–28; Romans" },
+      { "n": 25, "title": "Peter, James, John, and Hebrews", "passage": "1–2 Peter; James; 1 John; Hebrews" },
+      { "n": 26, "title": "Revelation and the New Creation", "passage": "Revelation 21–22" }
+    ]}
+  ]
+}

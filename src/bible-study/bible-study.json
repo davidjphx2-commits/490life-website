@@ -1,0 +1,5 @@
+{
+  "layout": "post.njk",
+  "tags": ["bibleStudy"],
+  "permalink": "/bible-study/{{ page.fileSlug }}/"
+}

@@ -15,6 +15,11 @@ eleventyExcludeFromCollections: true
       <p class="lead narrow">Scripture taken seriously: the context, the original words, and what it asks of us. Some weeks that&rsquo;s a single passage; some weeks it&rsquo;s several verses woven into one study. A new one lands every week or so, and some weeks &ldquo;or so&rdquo; does a lot of heavy lifting. <a href="/#subscribe">Join the list</a> and each one comes to you the day it&rsquo;s ready. No calendar math required.</p>
     </div>
     <div class="teaching-list">
+      <article class="teaching-card" style="border-color: var(--gold-soft); background: var(--paper-warm);">
+        <div class="passage-badge">New Bible Study &middot; 26 Lessons</div>
+        <h3><a href="/bible-study/">The Whole Story</a></h3>
+        <p class="excerpt">A walk through the whole Bible from Genesis to Revelation, with real dates, a timeline, and the two threads that carry the gospel. Written for anyone who did not grow up in church. Start with Lesson 1, The Story Jesus Told.</p>
+      </article>
       {% for post in collections.teachings | reverse %}
       <article class="teaching-card">
         <div class="passage-badge">{{ post.data.passage }}</div>
