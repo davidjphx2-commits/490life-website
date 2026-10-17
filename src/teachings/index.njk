@@ -1,33 +1,60 @@
 ---
 layout: base.njk
 title: "Teachings"
-description: "Teachings from Scripture, every week or so: context, the original words, and what they ask of us."
+description: "Two ways to study Scripture with David: weekly teachings on a single passage, or The Whole Story, a 26-lesson walk through the entire Bible."
 permalink: /teachings/
 tags: []
 eleventyExcludeFromCollections: true
 ---
 
+<style>
+.track-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 1.6rem; margin-top: 2.4rem; }
+.track { display: flex; flex-direction: column; background: #fff; border: 1px solid var(--foam); border-radius: var(--radius); overflow: hidden; text-decoration: none; color: var(--ink); transition: transform 0.18s ease, box-shadow 0.18s ease; }
+.track:hover { transform: translateY(-4px); box-shadow: 0 22px 40px -24px rgba(14, 59, 69, 0.35); }
+.track .art { aspect-ratio: 4 / 3; background: var(--mist); border-bottom: 1px solid var(--foam); overflow: hidden; }
+.track .art img { width: 100%; height: 100%; object-fit: cover; display: block; }
+.track .body { padding: 1.5rem 1.6rem 1.6rem; display: flex; flex-direction: column; gap: 0.55rem; flex: 1; }
+.track h3 { font-size: 1.9rem; color: var(--deep); }
+.track p { color: var(--ink-soft); font-size: 0.98rem; line-height: 1.6; flex: 1; }
+.track .meta { font-size: 0.86rem; color: var(--ink-faint); border-top: 1px solid var(--line); padding-top: 0.7rem; }
+.track .meta b { color: var(--ink); font-weight: 600; }
+.track .go { font-size: 0.9rem; font-weight: 600; color: var(--ocean); }
+.track.study { border-color: var(--gold-soft); }
+.track.study .eyebrow, .track.study .go { color: var(--gold-deep); }
+@media (max-width: 760px) { .track-grid { grid-template-columns: 1fr; } }
+</style>
+
+{%- set latest = collections.teachings | reverse | first %}
+{%- set lessonCount = collections.bibleStudy | lessonsOnly | length %}
 <section>
   <div class="container">
     <div class="center">
-      <div class="eyebrow">The Weekly-ish Table</div>
-      <h2 class="section-title">Teachings.</h2>
-      <p class="lead narrow">Scripture taken seriously: the context, the original words, and what it asks of us. Some weeks that&rsquo;s a single passage; some weeks it&rsquo;s several verses woven into one study. A new one lands every week or so, and some weeks &ldquo;or so&rdquo; does a lot of heavy lifting. <a href="/#subscribe">Join the list</a> and each one comes to you the day it&rsquo;s ready. No calendar math required.</p>
+      <div class="eyebrow">Teachings</div>
+      <h2 class="section-title">Two ways to study.</h2>
+      <p class="lead narrow">Pick the one that fits where you are. The weekly teachings take one passage and go deep. The Whole Story walks the entire Bible from beginning to end, one lesson at a time.</p>
     </div>
-    <div class="teaching-list">
-      <article class="teaching-card" style="border-color: var(--gold-soft); background: var(--paper-warm);">
-        <div class="passage-badge">New Bible Study &middot; 26 Lessons</div>
-        <h3><a href="/bible-study/">The Whole Story</a></h3>
-        <p class="excerpt">A walk through the whole Bible from Genesis to Revelation, with real dates, a timeline, and the two threads that carry the gospel. Written for anyone who did not grow up in church. Start with Lesson 1, The Story Jesus Told.</p>
-      </article>
-      {% for post in collections.teachings | reverse %}
-      <article class="teaching-card">
-        <div class="passage-badge">{{ post.data.passage }}</div>
-        <h3><a href="{{ post.url }}">{{ post.data.title }}</a></h3>
-        <div class="date">{{ post.date | readableDate }}</div>
-        <p class="excerpt">{{ post.data.description }}</p>
-      </article>
-      {% endfor %}
+
+    <div class="track-grid">
+      <a class="track" href="/teachings/weekly/">
+        <div class="art"><img src="{{ latest.data.ogImage or '/assets/whole-story-01-scroll.jpg' }}" alt="" loading="eager"></div>
+        <div class="body">
+          <div class="eyebrow">Weekly Teachings</div>
+          <h3>One passage, opened up</h3>
+          <p>Short, serious studies from Scripture: the context, the original Greek and Hebrew, and what the text asks of us. A new one every week or so, each with a printable study guide.</p>
+          {%- if latest %}<div class="meta">Latest: <b>{{ latest.data.title }}</b> &middot; {{ latest.data.passage }}</div>{% endif %}
+          <span class="go">Read the weekly teachings &rarr;</span>
+        </div>
+      </a>
+      <a class="track study" href="/bible-study/">
+        <div class="art"><img src="/assets/whole-story-01-river.jpg" alt="" loading="eager"></div>
+        <div class="body">
+          <div class="eyebrow">Bible Study &middot; 26 Lessons</div>
+          <h3>The Whole Story</h3>
+          <p>A walk through the whole Bible, Genesis to Revelation, for anyone who did not grow up in church. Real dates, a timeline, and the two threads that carry the gospel from the garden to the cross to the city of God.</p>
+          <div class="meta"><b>{{ lessonCount }} of 26</b> lessons published &middot; start with Lesson 1</div>
+          <span class="go">Start the Bible study &rarr;</span>
+        </div>
+      </a>
     </div>
   </div>
 </section>

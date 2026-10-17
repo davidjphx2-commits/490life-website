@@ -9,6 +9,7 @@ const expectPages = [
   "index.html",
   "seventy-times-seven/index.html",
   "teachings/index.html",
+  "teachings/weekly/index.html",
   "teachings/necessities-of-effective-prayer-mark-11/index.html",
   "teachings/the-end-of-counting/index.html",
   "bible-study/index.html",
