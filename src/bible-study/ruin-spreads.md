@@ -233,7 +233,7 @@ table.sg-syn td:first-child { font-weight: 600; color: var(--gold-deep); backgro
 <li>For further reading: Derek Kidner, <em>Genesis</em> (Tyndale Old Testament Commentaries); Bruce K. Waltke, <em>Genesis: A Commentary</em>.</li>
 </ul>
 
-<div class="sg-seriesnav sg-next"><strong>Next, Lesson 6:</strong> Abraham: The Call and the Covenant <em>(coming soon)</em> &middot; <a href="/bible-study/">All lessons</a></div>
+<div class="sg-seriesnav sg-next"><strong>Next, Lesson 6:</strong> <a href="/bible-study/abraham/">Abraham: The Call and the Covenant</a> &middot; <a href="/bible-study/">All lessons</a></div>
 
 <hr>
 
