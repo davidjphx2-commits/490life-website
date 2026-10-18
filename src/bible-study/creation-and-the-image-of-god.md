@@ -255,7 +255,7 @@ table.sg-syn td:first-child { font-weight: 600; color: var(--gold-deep); backgro
 <li>For further reading: Anthony A. Hoekema, <em>Created in God’s Image</em>; Derek Kidner, <em>Genesis</em> (Tyndale Old Testament Commentaries).</li>
 </ul>
 
-<div class="sg-seriesnav sg-next"><strong>Next, Lesson 4:</strong> The Fall <em>(coming soon)</em> &middot; <a href="/bible-study/">All lessons</a></div>
+<div class="sg-seriesnav sg-next"><strong>Next, Lesson 4:</strong> <a href="/bible-study/the-fall/">The Fall</a> &middot; <a href="/bible-study/">All lessons</a></div>
 
 <hr>
 
