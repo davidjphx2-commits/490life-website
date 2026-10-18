@@ -25,6 +25,8 @@ const expectPages = [
   "assets/490-life-study-guide-ruin-spreads.pdf",
   "bible-study/abraham/index.html",
   "assets/490-life-study-guide-abraham.pdf",
+  "bible-study/isaac-jacob-joseph/index.html",
+  "assets/490-life-study-guide-isaac-jacob-joseph.pdf",
   "assets/490-life-study-guide-the-end-of-counting.pdf",
   "about/index.html",
   "coaching/index.html",

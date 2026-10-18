@@ -225,7 +225,7 @@ table.sg-syn td:first-child { font-weight: 600; color: var(--gold-deep); backgro
 <li>For further reading: Derek Kidner, <em>Genesis</em> (Tyndale Old Testament Commentaries); John Calvin, <em>Commentary on Genesis</em>, on chapters 15 and 22; Timothy Keller, <em>Counterfeit Gods</em>, chapter 1 (on Abraham and Isaac).</li>
 </ul>
 
-<div class="sg-seriesnav sg-next"><strong>Next, Lesson 7:</strong> Isaac, Jacob, and Joseph <em>(coming soon)</em> &middot; <a href="/bible-study/">All lessons</a></div>
+<div class="sg-seriesnav sg-next"><strong>Next, Lesson 7:</strong> <a href="/bible-study/isaac-jacob-joseph/">Isaac, Jacob, and Joseph</a> &middot; <a href="/bible-study/">All lessons</a></div>
 
 <hr>
 
