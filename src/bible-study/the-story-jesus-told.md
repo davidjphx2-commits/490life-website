@@ -280,7 +280,7 @@ table.sg-syn td:first-child { font-weight: 600; color: var(--gold-deep); backgro
 <li>For further reading: Graeme Goldsworthy, <em>Gospel and Kingdom</em>; Vaughan Roberts, <em>God’s Big Picture</em>; Geerhardus Vos, <em>Biblical Theology</em>.</li>
 </ul>
 
-<div class="sg-seriesnav sg-next"><strong>Next, Lesson 2:</strong> The God Who Is There <em>(coming soon)</em> &middot; <a href="/bible-study/">All lessons</a></div>
+<div class="sg-seriesnav sg-next"><strong>Next, Lesson 2:</strong> <a href="/bible-study/the-god-who-is-there/">The God Who Is There</a> &middot; <a href="/bible-study/">All lessons</a></div>
 
 <hr>
 
