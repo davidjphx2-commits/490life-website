@@ -212,7 +212,7 @@ table.sg-syn td:first-child { font-weight: 600; color: var(--gold-deep); backgro
 <div class="sg-principle"><span class="sg-pnum">5</span><strong>Leave the judging to God.</strong> When you are tempted to pay someone back, say Joseph’s words to yourself: “Am I in the place of God?”</div>
 <div class="sg-principle"><span class="sg-pnum">6</span><strong>Memorize Genesis 50:20.</strong> “As for you, you meant evil against me, but God meant it for good.”</div>
 
-<p class="sg-refs"><b>Before Lesson 8:</b> Read Exodus 1–3, 12, and 14. Lesson 8 opens Unit 3: four hundred years later, Abraham’s family are slaves in Egypt, and God hears their cry.</p>
+<p class="sg-refs"><b>Before Lesson 8:</b> Read Exodus 1–3, 12, and 14–15. Lesson 8 opens Unit 3: four hundred years later, Abraham’s family are slaves in Egypt, and God hears their cry.</p>
 
 <h2 class="sg-section"><span class="sg-num">For Discussion</span></h2>
 
@@ -235,7 +235,7 @@ table.sg-syn td:first-child { font-weight: 600; color: var(--gold-deep); backgro
 <li>For further reading: Derek Kidner, <em>Genesis</em> (Tyndale Old Testament Commentaries); John Calvin, <em>Commentary on Genesis</em>, on chapters 28, 32, and 45–50; Timothy Keller, <em>Walking with God through Pain and Suffering</em>; Jerry Bridges, <em>Trusting God</em>.</li>
 </ul>
 
-<div class="sg-seriesnav sg-next"><strong>Next, Lesson 8:</strong> The Exodus and the Passover Lamb <em>(coming soon)</em> &middot; <a href="/bible-study/">All lessons</a></div>
+<div class="sg-seriesnav sg-next"><strong>Next, Lesson 8:</strong> <a href="/bible-study/exodus-passover/">The Exodus and the Passover Lamb</a> &middot; <a href="/bible-study/">All lessons</a></div>
 
 <hr>
 
