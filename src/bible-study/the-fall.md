@@ -112,7 +112,11 @@ table.sg-syn td:first-child { font-weight: 600; color: var(--gold-deep); backgro
 
 <div class="sg-verse"><span class="sg-ref">Genesis 3:1–5</span> &nbsp;“Now the serpent was more crafty than any other beast of the field that the LORD God had made. He said to the woman, ‘Did God actually say, “You shall not eat of any tree in the garden”?’ And the woman said to the serpent, ‘We may eat of the fruit of the trees in the garden, but God said, “You shall not eat of the fruit of the tree that is in the midst of the garden, neither shall you touch it, lest you die.”’ But the serpent said to the woman, ‘You will not surely die. For God knows that when you eat of it your eyes will be opened, and you will be like God, knowing good and evil.’”</div>
 
-<p>Who is this serpent? Genesis does not say, but the last book of the Bible does: “that ancient serpent, who is called the devil and Satan, the deceiver of the whole world” (Rev. 12:9). A real enemy, older than Adam, spoke through a real creature. And notice that he never once says, “Disobey God.” He is too clever for that. Watch how he works, because he still works the same way.</p>
+<p>Who is this serpent? Genesis does not say, but the last book of the Bible does: “that ancient serpent, who is called the devil and Satan, the deceiver of the whole world” (Rev. 12:9).</p>
+
+<p>Was it a snake, or something else? Genesis calls it one of the “beast[s] of the field that the LORD God had made” (3:1), and the curse in 3:14 falls on an animal. For most of church history, from Augustine to Calvin, and in Reformed teachers since, such as Geerhardus Vos and Herman Bavinck, Christians have read it this way: Satan, a fallen angel, spoke through a real creature. Calvin called the serpent “the mouth of the devil.” Notice what that means. Satan did not come into the garden as a monster. He came hidden inside something Eve knew, something God had made and called good. He still works that way. Paul warns that “even Satan disguises himself as an angel of light” (2 Cor. 11:14). Evil rarely comes looking evil. The tempter in Eden did not frighten Eve. He fascinated her.</p>
+
+<p>And notice that he never once says, “Disobey God.” He is too clever for that. Watch how he works, because he still works the same way.</p>
 
 <p><strong>First, he questions God’s word.</strong> “Did God actually say…?” He opens with a question, not an argument. He gets the woman thinking about God’s command instead of simply trusting it. And he twists it: “You shall not eat of <em>any</em> tree.” God had said the opposite. Every tree but one was a gift. The serpent turns a generous Father into a stingy one.</p>
 
@@ -247,10 +251,11 @@ table.sg-syn td:first-child { font-weight: 600; color: var(--gold-deep); backgro
 <ul class="sg-sources">
 <li>Westminster Shorter Catechism (1647), Q. 13–20. Westminster Confession of Faith (1646), chapter 6, “Of the Fall of Man, of Sin, and of the Punishment Thereof.”</li>
 <li>On זֶרַע in Genesis 3:15: Brown, Driver, and Briggs, <em>Hebrew and English Lexicon</em>; Koehler and Baumgartner, <em>HALOT</em>, s.v. On the Greek translation’s masculine pronoun: R. A. Martin, “The Earliest Messianic Interpretation of Genesis 3:15,” <em>Journal of Biblical Literature</em> 84 (1965): 425–27. On the singular pronoun in the Hebrew: C. John Collins, “A Syntactical Note (Genesis 3:15): Is the Woman’s Seed Singular or Plural?” <em>Tyndale Bulletin</em> 48 (1997): 139–48.</li>
+<li>On the serpent: John Calvin, <em>Commentary on Genesis</em>, on 3:1; Augustine, <em>City of God</em> 14.11; Geerhardus Vos, <em>Biblical Theology</em>; Herman Bavinck, <em>Reformed Dogmatics</em> 3:33–36; Reformation Study Bible, note on Genesis 3:1.</li>
 <li>For further reading: Derek Kidner, <em>Genesis</em> (Tyndale Old Testament Commentaries); Cornelius Plantinga Jr., <em>Not the Way It’s Supposed to Be: A Breviary of Sin</em>; John Murray, <em>The Imputation of Adam’s Sin</em>.</li>
 </ul>
 
-<div class="sg-seriesnav sg-next"><strong>Next, Lesson 5:</strong> Ruin Spreads: Cain, the Flood, and Babel <em>(coming soon)</em> &middot; <a href="/bible-study/">All lessons</a></div>
+<div class="sg-seriesnav sg-next"><strong>Next, Lesson 5:</strong> <a href="/bible-study/ruin-spreads/">Ruin Spreads: Cain, the Flood, and Babel</a> &middot; <a href="/bible-study/">All lessons</a></div>
 
 <hr>
 
