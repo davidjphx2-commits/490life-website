@@ -240,7 +240,7 @@ table.sg-syn td:first-child { font-weight: 600; color: var(--gold-deep); backgro
 <li>For further reading: Dale Ralph Davis, <em>Joshua: No Falling Words</em>; Iain M. Duguid, <em>Numbers: God’s Presence in the Wilderness</em> (Preaching the Word); Daniel I. Block, <em>Deuteronomy</em> (NIV Application Commentary).</li>
 </ul>
 
-<div class="sg-seriesnav sg-next"><strong>Next, Lesson 13:</strong> Judges and Ruth <em>(coming soon)</em> &middot; <a href="/bible-study/">All lessons</a></div>
+<div class="sg-seriesnav sg-next"><strong>Next, Lesson 13:</strong> <a href="/bible-study/judges-ruth/">Judges and Ruth</a> &middot; <a href="/bible-study/">All lessons</a></div>
 
 <hr>
 
