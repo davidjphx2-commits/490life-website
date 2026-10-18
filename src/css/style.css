@@ -413,6 +413,8 @@ h2.section-title { font-size: clamp(2.1rem, 4vw, 3rem); margin-bottom: 1rem; }
   .nav-toggle { display: inline-block; }
   .site-nav { display: none; position: absolute; left: 0; right: 0; top: 100%; background: #fff; border-bottom: 1px solid var(--line); box-shadow: 0 24px 40px -24px rgba(14, 59, 69, 0.35); flex-direction: column; align-items: stretch; gap: 0; padding: 0.5rem 4vw 1rem; }
   .site-nav.open { display: flex; }
+  /* the header is sticky, so a menu taller than the screen could not be scrolled; cap it and scroll inside (About and the CTA were cut off on phones, 2026-10-18) */
+  .site-nav { max-height: calc(100vh - 77px); max-height: calc(100dvh - 77px); overflow-y: auto; overscroll-behavior: contain; }
   .site-nav > * + *::before { content: none; margin: 0; }
   .site-nav > .nav-cta { margin-left: 0; }
   .site-nav > a, .site-nav .nav-drop > a { display: block; height: auto; line-height: 1.5; }
