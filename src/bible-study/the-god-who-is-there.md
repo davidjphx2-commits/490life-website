@@ -275,7 +275,7 @@ table.sg-syn td:first-child { font-weight: 600; color: var(--gold-deep); backgro
 <li>For further reading: J. I. Packer, <em>Knowing God</em>; A. W. Tozer, <em>The Knowledge of the Holy</em>; R. C. Sproul, <em>The Holiness of God</em>; Michael Reeves, <em>Delighting in the Trinity</em>.</li>
 </ul>
 
-<div class="sg-seriesnav sg-next"><strong>Next, Lesson 3:</strong> Creation and the Image of God <em>(coming soon)</em> &middot; <a href="/bible-study/">All lessons</a></div>
+<div class="sg-seriesnav sg-next"><strong>Next, Lesson 3:</strong> <a href="/bible-study/creation-and-the-image-of-god/">Creation and the Image of God</a> &middot; <a href="/bible-study/">All lessons</a></div>
 
 <hr>
 

@@ -17,6 +17,8 @@ const expectPages = [
   "assets/490-life-study-guide-the-story-jesus-told.pdf",
   "bible-study/the-god-who-is-there/index.html",
   "assets/490-life-study-guide-the-god-who-is-there.pdf",
+  "bible-study/creation-and-the-image-of-god/index.html",
+  "assets/490-life-study-guide-creation-and-the-image-of-god.pdf",
   "assets/490-life-study-guide-the-end-of-counting.pdf",
   "about/index.html",
   "coaching/index.html",
