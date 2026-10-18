@@ -259,4 +259,4 @@ table.sg-syn td:first-child { font-weight: 600; color: var(--gold-deep); backgro
 
 <hr>
 
-<p><em>Want this whole lesson as a beautifully formatted, printable PDF, ready for your small group? It’s free when you <a href="/#subscribe">join the weekly list</a>.</em></p>
+<p><em>Leading a small group? This lesson comes as a beautifully formatted, printable PDF, along with a 4-page Small Group Guide: discussion pages for your group and leader notes with a session plan and answer key. Both are free when you <a href="/#subscribe">join the weekly list</a>.</em></p>

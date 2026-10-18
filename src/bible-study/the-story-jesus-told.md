@@ -57,6 +57,15 @@ table.sg-syn td { border: 1px solid var(--gold-soft); padding: 0.5rem 0.7rem; ve
 table.sg-syn td:first-child { font-weight: 600; color: var(--gold-deep); background: var(--paper-warm); white-space: nowrap; }
 .diagram-card { margin: 2rem auto; }
 @media (max-width: 560px) { .sg-plus { display: none; } .sg-part { max-width: none; } }
+
+.sg-here { margin: 0 0 1.6rem; }
+.sg-here svg { display: block; width: 100%; height: auto; }
+.sg-thread { margin: 2rem 0; border: 1.5px solid var(--gold-soft); border-left: 5px solid var(--gold); border-radius: var(--radius); background: var(--paper-warm); padding: 1rem 1.3rem 0.6rem; }
+.sg-thread-head { font-size: 0.78rem; letter-spacing: 0.18em; text-transform: uppercase; font-weight: 700; color: var(--gold-deep); margin-bottom: 0.6rem; }
+.sg-thread-row { margin-bottom: 0.8rem; line-height: 1.6; }
+.sg-thread-tag { display: inline-block; font-size: 0.74rem; font-weight: 600; letter-spacing: 0.06em; text-transform: uppercase; border-radius: 999px; padding: 0.1rem 0.6rem; margin-right: 0.45rem; color: #fff; }
+.sg-dwell { background: var(--deep, #0E3B45); }
+.sg-lamb { background: var(--gold-deep); }
 .sg-seriesnav { font-size: 0.82rem; letter-spacing: 0.12em; text-transform: uppercase; color: var(--ocean); font-weight: 600; margin: 0 0 1.6rem; }
 .sg-seriesnav a { color: var(--ocean); }
 .sg-next { margin: 2.6rem 0 0; text-transform: none; letter-spacing: 0; font-size: 1rem; background: var(--paper-warm); border: 1px solid var(--gold-soft); border-radius: var(--radius); padding: 0.9rem 1.2rem; color: var(--ink); font-weight: 400; }
@@ -284,4 +293,4 @@ table.sg-syn td:first-child { font-weight: 600; color: var(--gold-deep); backgro
 
 <hr>
 
-<p><em>Want this whole lesson as a beautifully formatted, printable PDF, ready for your small group? It’s free when you <a href="/#subscribe">join the weekly list</a>.</em></p>
+<p><em>Leading a small group? This lesson comes as a beautifully formatted, printable PDF, along with a 4-page Small Group Guide: discussion pages for your group and leader notes with a session plan and answer key. Both are free when you <a href="/#subscribe">join the weekly list</a>.</em></p>

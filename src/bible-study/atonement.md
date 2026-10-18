@@ -229,8 +229,8 @@ table.sg-syn td:first-child { font-weight: 600; color: var(--gold-deep); backgro
 <li>For further reading: Jay Sklar, <em>Leviticus</em> (Tyndale Old Testament Commentaries); L. Michael Morales, <em>Who Shall Ascend the Mountain of the Lord?</em>; Philip E. Hughes, <em>A Commentary on the Epistle to the Hebrews</em>; John Owen, <em>An Exposition of the Epistle to the Hebrews</em>.</li>
 </ul>
 
-<div class="sg-seriesnav sg-next"><strong>Next, Lesson 12:</strong> Wilderness and Conquest <em>(coming soon)</em> &middot; <a href="/bible-study/">All lessons</a></div>
+<div class="sg-seriesnav sg-next"><strong>Next, Lesson 12:</strong> <a href="/bible-study/wilderness-conquest/">Wilderness and Conquest</a> &middot; <a href="/bible-study/">All lessons</a></div>
 
 <hr>
 
-<p><em>Want this whole lesson as a beautifully formatted, printable PDF, ready for your small group? It’s free when you <a href="/#subscribe">join the weekly list</a>.</em></p>
+<p><em>Leading a small group? This lesson comes as a beautifully formatted, printable PDF, along with a 4-page Small Group Guide: discussion pages for your group and leader notes with a session plan and answer key. Both are free when you <a href="/#subscribe">join the weekly list</a>.</em></p>
