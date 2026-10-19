@@ -66,6 +66,14 @@ table.sg-syn td:first-child { font-weight: 600; color: var(--gold-deep); backgro
 .sg-thread-tag { display: inline-block; font-size: 0.74rem; font-weight: 600; letter-spacing: 0.06em; text-transform: uppercase; border-radius: 999px; padding: 0.1rem 0.6rem; margin-right: 0.45rem; color: #fff; }
 .sg-dwell { background: var(--deep, #0E3B45); }
 .sg-lamb { background: var(--gold-deep); }
+.sg-doctrine { margin: 2rem 0; border: 1.5px solid var(--deep, #0E3B45); border-radius: var(--radius, 8px); background: #fff; overflow: hidden; }
+.sg-doc-head { background: var(--deep, #0E3B45); color: #fff; padding: 0.7rem 1.3rem; }
+.sg-doc-kicker { display: block; font-size: 0.72rem; letter-spacing: 0.2em; text-transform: uppercase; font-weight: 700; color: #E8D3A0; }
+.sg-doc-name { display: block; font-family: var(--display, 'Cormorant Garamond', Georgia, serif); font-size: 1.6rem; font-weight: 600; line-height: 1.15; }
+.sg-doc-body { padding: 1rem 1.3rem 0.5rem; }
+.sg-doc-def { margin: 0 0 0.8rem; line-height: 1.6; }
+.sg-doc-row { font-size: 0.95rem; line-height: 1.55; margin: 0 0 0.7rem; padding-top: 0.55rem; border-top: 1px solid #A9D6CE; }
+.sg-doc-row b { display: block; font-size: 0.7rem; letter-spacing: 0.14em; text-transform: uppercase; color: #2F7F86; margin-bottom: 0.15rem; }
 .sg-seriesnav { font-size: 0.82rem; letter-spacing: 0.12em; text-transform: uppercase; color: var(--ocean); font-weight: 600; margin: 0 0 1.6rem; }
 .sg-seriesnav a { color: var(--ocean); }
 .sg-next { margin: 2.6rem 0 0; text-transform: none; letter-spacing: 0; font-size: 1rem; background: var(--paper-warm); border: 1px solid var(--gold-soft); border-radius: var(--radius); padding: 0.9rem 1.2rem; color: var(--ink); font-weight: 400; }
@@ -161,6 +169,18 @@ table.sg-syn td:first-child { font-weight: 600; color: var(--gold-deep); backgro
 <p><b>The bad news.</b> Paul begins with everyone’s problem. “None is righteous, no, not one; no one understands; no one seeks for God” (Rom. 3:10–11). Religious people and irreligious people alike are guilty before God: “for all have sinned and fall short of the glory of God” (3:23).</p>
 
 <p><b>The good news.</b> Then the turn: we “are justified by his grace as a gift, through the redemption that is in Christ Jesus, whom God put forward as a propitiation by his blood, to be received by faith” (3:24–25). A propitiation is a sacrifice that turns away God’s just anger against sin. At the cross Jesus bore that anger in our place. God did this “so that he might be just and the justifier of the one who has faith in Jesus” (3:26). Justification is a gift, received by faith, not earned by works. “For by grace you have been saved through faith. And this is not your own doing; it is the gift of God, not a result of works, so that no one may boast” (Eph. 2:8–9).</p>
+
+<!--doctrine-->
+<div class="sg-doctrine">
+<div class="sg-doc-head"><span class="sg-doc-kicker">Core Doctrine 24 of 26 &middot; Faith Alone</span><span class="sg-doc-name">Justification by Faith Alone</span></div>
+<div class="sg-doc-body">
+<p class="sg-doc-def">God declares guilty sinners righteous in his sight. He pardons all their sins and counts Christ’s perfect righteousness as theirs. He does this only because of what Christ has done, never because of what they have done, and they receive it by faith alone. Good works follow as the fruit of being justified. They are never the reason for it.</p>
+<div class="sg-doc-row"><b>Key verses</b>Romans 3:23–26; 4:5; 5:1; Galatians 2:16; Ephesians 2:8–9</div>
+<div class="sg-doc-row"><b>What the church confesses</b><em>“Justification is an act of God’s free grace, wherein he pardoneth all our sins, and accepteth us as righteous in his sight, only for the righteousness of Christ imputed to us, and received by faith alone.”</em> (Westminster Shorter Catechism 33)</div>
+<div class="sg-doc-row"><b>Why it matters</b>Your standing with God does not rise and fall with your performance. If you trust Christ, his record is counted as yours, and nothing can change that verdict.</div>
+</div>
+</div>
+<!--/doctrine-->
 
 <p><b>The love behind it.</b> “But God shows his love for us in that while we were still sinners, Christ died for us” (Rom. 5:8). God did not wait for us to clean ourselves up.</p>
 

@@ -66,6 +66,14 @@ table.sg-syn td:first-child { font-weight: 600; color: var(--gold-deep); backgro
 .sg-thread-tag { display: inline-block; font-size: 0.74rem; font-weight: 600; letter-spacing: 0.06em; text-transform: uppercase; border-radius: 999px; padding: 0.1rem 0.6rem; margin-right: 0.45rem; color: #fff; }
 .sg-dwell { background: var(--deep, #0E3B45); }
 .sg-lamb { background: var(--gold-deep); }
+.sg-doctrine { margin: 2rem 0; border: 1.5px solid var(--deep, #0E3B45); border-radius: var(--radius, 8px); background: #fff; overflow: hidden; }
+.sg-doc-head { background: var(--deep, #0E3B45); color: #fff; padding: 0.7rem 1.3rem; }
+.sg-doc-kicker { display: block; font-size: 0.72rem; letter-spacing: 0.2em; text-transform: uppercase; font-weight: 700; color: #E8D3A0; }
+.sg-doc-name { display: block; font-family: var(--display, 'Cormorant Garamond', Georgia, serif); font-size: 1.6rem; font-weight: 600; line-height: 1.15; }
+.sg-doc-body { padding: 1rem 1.3rem 0.5rem; }
+.sg-doc-def { margin: 0 0 0.8rem; line-height: 1.6; }
+.sg-doc-row { font-size: 0.95rem; line-height: 1.55; margin: 0 0 0.7rem; padding-top: 0.55rem; border-top: 1px solid #A9D6CE; }
+.sg-doc-row b { display: block; font-size: 0.7rem; letter-spacing: 0.14em; text-transform: uppercase; color: #2F7F86; margin-bottom: 0.15rem; }
 .sg-seriesnav { font-size: 0.82rem; letter-spacing: 0.12em; text-transform: uppercase; color: var(--ocean); font-weight: 600; margin: 0 0 1.6rem; }
 .sg-seriesnav a { color: var(--ocean); }
 .sg-next { margin: 2.6rem 0 0; text-transform: none; letter-spacing: 0; font-size: 1rem; background: var(--paper-warm); border: 1px solid var(--gold-soft); border-radius: var(--radius); padding: 0.9rem 1.2rem; color: var(--ink); font-weight: 400; }
@@ -120,6 +128,19 @@ table.sg-syn td:first-child { font-weight: 600; color: var(--gold-deep); backgro
 <div class="sg-verse"><span class="sg-ref">Luke 22:19–20</span> &nbsp;“And he took bread, and when he had given thanks, he broke it and gave it to them, saying, ‘This is my body, which is given for you. Do this in remembrance of me.’ And likewise the cup after they had eaten, saying, ‘This cup that is poured out for you is the new covenant in my blood.’”</div>
 
 <p>Jesus was saying: I am the Passover Lamb. My body will be broken, my blood will be poured out, and it will be for you. “For Christ, our Passover lamb, has been sacrificed” (1 Cor. 5:7). And with his blood he would establish the new covenant God promised through Jeremiah in the ashes of Jerusalem (Lesson 17). Christians still eat this meal, the Lord’s Supper. It is a memorial, but more than a memorial. In it, as the Westminster Shorter Catechism says, the worthy receivers “are, not after a corporal and carnal manner, but by faith, made partakers of his body and blood, with all his benefits, to their spiritual nourishment, and growth in grace” (WSC 96).</p>
+
+<!--doctrine-->
+<div class="sg-doctrine">
+<div class="sg-doc-head"><span class="sg-doc-kicker">Core Doctrine 21 of 26</span><span class="sg-doc-name">The Lord’s Supper</span></div>
+<div class="sg-doc-body">
+<p class="sg-doc-def">On the night he was betrayed, Jesus took bread and the cup and told his followers to eat and drink in remembrance of him. The Lord’s Supper proclaims his death until he comes. In it believers remember Christ, are strengthened in faith, and share in his body together (1 Corinthians 10:16–17).</p>
+<div class="sg-doc-row"><b>Key verses</b>Luke 22:19–20; 1 Corinthians 10:16–17; 11:23–29</div>
+<div class="sg-doc-row"><b>What the church confesses</b><em>“The Lord’s supper is a sacrament, wherein, by giving and receiving bread and wine, according to Christ’s appointment, his death is showed forth.”</em> (Westminster Shorter Catechism 96, opening words (“showed forth” means “proclaimed”))</div>
+<div class="sg-doc-row"><b>Where churches differ</b>Bible-believing churches agree that Christ commanded the Supper, that it proclaims his death, and that it is for those who trust him and examine themselves. They differ on how Christ is present in it and on who may come to the table, including whether baptism must come first. If you are unsure whether to take it, talk with a pastor.</div>
+<div class="sg-doc-row"><b>Why it matters</b>Every time the church shares the bread and the cup, it tells the story of the cross again and strengthens the faith of God’s people.</div>
+</div>
+</div>
+<!--/doctrine-->
 
 <h2 class="sg-section"><span class="sg-num">Part Two:</span> The Cup in the Garden</h2>
 

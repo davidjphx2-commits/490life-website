@@ -66,6 +66,14 @@ table.sg-syn td:first-child { font-weight: 600; color: var(--gold-deep); backgro
 .sg-thread-tag { display: inline-block; font-size: 0.74rem; font-weight: 600; letter-spacing: 0.06em; text-transform: uppercase; border-radius: 999px; padding: 0.1rem 0.6rem; margin-right: 0.45rem; color: #fff; }
 .sg-dwell { background: var(--deep, #0E3B45); }
 .sg-lamb { background: var(--gold-deep); }
+.sg-doctrine { margin: 2rem 0; border: 1.5px solid var(--deep, #0E3B45); border-radius: var(--radius, 8px); background: #fff; overflow: hidden; }
+.sg-doc-head { background: var(--deep, #0E3B45); color: #fff; padding: 0.7rem 1.3rem; }
+.sg-doc-kicker { display: block; font-size: 0.72rem; letter-spacing: 0.2em; text-transform: uppercase; font-weight: 700; color: #E8D3A0; }
+.sg-doc-name { display: block; font-family: var(--display, 'Cormorant Garamond', Georgia, serif); font-size: 1.6rem; font-weight: 600; line-height: 1.15; }
+.sg-doc-body { padding: 1rem 1.3rem 0.5rem; }
+.sg-doc-def { margin: 0 0 0.8rem; line-height: 1.6; }
+.sg-doc-row { font-size: 0.95rem; line-height: 1.55; margin: 0 0 0.7rem; padding-top: 0.55rem; border-top: 1px solid #A9D6CE; }
+.sg-doc-row b { display: block; font-size: 0.7rem; letter-spacing: 0.14em; text-transform: uppercase; color: #2F7F86; margin-bottom: 0.15rem; }
 .sg-seriesnav { font-size: 0.82rem; letter-spacing: 0.12em; text-transform: uppercase; color: var(--ocean); font-weight: 600; margin: 0 0 1.6rem; }
 .sg-seriesnav a { color: var(--ocean); }
 .sg-next { margin: 2.6rem 0 0; text-transform: none; letter-spacing: 0; font-size: 1rem; background: var(--paper-warm); border: 1px solid var(--gold-soft); border-radius: var(--radius); padding: 0.9rem 1.2rem; color: var(--ink); font-weight: 400; }
@@ -169,6 +177,18 @@ table.sg-syn td:first-child { font-weight: 600; color: var(--gold-deep); backgro
 <div class="sg-thread-row"><span class="sg-thread-tag sg-lamb">The Lamb</span> When Isaiah saw the Lord, he cried out, “Woe is me! For I am lost; for I am a man of unclean lips” (Isa. 6:5). A seraph took a burning coal from the altar, the place of sacrifice, and touched his mouth: “your guilt is taken away, and your sin atoned for” (6:7). Forgiveness came from the altar. Isaiah would go on to describe a Servant who would go “like a lamb that is led to the slaughter” (Isa. 53:7). We will meet him again.</div>
 <div class="sg-thread-row"><span class="sg-thread-tag sg-dwell">God with his people</span> Even as Israel abandoned him, God kept coming to them through his prophets, and he kept a remnant who had not bowed to Baal. God never stopped pursuing his people. That is why the prophets were sent at all.</div>
 </div>
+
+<!--doctrine-->
+<div class="sg-doctrine">
+<div class="sg-doc-head"><span class="sg-doc-kicker">Core Doctrine 16 of 26</span><span class="sg-doc-name">Repentance</span></div>
+<div class="sg-doc-body">
+<p class="sg-doc-def">Repentance is turning from sin to God. It is more than feeling sorry. It means seeing your sin as God sees it, grieving over it, trusting his mercy in Christ, and turning to a new way of life. The prophets called Israel to it again and again, and Jesus calls us to it today.</p>
+<div class="sg-doc-row"><b>Key verses</b>Joel 2:12–13; Isaiah 55:6–7; Luke 15:20; Acts 3:19; 2 Corinthians 7:10</div>
+<div class="sg-doc-row"><b>What the church confesses</b><em>“Repentance unto life is a saving grace, whereby a sinner, out of a true sense of his sin, and apprehension of the mercy of God in Christ, doth, with grief and hatred of his sin, turn from it unto God, with full purpose of, and endeavour after, new obedience.”</em> (Westminster Shorter Catechism 87)</div>
+<div class="sg-doc-row"><b>Why it matters</b>God does not ask you to clean yourself up before you come. He asks you to turn around, and he runs to meet those who do.</div>
+</div>
+</div>
+<!--/doctrine-->
 
 <h2 class="sg-section"><span class="sg-num">The Turn:</span> Finally He Sent His Son</h2>
 

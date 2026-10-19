@@ -66,6 +66,14 @@ table.sg-syn td:first-child { font-weight: 600; color: var(--gold-deep); backgro
 .sg-thread-tag { display: inline-block; font-size: 0.74rem; font-weight: 600; letter-spacing: 0.06em; text-transform: uppercase; border-radius: 999px; padding: 0.1rem 0.6rem; margin-right: 0.45rem; color: #fff; }
 .sg-dwell { background: var(--deep, #0E3B45); }
 .sg-lamb { background: var(--gold-deep); }
+.sg-doctrine { margin: 2rem 0; border: 1.5px solid var(--deep, #0E3B45); border-radius: var(--radius, 8px); background: #fff; overflow: hidden; }
+.sg-doc-head { background: var(--deep, #0E3B45); color: #fff; padding: 0.7rem 1.3rem; }
+.sg-doc-kicker { display: block; font-size: 0.72rem; letter-spacing: 0.2em; text-transform: uppercase; font-weight: 700; color: #E8D3A0; }
+.sg-doc-name { display: block; font-family: var(--display, 'Cormorant Garamond', Georgia, serif); font-size: 1.6rem; font-weight: 600; line-height: 1.15; }
+.sg-doc-body { padding: 1rem 1.3rem 0.5rem; }
+.sg-doc-def { margin: 0 0 0.8rem; line-height: 1.6; }
+.sg-doc-row { font-size: 0.95rem; line-height: 1.55; margin: 0 0 0.7rem; padding-top: 0.55rem; border-top: 1px solid #A9D6CE; }
+.sg-doc-row b { display: block; font-size: 0.7rem; letter-spacing: 0.14em; text-transform: uppercase; color: #2F7F86; margin-bottom: 0.15rem; }
 .sg-seriesnav { font-size: 0.82rem; letter-spacing: 0.12em; text-transform: uppercase; color: var(--ocean); font-weight: 600; margin: 0 0 1.6rem; }
 .sg-seriesnav a { color: var(--ocean); }
 .sg-next { margin: 2.6rem 0 0; text-transform: none; letter-spacing: 0; font-size: 1rem; background: var(--paper-warm); border: 1px solid var(--gold-soft); border-radius: var(--radius); padding: 0.9rem 1.2rem; color: var(--ink); font-weight: 400; }
@@ -153,6 +161,18 @@ table.sg-syn td:first-child { font-weight: 600; color: var(--gold-deep); backgro
 <p>Decades later, when Daniel was an old man, Babylon had fallen to the Medes and Persians, and King Darius ruled, a law made prayer to any god or man but the king a crime for thirty days. Daniel went home to his upper room, where the windows were open toward Jerusalem, and “got down on his knees three times a day and prayed and gave thanks before his God, as he had done previously” (6:10). He was thrown to the lions, and in the morning he said, “My God sent his angel and shut the lions’ mouths” (6:22).</p>
 
 <p>And God made a promise to the scattered exiles that changes everything: “Though I removed them far off among the nations… yet I have been a sanctuary to them for a while in the countries where they have gone” (Ezek. 11:16). The temple was gone. God was not. He himself became their sanctuary in Babylon.</p>
+
+<!--doctrine-->
+<div class="sg-doctrine">
+<div class="sg-doc-head"><span class="sg-doc-kicker">Core Doctrine 17 of 26</span><span class="sg-doc-name">The Sovereignty of God</span></div>
+<div class="sg-doc-body">
+<p class="sg-doc-def">God rules over all things, including nations, kings, and history. Babylon burned the temple because God sent it as his judgment, and Babylon fell when God said so. Nothing happens outside his plan. Yet God never does evil, and people are still responsible for what they choose. His plan is good.</p>
+<div class="sg-doc-row"><b>Key verses</b>Daniel 4:34–35; Jeremiah 25:9; Isaiah 46:9–10; Ephesians 1:11; Psalm 115:3</div>
+<div class="sg-doc-row"><b>What the church confesses</b><em>“The decrees of God are, his eternal purpose, according to the counsel of his will, whereby, for his own glory, he hath foreordained whatsoever comes to pass.”</em> (Westminster Shorter Catechism 7)</div>
+<div class="sg-doc-row"><b>Why it matters</b>When the headlines are frightening, God is still on his throne. Daniel could be faithful in Babylon because he knew who was really in charge.</div>
+</div>
+</div>
+<!--/doctrine-->
 
 <h2 class="sg-section"><span class="sg-num">Part Four:</span> Promises in the Ashes</h2>
 

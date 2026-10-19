@@ -66,6 +66,14 @@ table.sg-syn td:first-child { font-weight: 600; color: var(--gold-deep); backgro
 .sg-thread-tag { display: inline-block; font-size: 0.74rem; font-weight: 600; letter-spacing: 0.06em; text-transform: uppercase; border-radius: 999px; padding: 0.1rem 0.6rem; margin-right: 0.45rem; color: #fff; }
 .sg-dwell { background: var(--deep, #0E3B45); }
 .sg-lamb { background: var(--gold-deep); }
+.sg-doctrine { margin: 2rem 0; border: 1.5px solid var(--deep, #0E3B45); border-radius: var(--radius, 8px); background: #fff; overflow: hidden; }
+.sg-doc-head { background: var(--deep, #0E3B45); color: #fff; padding: 0.7rem 1.3rem; }
+.sg-doc-kicker { display: block; font-size: 0.72rem; letter-spacing: 0.2em; text-transform: uppercase; font-weight: 700; color: #E8D3A0; }
+.sg-doc-name { display: block; font-family: var(--display, 'Cormorant Garamond', Georgia, serif); font-size: 1.6rem; font-weight: 600; line-height: 1.15; }
+.sg-doc-body { padding: 1rem 1.3rem 0.5rem; }
+.sg-doc-def { margin: 0 0 0.8rem; line-height: 1.6; }
+.sg-doc-row { font-size: 0.95rem; line-height: 1.55; margin: 0 0 0.7rem; padding-top: 0.55rem; border-top: 1px solid #A9D6CE; }
+.sg-doc-row b { display: block; font-size: 0.7rem; letter-spacing: 0.14em; text-transform: uppercase; color: #2F7F86; margin-bottom: 0.15rem; }
 .sg-seriesnav { font-size: 0.82rem; letter-spacing: 0.12em; text-transform: uppercase; color: var(--ocean); font-weight: 600; margin: 0 0 1.6rem; }
 .sg-seriesnav a { color: var(--ocean); }
 .sg-next { margin: 2.6rem 0 0; text-transform: none; letter-spacing: 0; font-size: 1rem; background: var(--paper-warm); border: 1px solid var(--gold-soft); border-radius: var(--radius); padding: 0.9rem 1.2rem; color: var(--ink); font-weight: 400; }
@@ -165,6 +173,18 @@ table.sg-syn td:first-child { font-weight: 600; color: var(--gold-deep); backgro
 <div class="sg-thread-row"><span class="sg-thread-tag sg-lamb">The Lamb</span> The Lamb who was slain did not stay dead. In heaven John saw “a Lamb standing, as though it had been slain” (Rev. 5:6). He still bears the marks of his sacrifice, and he is alive and reigning forever.</div>
 <div class="sg-thread-row"><span class="sg-thread-tag sg-dwell">God with his people</span> On the night of his resurrection, Jesus “breathed on them and said to them, ‘Receive the Holy Spirit’” (John 20:22), echoing God breathing life into Adam (Gen. 2:7). He ascended, yet he promised, “I will come again and will take you to myself, that where I am you may be also” (John 14:3). Until then, “I am with you always.”</div>
 </div>
+
+<!--doctrine-->
+<div class="sg-doctrine">
+<div class="sg-doc-head"><span class="sg-doc-kicker">Core Doctrine 22 of 26</span><span class="sg-doc-name">The Resurrection and Ascension</span></div>
+<div class="sg-doc-body">
+<p class="sg-doc-def">Jesus rose bodily from the dead on the third day. He ascended into heaven in that same body and now reigns at the Father’s right hand. His resurrection is God’s seal on his finished work and the promise that all who belong to him will rise too.</p>
+<div class="sg-doc-row"><b>Key verses</b>1 Corinthians 15:3–8, 20; Acts 1:9–11; Romans 4:25; Ephesians 1:20–22</div>
+<div class="sg-doc-row"><b>What the church confesses</b><em>“The third day he rose again from the dead; He ascended into heaven, And sitteth on the right hand of God the Father Almighty.”</em> (Apostles’ Creed)</div>
+<div class="sg-doc-row"><b>Why it matters</b>Death is not the end for those who trust Christ. Their Lord has already walked out of the grave.</div>
+</div>
+</div>
+<!--/doctrine-->
 
 <h2 class="sg-section"><span class="sg-num">The Turn:</span> Do You Believe This?</h2>
 

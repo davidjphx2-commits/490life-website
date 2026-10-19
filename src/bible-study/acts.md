@@ -66,6 +66,14 @@ table.sg-syn td:first-child { font-weight: 600; color: var(--gold-deep); backgro
 .sg-thread-tag { display: inline-block; font-size: 0.74rem; font-weight: 600; letter-spacing: 0.06em; text-transform: uppercase; border-radius: 999px; padding: 0.1rem 0.6rem; margin-right: 0.45rem; color: #fff; }
 .sg-dwell { background: var(--deep, #0E3B45); }
 .sg-lamb { background: var(--gold-deep); }
+.sg-doctrine { margin: 2rem 0; border: 1.5px solid var(--deep, #0E3B45); border-radius: var(--radius, 8px); background: #fff; overflow: hidden; }
+.sg-doc-head { background: var(--deep, #0E3B45); color: #fff; padding: 0.7rem 1.3rem; }
+.sg-doc-kicker { display: block; font-size: 0.72rem; letter-spacing: 0.2em; text-transform: uppercase; font-weight: 700; color: #E8D3A0; }
+.sg-doc-name { display: block; font-family: var(--display, 'Cormorant Garamond', Georgia, serif); font-size: 1.6rem; font-weight: 600; line-height: 1.15; }
+.sg-doc-body { padding: 1rem 1.3rem 0.5rem; }
+.sg-doc-def { margin: 0 0 0.8rem; line-height: 1.6; }
+.sg-doc-row { font-size: 0.95rem; line-height: 1.55; margin: 0 0 0.7rem; padding-top: 0.55rem; border-top: 1px solid #A9D6CE; }
+.sg-doc-row b { display: block; font-size: 0.7rem; letter-spacing: 0.14em; text-transform: uppercase; color: #2F7F86; margin-bottom: 0.15rem; }
 .sg-seriesnav { font-size: 0.82rem; letter-spacing: 0.12em; text-transform: uppercase; color: var(--ocean); font-weight: 600; margin: 0 0 1.6rem; }
 .sg-seriesnav a { color: var(--ocean); }
 .sg-next { margin: 2.6rem 0 0; text-transform: none; letter-spacing: 0; font-size: 1rem; background: var(--paper-warm); border: 1px solid var(--gold-soft); border-radius: var(--radius); padding: 0.9rem 1.2rem; color: var(--ink); font-weight: 400; }
@@ -117,6 +125,20 @@ table.sg-syn td:first-child { font-weight: 600; color: var(--gold-deep); backgro
 <p>Peter, the same man who had denied Jesus seven weeks earlier, stood up and preached. He explained that this was what the prophet Joel had promised: “I will pour out my Spirit on all flesh” (Acts 2:17; Joel 2:28). He told them about Jesus, whom they had crucified and God had raised. “Let all the house of Israel therefore know for certain that God has made him both Lord and Christ, this Jesus whom you crucified” (2:36).</p>
 
 <p>The crowd was “cut to the heart” and asked, “Brothers, what shall we do?” Peter answered: “Repent and be baptized every one of you in the name of Jesus Christ for the forgiveness of your sins, and you will receive the gift of the Holy Spirit. For the promise is for you and for your children and for all who are far off, everyone whom the Lord our God calls to himself” (2:37–39). That day about three thousand people believed and were baptized (2:41). The water did not wash away their sins by itself. Baptism was God’s visible mark and seal on those who belonged to Jesus, and Peter was careful to say the promise included their children. The church was born.</p>
+
+<!--doctrine-->
+<div class="sg-doctrine">
+<div class="sg-doc-head"><span class="sg-doc-kicker">Core Doctrine 23 of 26</span><span class="sg-doc-name">Baptism</span></div>
+<div class="sg-doc-body">
+<p class="sg-doc-def">Baptism is the sign Jesus commanded for his people: washing with water in the name of the Father and of the Son and of the Holy Spirit. It marks a person as belonging to Christ and joins them to his church. The water itself does not save. Christ saves, and baptism is his visible sign and promise of cleansing and new life in him.</p>
+<div class="sg-doc-row"><b>Key verses</b>Matthew 28:19; Acts 2:38–41; Romans 6:3–4</div>
+<div class="sg-doc-row"><b>What the church confesses</b><em>“I acknowledge one Baptism for the remission of sins.”</em> (Nicene Creed (baptism is the sign and pledge of forgiveness; Christ is the one who forgives))</div>
+<div class="sg-doc-row"><b>The Trinity here</b>Jesus commanded baptism in one name, “the name,” of three persons: the Father, the Son, and the Holy Spirit.</div>
+<div class="sg-doc-row"><b>Where churches differ</b>Bible-believing churches agree that Christ commands baptism and that it belongs to his people. They differ on infants. Presbyterian, Reformed, and many other churches baptize the children of believers as part of God’s covenant family (Acts 2:39). Baptist and many independent churches baptize only those who profess faith for themselves. If you are unsure, talk with a pastor.</div>
+<div class="sg-doc-row"><b>Why it matters</b>If you have trusted Christ and have not been baptized, Jesus calls you to it. It is his public mark that you belong to him.</div>
+</div>
+</div>
+<!--/doctrine-->
 
 <h2 class="sg-section"><span class="sg-num">Part Two:</span> The First Church</h2>
 

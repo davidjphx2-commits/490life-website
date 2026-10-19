@@ -66,6 +66,14 @@ table.sg-syn td:first-child { font-weight: 600; color: var(--gold-deep); backgro
 .sg-thread-tag { display: inline-block; font-size: 0.74rem; font-weight: 600; letter-spacing: 0.06em; text-transform: uppercase; border-radius: 999px; padding: 0.1rem 0.6rem; margin-right: 0.45rem; color: #fff; }
 .sg-dwell { background: var(--deep, #0E3B45); }
 .sg-lamb { background: var(--gold-deep); }
+.sg-doctrine { margin: 2rem 0; border: 1.5px solid var(--deep, #0E3B45); border-radius: var(--radius, 8px); background: #fff; overflow: hidden; }
+.sg-doc-head { background: var(--deep, #0E3B45); color: #fff; padding: 0.7rem 1.3rem; }
+.sg-doc-kicker { display: block; font-size: 0.72rem; letter-spacing: 0.2em; text-transform: uppercase; font-weight: 700; color: #E8D3A0; }
+.sg-doc-name { display: block; font-family: var(--display, 'Cormorant Garamond', Georgia, serif); font-size: 1.6rem; font-weight: 600; line-height: 1.15; }
+.sg-doc-body { padding: 1rem 1.3rem 0.5rem; }
+.sg-doc-def { margin: 0 0 0.8rem; line-height: 1.6; }
+.sg-doc-row { font-size: 0.95rem; line-height: 1.55; margin: 0 0 0.7rem; padding-top: 0.55rem; border-top: 1px solid #A9D6CE; }
+.sg-doc-row b { display: block; font-size: 0.7rem; letter-spacing: 0.14em; text-transform: uppercase; color: #2F7F86; margin-bottom: 0.15rem; }
 .sg-seriesnav { font-size: 0.82rem; letter-spacing: 0.12em; text-transform: uppercase; color: var(--ocean); font-weight: 600; margin: 0 0 1.6rem; }
 .sg-seriesnav a { color: var(--ocean); }
 .sg-next { margin: 2.6rem 0 0; text-transform: none; letter-spacing: 0; font-size: 1rem; background: var(--paper-warm); border: 1px solid var(--gold-soft); border-radius: var(--radius); padding: 0.9rem 1.2rem; color: var(--ink); font-weight: 400; }
@@ -173,6 +181,19 @@ table.sg-syn td:first-child { font-weight: 600; color: var(--gold-deep); backgro
 <div class="sg-thread-row"><span class="sg-thread-tag sg-dwell">God with his people</span> The King sits on a hillside with fishermen, touches lepers, and eats with sinners. “The kingdom of God is in the midst of you,” Jesus said (Luke 17:21), because the King himself was standing there.</div>
 <div class="sg-thread-row"><span class="sg-thread-tag sg-lamb">The Lamb</span> This King did not come to be served. “For even the Son of Man came not to be served but to serve, and to give his life as a ransom for many” (Mark 10:45). The kingdom would be won not with a sword but with a cross. That is Lesson 21.</div>
 </div>
+
+<!--doctrine-->
+<div class="sg-doctrine">
+<div class="sg-doc-head"><span class="sg-doc-kicker">Core Doctrine 20 of 26</span><span class="sg-doc-name">The Holy Spirit and the New Birth</span></div>
+<div class="sg-doc-body">
+<p class="sg-doc-def">No one can enter God’s kingdom by trying harder. We must be born again. The Holy Spirit gives new life to spiritually dead hearts, opens our eyes to see Christ, and makes us willing to trust him. Faith itself is his gift.</p>
+<div class="sg-doc-row"><b>Key verses</b>John 3:3–8; Ezekiel 36:26–27; Titus 3:5; Ephesians 2:4–5, 8</div>
+<div class="sg-doc-row"><b>What the church confesses</b><em>“Effectual calling is the work of God’s Spirit, whereby, convincing us of our sin and misery, enlightening our minds in the knowledge of Christ, and renewing our wills, he doth persuade and enable us to embrace Jesus Christ, freely offered to us in the gospel.”</em> (Westminster Shorter Catechism 31)</div>
+<div class="sg-doc-row"><b>The Trinity here</b>The Spirit is not a force but a person, fully God with the Father and the Son: “the Lord and giver of life” (Nicene Creed).</div>
+<div class="sg-doc-row"><b>Why it matters</b>If you find yourself drawn to Christ, that is the Spirit at work. Come to him.</div>
+</div>
+</div>
+<!--/doctrine-->
 
 <h2 class="sg-section"><span class="sg-num">The Turn:</span> Treasure Worth Everything</h2>
 

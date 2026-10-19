@@ -66,6 +66,14 @@ table.sg-syn td:first-child { font-weight: 600; color: var(--gold-deep); backgro
 .sg-thread-tag { display: inline-block; font-size: 0.74rem; font-weight: 600; letter-spacing: 0.06em; text-transform: uppercase; border-radius: 999px; padding: 0.1rem 0.6rem; margin-right: 0.45rem; color: #fff; }
 .sg-dwell { background: var(--deep, #0E3B45); }
 .sg-lamb { background: var(--gold-deep); }
+.sg-doctrine { margin: 2rem 0; border: 1.5px solid var(--deep, #0E3B45); border-radius: var(--radius, 8px); background: #fff; overflow: hidden; }
+.sg-doc-head { background: var(--deep, #0E3B45); color: #fff; padding: 0.7rem 1.3rem; }
+.sg-doc-kicker { display: block; font-size: 0.72rem; letter-spacing: 0.2em; text-transform: uppercase; font-weight: 700; color: #E8D3A0; }
+.sg-doc-name { display: block; font-family: var(--display, 'Cormorant Garamond', Georgia, serif); font-size: 1.6rem; font-weight: 600; line-height: 1.15; }
+.sg-doc-body { padding: 1rem 1.3rem 0.5rem; }
+.sg-doc-def { margin: 0 0 0.8rem; line-height: 1.6; }
+.sg-doc-row { font-size: 0.95rem; line-height: 1.55; margin: 0 0 0.7rem; padding-top: 0.55rem; border-top: 1px solid #A9D6CE; }
+.sg-doc-row b { display: block; font-size: 0.7rem; letter-spacing: 0.14em; text-transform: uppercase; color: #2F7F86; margin-bottom: 0.15rem; }
 .sg-seriesnav { font-size: 0.82rem; letter-spacing: 0.12em; text-transform: uppercase; color: var(--ocean); font-weight: 600; margin: 0 0 1.6rem; }
 .sg-seriesnav a { color: var(--ocean); }
 .sg-next { margin: 2.6rem 0 0; text-transform: none; letter-spacing: 0; font-size: 1rem; background: var(--paper-warm); border: 1px solid var(--gold-soft); border-radius: var(--radius); padding: 0.9rem 1.2rem; color: var(--ink); font-weight: 400; }
@@ -166,6 +174,18 @@ table.sg-syn td:first-child { font-weight: 600; color: var(--gold-deep); backgro
 <div class="sg-verse"><span class="sg-ref">2 Peter 1:21</span> &nbsp;“For no prophecy was ever produced by the will of man, but men spoke from God as they were carried along by the Holy Spirit.”</div>
 
 <p>Peter’s word for “carried along” is the same verb Luke uses for a ship driven by the wind (Acts 27:15, 17). The writers really wrote. Their personalities, vocabularies, and circumstances show on every page. But the Spirit filled the sails, and he brought them all to the same harbor. The book of Hebrews opens by naming that harbor: “Long ago, at many times and in many ways, God spoke to our fathers by the prophets, but in these last days he has spoken to us by his Son” (Heb. 1:1–2). Many times, many ways, one Speaker, one final Word.</p>
+
+<!--doctrine-->
+<div class="sg-doctrine">
+<div class="sg-doc-head"><span class="sg-doc-kicker">Core Doctrine 1 of 26 &middot; Scripture Alone</span><span class="sg-doc-name">The Authority of Scripture</span></div>
+<div class="sg-doc-body">
+<p class="sg-doc-def">The Bible is God’s own word, written by human authors as the Holy Spirit carried them along. It is true in all it teaches, and it is the final authority over everything we believe and do. Traditions, feelings, and experts are tested by Scripture, never the other way around.</p>
+<div class="sg-doc-row"><b>Key verses</b>2 Timothy 3:16–17; 2 Peter 1:20–21; Luke 24:27, 44</div>
+<div class="sg-doc-row"><b>What the church confesses</b><em>“The Word of God, which is contained in the Scriptures of the Old and New Testaments, is the only rule to direct us how we may glorify and enjoy him.”</em> (Westminster Shorter Catechism 2)</div>
+<div class="sg-doc-row"><b>Why it matters</b>You do not have to guess what God is like or what he wants. He has spoken, and you can open his word and hear him for yourself.</div>
+</div>
+</div>
+<!--/doctrine-->
 
 <h2 class="sg-section"><span class="sg-num">Part Four:</span> The Whole Story in Four Acts</h2>
 

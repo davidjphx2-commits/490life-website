@@ -66,6 +66,14 @@ table.sg-syn td:first-child { font-weight: 600; color: var(--gold-deep); backgro
 .sg-thread-tag { display: inline-block; font-size: 0.74rem; font-weight: 600; letter-spacing: 0.06em; text-transform: uppercase; border-radius: 999px; padding: 0.1rem 0.6rem; margin-right: 0.45rem; color: #fff; }
 .sg-dwell { background: var(--deep, #0E3B45); }
 .sg-lamb { background: var(--gold-deep); }
+.sg-doctrine { margin: 2rem 0; border: 1.5px solid var(--deep, #0E3B45); border-radius: var(--radius, 8px); background: #fff; overflow: hidden; }
+.sg-doc-head { background: var(--deep, #0E3B45); color: #fff; padding: 0.7rem 1.3rem; }
+.sg-doc-kicker { display: block; font-size: 0.72rem; letter-spacing: 0.2em; text-transform: uppercase; font-weight: 700; color: #E8D3A0; }
+.sg-doc-name { display: block; font-family: var(--display, 'Cormorant Garamond', Georgia, serif); font-size: 1.6rem; font-weight: 600; line-height: 1.15; }
+.sg-doc-body { padding: 1rem 1.3rem 0.5rem; }
+.sg-doc-def { margin: 0 0 0.8rem; line-height: 1.6; }
+.sg-doc-row { font-size: 0.95rem; line-height: 1.55; margin: 0 0 0.7rem; padding-top: 0.55rem; border-top: 1px solid #A9D6CE; }
+.sg-doc-row b { display: block; font-size: 0.7rem; letter-spacing: 0.14em; text-transform: uppercase; color: #2F7F86; margin-bottom: 0.15rem; }
 .sg-seriesnav { font-size: 0.82rem; letter-spacing: 0.12em; text-transform: uppercase; color: var(--ocean); font-weight: 600; margin: 0 0 1.6rem; }
 .sg-seriesnav a { color: var(--ocean); }
 .sg-next { margin: 2.6rem 0 0; text-transform: none; letter-spacing: 0; font-size: 1rem; background: var(--paper-warm); border: 1px solid var(--gold-soft); border-radius: var(--radius); padding: 0.9rem 1.2rem; color: var(--ink); font-weight: 400; }
@@ -138,6 +146,18 @@ table.sg-syn td:first-child { font-weight: 600; color: var(--gold-deep); backgro
 <p>His most famous passage asks a hard question: “What good is it, my brothers, if someone says he has faith but does not have works? Can that faith save him?” Imagine a brother or sister without food or clothes, and you say, “Go in peace, be warmed and filled,” and do nothing. “So also faith by itself, if it does not have works, is dead” (2:14–17).</p>
 
 <p>Then James writes, “You see that a person is justified by works and not by faith alone” (2:24). Does that contradict Paul, who wrote that “one is justified by faith apart from works of the law” (Rom. 3:28)? No. They are fighting different enemies. Paul is answering people who think they can earn God’s acceptance, so he says we are declared righteous by faith alone. James is answering people who claim to have faith but live as if Christ makes no difference, so he says real faith is shown to be real by what it does. James even uses the word “justified” in a different sense. His example is Abraham offering Isaac on the altar (2:21), many years after God had already counted Abraham righteous for believing his promise (Gen. 15:6). Abraham’s obedience did not make him right with God. It showed that he already was. Paul is talking about the root, and James is talking about the fruit. We are saved by faith alone, but the faith that saves is never alone.</p>
+
+<!--doctrine-->
+<div class="sg-doctrine">
+<div class="sg-doc-head"><span class="sg-doc-kicker">Core Doctrine 25 of 26</span><span class="sg-doc-name">Sanctification and Perseverance</span></div>
+<div class="sg-doc-body">
+<p class="sg-doc-def">Those God justifies, he also makes holy. Sanctification is the Spirit’s lifelong work of making us more like Christ, as we put sin to death and grow in love and obedience. It is never finished in this life, but God will finish it. Everyone truly joined to Christ will persevere to the end, because he keeps them.</p>
+<div class="sg-doc-row"><b>Key verses</b>Philippians 1:6; 2:12–13; Hebrews 12:14; 1 Peter 1:5; Jude 24</div>
+<div class="sg-doc-row"><b>What the church confesses</b><em>“Sanctification is the work of God’s free grace, whereby we are renewed in the whole man after the image of God, and are enabled more and more to die unto sin, and live unto righteousness.”</em> (Westminster Shorter Catechism 35)<br><em>“They, whom God hath accepted in his Beloved, effectually called, and sanctified by his Spirit, can neither totally nor finally fall away from the state of grace, but shall certainly persevere therein to the end, and be eternally saved.”</em> (Westminster Confession of Faith 17.1)</div>
+<div class="sg-doc-row"><b>Why it matters</b>If you belong to Christ, your growth may be slow, but it is real, and it is God’s work. He will finish what he started in you.</div>
+</div>
+</div>
+<!--/doctrine-->
 
 <h2 class="sg-section"><span class="sg-num">Part Three:</span> Peter: Hope in Suffering</h2>
 

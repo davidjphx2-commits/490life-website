@@ -66,6 +66,14 @@ table.sg-syn td:first-child { font-weight: 600; color: var(--gold-deep); backgro
 .sg-thread-tag { display: inline-block; font-size: 0.74rem; font-weight: 600; letter-spacing: 0.06em; text-transform: uppercase; border-radius: 999px; padding: 0.1rem 0.6rem; margin-right: 0.45rem; color: #fff; }
 .sg-dwell { background: var(--deep, #0E3B45); }
 .sg-lamb { background: var(--gold-deep); }
+.sg-doctrine { margin: 2rem 0; border: 1.5px solid var(--deep, #0E3B45); border-radius: var(--radius, 8px); background: #fff; overflow: hidden; }
+.sg-doc-head { background: var(--deep, #0E3B45); color: #fff; padding: 0.7rem 1.3rem; }
+.sg-doc-kicker { display: block; font-size: 0.72rem; letter-spacing: 0.2em; text-transform: uppercase; font-weight: 700; color: #E8D3A0; }
+.sg-doc-name { display: block; font-family: var(--display, 'Cormorant Garamond', Georgia, serif); font-size: 1.6rem; font-weight: 600; line-height: 1.15; }
+.sg-doc-body { padding: 1rem 1.3rem 0.5rem; }
+.sg-doc-def { margin: 0 0 0.8rem; line-height: 1.6; }
+.sg-doc-row { font-size: 0.95rem; line-height: 1.55; margin: 0 0 0.7rem; padding-top: 0.55rem; border-top: 1px solid #A9D6CE; }
+.sg-doc-row b { display: block; font-size: 0.7rem; letter-spacing: 0.14em; text-transform: uppercase; color: #2F7F86; margin-bottom: 0.15rem; }
 .sg-seriesnav { font-size: 0.82rem; letter-spacing: 0.12em; text-transform: uppercase; color: var(--ocean); font-weight: 600; margin: 0 0 1.6rem; }
 .sg-seriesnav a { color: var(--ocean); }
 .sg-next { margin: 2.6rem 0 0; text-transform: none; letter-spacing: 0; font-size: 1rem; background: var(--paper-warm); border: 1px solid var(--gold-soft); border-radius: var(--radius); padding: 0.9rem 1.2rem; color: var(--ink); font-weight: 400; }
@@ -182,6 +190,18 @@ table.sg-syn td:first-child { font-weight: 600; color: var(--gold-deep); backgro
 <img src="/assets/whole-story-08-fire.jpg" alt="A great desert encampment of tents at night beneath a towering column of fire rising into the clouds">
 <div class="sg-cap">“The pillar of cloud by day and the pillar of fire by night did not depart from before the people” (Ex. 13:22).</div>
 </div>
+
+<!--doctrine-->
+<div class="sg-doctrine">
+<div class="sg-doc-head"><span class="sg-doc-kicker">Core Doctrine 8 of 26</span><span class="sg-doc-name">Redemption</span></div>
+<div class="sg-doc-body">
+<p class="sg-doc-def">To redeem is to set a slave free by paying a price. God redeemed Israel from Egypt by the blood of the Passover lamb and the power of his arm. That rescue was a picture of a greater one: Christ redeems sinners from sin, death, and the devil by his own blood.</p>
+<div class="sg-doc-row"><b>Key verses</b>Exodus 6:6; 12:13; Mark 10:45; 1 Peter 1:18–19</div>
+<div class="sg-doc-row"><b>What the church confesses</b><em>“The only Redeemer of God’s elect is the Lord Jesus Christ.”</em> (Westminster Shorter Catechism 21)</div>
+<div class="sg-doc-row"><b>Why it matters</b>Freedom from sin is not cheap. Christ paid for it with his own blood, and everyone who trusts him belongs to the One who paid it.</div>
+</div>
+</div>
+<!--/doctrine-->
 
 <h2 class="sg-section"><span class="sg-num">The Turn:</span> Our Passover Lamb</h2>
 

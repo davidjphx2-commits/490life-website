@@ -66,6 +66,14 @@ table.sg-syn td:first-child { font-weight: 600; color: var(--gold-deep); backgro
 .sg-thread-tag { display: inline-block; font-size: 0.74rem; font-weight: 600; letter-spacing: 0.06em; text-transform: uppercase; border-radius: 999px; padding: 0.1rem 0.6rem; margin-right: 0.45rem; color: #fff; }
 .sg-dwell { background: var(--deep, #0E3B45); }
 .sg-lamb { background: var(--gold-deep); }
+.sg-doctrine { margin: 2rem 0; border: 1.5px solid var(--deep, #0E3B45); border-radius: var(--radius, 8px); background: #fff; overflow: hidden; }
+.sg-doc-head { background: var(--deep, #0E3B45); color: #fff; padding: 0.7rem 1.3rem; }
+.sg-doc-kicker { display: block; font-size: 0.72rem; letter-spacing: 0.2em; text-transform: uppercase; font-weight: 700; color: #E8D3A0; }
+.sg-doc-name { display: block; font-family: var(--display, 'Cormorant Garamond', Georgia, serif); font-size: 1.6rem; font-weight: 600; line-height: 1.15; }
+.sg-doc-body { padding: 1rem 1.3rem 0.5rem; }
+.sg-doc-def { margin: 0 0 0.8rem; line-height: 1.6; }
+.sg-doc-row { font-size: 0.95rem; line-height: 1.55; margin: 0 0 0.7rem; padding-top: 0.55rem; border-top: 1px solid #A9D6CE; }
+.sg-doc-row b { display: block; font-size: 0.7rem; letter-spacing: 0.14em; text-transform: uppercase; color: #2F7F86; margin-bottom: 0.15rem; }
 .sg-seriesnav { font-size: 0.82rem; letter-spacing: 0.12em; text-transform: uppercase; color: var(--ocean); font-weight: 600; margin: 0 0 1.6rem; }
 .sg-seriesnav a { color: var(--ocean); }
 .sg-next { margin: 2.6rem 0 0; text-transform: none; letter-spacing: 0; font-size: 1rem; background: var(--paper-warm); border: 1px solid var(--gold-soft); border-radius: var(--radius); padding: 0.9rem 1.2rem; color: var(--ink); font-weight: 400; }
@@ -181,6 +189,18 @@ table.sg-syn td:first-child { font-weight: 600; color: var(--gold-deep); backgro
 <div class="sg-thread-row"><span class="sg-thread-tag sg-dwell">God with his people</span> Ruth came to take refuge under the wings of the God of Israel (2:12), and she asked Boaz to spread his wings over her (3:9). It is a picture of a bird sheltering its young, and of the cherubim whose wings stretched over the mercy seat (Lesson 10). Jesus used the same picture when he grieved over Jerusalem: “How often would I have gathered your children together as a hen gathers her brood under her wings” (Matt. 23:37).</div>
 <div class="sg-thread-row"><span class="sg-thread-tag sg-lamb">The Lamb</span> The family line that leads to the promised Offspring keeps running through unlikely people: Tamar, Rahab the Canaanite, Ruth the Moabite. God is preserving a bloodline, and he is also showing that his rescue will reach the nations and that he takes outsiders in.</div>
 </div>
+
+<!--doctrine-->
+<div class="sg-doctrine">
+<div class="sg-doc-head"><span class="sg-doc-kicker">Core Doctrine 13 of 26 &middot; Grace Alone</span><span class="sg-doc-name">Election and Sovereign Grace</span></div>
+<div class="sg-doc-body">
+<p class="sg-doc-def">Salvation begins with God, not with us. Before the world began God chose a people to save, not because of anything good in them, but out of his own love. He calls outsiders like Ruth, a Moabite widow, into his family. Grace is undeserved, and it is the only reason anyone is saved.</p>
+<div class="sg-doc-row"><b>Key verses</b>Ruth 1:16; 2:10; Ephesians 1:4–5; 2:8–9; John 6:37</div>
+<div class="sg-doc-row"><b>What the church confesses</b><em>“God having, out of his mere good pleasure, from all eternity, elected some to everlasting life, did enter into a covenant of grace.”</em> (Westminster Shorter Catechism 20)</div>
+<div class="sg-doc-row"><b>Why it matters</b>If grace depended on you, you could lose it. Because it depends on God, those who come to Christ are held fast, and no one who comes is turned away.</div>
+</div>
+</div>
+<!--/doctrine-->
 
 <h2 class="sg-section"><span class="sg-num">The Turn:</span> Our Kinsman-Redeemer and King</h2>
 

@@ -66,6 +66,14 @@ table.sg-syn td:first-child { font-weight: 600; color: var(--gold-deep); backgro
 .sg-thread-tag { display: inline-block; font-size: 0.74rem; font-weight: 600; letter-spacing: 0.06em; text-transform: uppercase; border-radius: 999px; padding: 0.1rem 0.6rem; margin-right: 0.45rem; color: #fff; }
 .sg-dwell { background: var(--deep, #0E3B45); }
 .sg-lamb { background: var(--gold-deep); }
+.sg-doctrine { margin: 2rem 0; border: 1.5px solid var(--deep, #0E3B45); border-radius: var(--radius, 8px); background: #fff; overflow: hidden; }
+.sg-doc-head { background: var(--deep, #0E3B45); color: #fff; padding: 0.7rem 1.3rem; }
+.sg-doc-kicker { display: block; font-size: 0.72rem; letter-spacing: 0.2em; text-transform: uppercase; font-weight: 700; color: #E8D3A0; }
+.sg-doc-name { display: block; font-family: var(--display, 'Cormorant Garamond', Georgia, serif); font-size: 1.6rem; font-weight: 600; line-height: 1.15; }
+.sg-doc-body { padding: 1rem 1.3rem 0.5rem; }
+.sg-doc-def { margin: 0 0 0.8rem; line-height: 1.6; }
+.sg-doc-row { font-size: 0.95rem; line-height: 1.55; margin: 0 0 0.7rem; padding-top: 0.55rem; border-top: 1px solid #A9D6CE; }
+.sg-doc-row b { display: block; font-size: 0.7rem; letter-spacing: 0.14em; text-transform: uppercase; color: #2F7F86; margin-bottom: 0.15rem; }
 .sg-seriesnav { font-size: 0.82rem; letter-spacing: 0.12em; text-transform: uppercase; color: var(--ocean); font-weight: 600; margin: 0 0 1.6rem; }
 .sg-seriesnav a { color: var(--ocean); }
 .sg-next { margin: 2.6rem 0 0; text-transform: none; letter-spacing: 0; font-size: 1rem; background: var(--paper-warm); border: 1px solid var(--gold-soft); border-radius: var(--radius); padding: 0.9rem 1.2rem; color: var(--ink); font-weight: 400; }
@@ -183,6 +191,18 @@ table.sg-syn td:first-child { font-weight: 600; color: var(--gold-deep); backgro
 <p>If the sacrifices had to be repeated, did they actually work? Leviticus says the worshiper “shall be forgiven” (Lev. 4:31). Yet Hebrews says plainly, “it is impossible for the blood of bulls and goats to take away sins” (Heb. 10:4). Both are true. The forgiveness was real, but the power behind it was never in the animal. An animal cannot truly stand in for a human being. So how were faithful Israelites forgiven?</p>
 
 <p>The same way we are: by grace, through faith in the Savior God promised. The sacrifices were real, God-given signs. When a believing Israelite laid his hand on the animal, he was trusting God’s promise of forgiveness, and that promise was always resting on the sacrifice still to come. The Westminster Confession says the benefits of Christ’s death were given to believers in every age “in and by those promises, types, and sacrifices” that pointed to him (WCF 8.6). Think of it like this. A friend whose word never fails promises to pay your debt in full on a set day. The moment you trust his promise you are free, even though the payment is still coming. The sacrifices were God’s signed promise in advance. The Confession says they were enough to build up believers “in faith in the promised Messiah, by whom they had full remission of sins, and eternal salvation” (WCF 7.5). Paul says that “in his divine forbearance he had passed over former sins,” and the cross shows that God was right to do so (Rom. 3:25–26).</p>
+
+<!--doctrine-->
+<div class="sg-doctrine">
+<div class="sg-doc-head"><span class="sg-doc-kicker">Core Doctrine 11 of 26 &middot; Christ Alone</span><span class="sg-doc-name">Christ Our Substitute</span></div>
+<div class="sg-doc-body">
+<p class="sg-doc-def">On the cross Jesus took the place of sinners. He bore the penalty our sins deserved and satisfied God’s justice, so that God can forgive us and still be just. The Day of Atonement pictured it with two goats: one died, and one carried the people’s sins away.</p>
+<div class="sg-doc-row"><b>Key verses</b>Leviticus 16:21–22; Isaiah 53:5–6; Romans 3:25–26; 2 Corinthians 5:21; 1 Peter 3:18</div>
+<div class="sg-doc-row"><b>What the church confesses</b><em>“Christ executeth the office of a priest, in his once offering up of himself a sacrifice to satisfy divine justice, and reconcile us to God; and in making continual intercession for us.”</em> (Westminster Shorter Catechism 25)</div>
+<div class="sg-doc-row"><b>Why it matters</b>If you trust Christ, your sin is not ignored. It was paid for in full, and nothing is left for you to pay. That offer is open to you today.</div>
+</div>
+</div>
+<!--/doctrine-->
 
 <h2 class="sg-section"><span class="sg-num">The Turn:</span> Once for All</h2>
 

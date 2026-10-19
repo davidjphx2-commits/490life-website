@@ -66,6 +66,14 @@ table.sg-syn td:first-child { font-weight: 600; color: var(--gold-deep); backgro
 .sg-thread-tag { display: inline-block; font-size: 0.74rem; font-weight: 600; letter-spacing: 0.06em; text-transform: uppercase; border-radius: 999px; padding: 0.1rem 0.6rem; margin-right: 0.45rem; color: #fff; }
 .sg-dwell { background: var(--deep, #0E3B45); }
 .sg-lamb { background: var(--gold-deep); }
+.sg-doctrine { margin: 2rem 0; border: 1.5px solid var(--deep, #0E3B45); border-radius: var(--radius, 8px); background: #fff; overflow: hidden; }
+.sg-doc-head { background: var(--deep, #0E3B45); color: #fff; padding: 0.7rem 1.3rem; }
+.sg-doc-kicker { display: block; font-size: 0.72rem; letter-spacing: 0.2em; text-transform: uppercase; font-weight: 700; color: #E8D3A0; }
+.sg-doc-name { display: block; font-family: var(--display, 'Cormorant Garamond', Georgia, serif); font-size: 1.6rem; font-weight: 600; line-height: 1.15; }
+.sg-doc-body { padding: 1rem 1.3rem 0.5rem; }
+.sg-doc-def { margin: 0 0 0.8rem; line-height: 1.6; }
+.sg-doc-row { font-size: 0.95rem; line-height: 1.55; margin: 0 0 0.7rem; padding-top: 0.55rem; border-top: 1px solid #A9D6CE; }
+.sg-doc-row b { display: block; font-size: 0.7rem; letter-spacing: 0.14em; text-transform: uppercase; color: #2F7F86; margin-bottom: 0.15rem; }
 .sg-seriesnav { font-size: 0.82rem; letter-spacing: 0.12em; text-transform: uppercase; color: var(--ocean); font-weight: 600; margin: 0 0 1.6rem; }
 .sg-seriesnav a { color: var(--ocean); }
 .sg-next { margin: 2.6rem 0 0; text-transform: none; letter-spacing: 0; font-size: 1rem; background: var(--paper-warm); border: 1px solid var(--gold-soft); border-radius: var(--radius); padding: 0.9rem 1.2rem; color: var(--ink); font-weight: 400; }
@@ -177,6 +185,18 @@ table.sg-syn td:first-child { font-weight: 600; color: var(--gold-deep); backgro
 <h3 class="sg-h3">A Note on “Seventy Sevens”</h3>
 
 <p>During the exile, Daniel received a vision about how long God’s people would wait: “Seventy weeks are decreed about your people and your holy city, to finish the transgression, to put an end to sin, and to atone for iniquity, to bring in everlasting righteousness” (Dan. 9:24). The word translated “weeks” means “sevens,” and most interpreters understand it as seventy sevens of years: 490 years. Christians have counted these years in different ways, and the details are debated. But many Reformed interpreters see the heart of this prophecy fulfilled in Jesus, who came to “put an end to sin” and “atone for iniquity.” Some readers notice another connection. When Peter asks how often he must forgive, Jesus answers, “seventy-seven times” (Matt. 18:22). The Greek can also be read “seventy times seven,” which the ESV gives in a footnote, and that reading comes to 490. Many scholars hear an echo of Lamech, who boasted of revenge “seventy-sevenfold” (Gen. 4:24), turned upside down into forgiveness. Daniel’s prophecy and Peter’s question are not about the same thing, so we should hold the link loosely. But both point the same way: in Jesus, God deals with sin completely, and those he forgives learn to forgive without keeping count.</p>
+
+<!--doctrine-->
+<div class="sg-doctrine">
+<div class="sg-doc-head"><span class="sg-doc-kicker">Core Doctrine 18 of 26</span><span class="sg-doc-name">The Faithfulness of God</span></div>
+<div class="sg-doc-body">
+<p class="sg-doc-def">God always keeps his word. He promised to bring his people home after seventy years, and he did. He promised to send a Messiah, and through four hundred silent years he did not forget. Every promise of God finds its yes in Jesus Christ.</p>
+<div class="sg-doc-row"><b>Key verses</b>Jeremiah 29:10; Lamentations 3:22–23; 2 Corinthians 1:20; 2 Timothy 2:13</div>
+<div class="sg-doc-row"><b>What the church confesses</b><em>“God is a Spirit, infinite, eternal, and unchangeable, in his being, wisdom, power, holiness, justice, goodness, and truth.”</em> (Westminster Shorter Catechism 4)</div>
+<div class="sg-doc-row"><b>Why it matters</b>When God seems silent, he has not forgotten you. The God who kept his promises through centuries will keep his promises to you.</div>
+</div>
+</div>
+<!--/doctrine-->
 
 <h2 class="sg-section"><span class="sg-num">The Turn:</span> The Silence Breaks</h2>
 

@@ -66,6 +66,14 @@ table.sg-syn td:first-child { font-weight: 600; color: var(--gold-deep); backgro
 .sg-thread-tag { display: inline-block; font-size: 0.74rem; font-weight: 600; letter-spacing: 0.06em; text-transform: uppercase; border-radius: 999px; padding: 0.1rem 0.6rem; margin-right: 0.45rem; color: #fff; }
 .sg-dwell { background: var(--deep, #0E3B45); }
 .sg-lamb { background: var(--gold-deep); }
+.sg-doctrine { margin: 2rem 0; border: 1.5px solid var(--deep, #0E3B45); border-radius: var(--radius, 8px); background: #fff; overflow: hidden; }
+.sg-doc-head { background: var(--deep, #0E3B45); color: #fff; padding: 0.7rem 1.3rem; }
+.sg-doc-kicker { display: block; font-size: 0.72rem; letter-spacing: 0.2em; text-transform: uppercase; font-weight: 700; color: #E8D3A0; }
+.sg-doc-name { display: block; font-family: var(--display, 'Cormorant Garamond', Georgia, serif); font-size: 1.6rem; font-weight: 600; line-height: 1.15; }
+.sg-doc-body { padding: 1rem 1.3rem 0.5rem; }
+.sg-doc-def { margin: 0 0 0.8rem; line-height: 1.6; }
+.sg-doc-row { font-size: 0.95rem; line-height: 1.55; margin: 0 0 0.7rem; padding-top: 0.55rem; border-top: 1px solid #A9D6CE; }
+.sg-doc-row b { display: block; font-size: 0.7rem; letter-spacing: 0.14em; text-transform: uppercase; color: #2F7F86; margin-bottom: 0.15rem; }
 .sg-seriesnav { font-size: 0.82rem; letter-spacing: 0.12em; text-transform: uppercase; color: var(--ocean); font-weight: 600; margin: 0 0 1.6rem; }
 .sg-seriesnav a { color: var(--ocean); }
 .sg-next { margin: 2.6rem 0 0; text-transform: none; letter-spacing: 0; font-size: 1rem; background: var(--paper-warm); border: 1px solid var(--gold-soft); border-radius: var(--radius); padding: 0.9rem 1.2rem; color: var(--ink); font-weight: 400; }
@@ -210,6 +218,18 @@ table.sg-syn td:first-child { font-weight: 600; color: var(--gold-deep); backgro
 <p>Will you fully understand this? No. Neither do I, and neither did Augustine or Calvin. Most comparisons you will hear (water, ice, and steam; an egg with shell, white, and yolk) end up teaching one of the two mistakes. It is better to say what the Bible says and then bow. A God you could fully figure out would be a God about your size. The Trinity is exactly what you would expect if the God who is there is far greater than us and has truly told us about himself.</p>
 
 <p class="sg-refs"><b>Also read:</b> John 14:16–17, 26; 2 Corinthians 13:14; Ephesians 1:3–14; Matthew 28:18–20</p>
+
+<!--doctrine-->
+<div class="sg-doctrine">
+<div class="sg-doc-head"><span class="sg-doc-kicker">Core Doctrine 2 of 26</span><span class="sg-doc-name">The Trinity</span></div>
+<div class="sg-doc-body">
+<p class="sg-doc-def">There is one God, and he exists eternally as three persons: the Father, the Son, and the Holy Spirit. They are not three gods, and they are not one God wearing three masks. Each person is fully God, equal in power and glory, and each is distinct from the others.</p>
+<div class="sg-doc-row"><b>Key verses</b>Deuteronomy 6:4; Matthew 28:19; John 1:1–3; 2 Corinthians 13:14</div>
+<div class="sg-doc-row"><b>What the church confesses</b><em>“There are three persons in the Godhead; the Father, the Son, and the Holy Ghost; and these three are one God, the same in substance, equal in power and glory.”</em> (Westminster Shorter Catechism 6)<br><em>“Very God of very God, begotten, not made, being of one substance with the Father.”</em> (Nicene Creed, on the Son)</div>
+<div class="sg-doc-row"><b>Why it matters</b>God did not create us because he was lonely. The Father, the Son, and the Spirit have loved one another forever, and the gospel invites us into that love.</div>
+</div>
+</div>
+<!--/doctrine-->
 
 <h2 class="sg-section"><span class="sg-num">Part Five:</span> The God Who Needs Nothing and Loves Freely</h2>
 

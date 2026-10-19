@@ -66,6 +66,14 @@ table.sg-syn td:first-child { font-weight: 600; color: var(--gold-deep); backgro
 .sg-thread-tag { display: inline-block; font-size: 0.74rem; font-weight: 600; letter-spacing: 0.06em; text-transform: uppercase; border-radius: 999px; padding: 0.1rem 0.6rem; margin-right: 0.45rem; color: #fff; }
 .sg-dwell { background: var(--deep, #0E3B45); }
 .sg-lamb { background: var(--gold-deep); }
+.sg-doctrine { margin: 2rem 0; border: 1.5px solid var(--deep, #0E3B45); border-radius: var(--radius, 8px); background: #fff; overflow: hidden; }
+.sg-doc-head { background: var(--deep, #0E3B45); color: #fff; padding: 0.7rem 1.3rem; }
+.sg-doc-kicker { display: block; font-size: 0.72rem; letter-spacing: 0.2em; text-transform: uppercase; font-weight: 700; color: #E8D3A0; }
+.sg-doc-name { display: block; font-family: var(--display, 'Cormorant Garamond', Georgia, serif); font-size: 1.6rem; font-weight: 600; line-height: 1.15; }
+.sg-doc-body { padding: 1rem 1.3rem 0.5rem; }
+.sg-doc-def { margin: 0 0 0.8rem; line-height: 1.6; }
+.sg-doc-row { font-size: 0.95rem; line-height: 1.55; margin: 0 0 0.7rem; padding-top: 0.55rem; border-top: 1px solid #A9D6CE; }
+.sg-doc-row b { display: block; font-size: 0.7rem; letter-spacing: 0.14em; text-transform: uppercase; color: #2F7F86; margin-bottom: 0.15rem; }
 .sg-seriesnav { font-size: 0.82rem; letter-spacing: 0.12em; text-transform: uppercase; color: var(--ocean); font-weight: 600; margin: 0 0 1.6rem; }
 .sg-seriesnav a { color: var(--ocean); }
 .sg-next { margin: 2.6rem 0 0; text-transform: none; letter-spacing: 0; font-size: 1rem; background: var(--paper-warm); border: 1px solid var(--gold-soft); border-radius: var(--radius); padding: 0.9rem 1.2rem; color: var(--ink); font-weight: 400; }
@@ -155,6 +163,18 @@ table.sg-syn td:first-child { font-weight: 600; color: var(--gold-deep); backgro
 <p>Solomon knew that no building could hold God. The temple was a meeting place, the place where God had promised, “My name shall be there” (8:29). So Solomon asked God to hear every prayer prayed toward it. He prayed for Israel when they sinned and were defeated, when drought came, when sickness struck. He even prayed for foreigners: “when a foreigner, who is not of your people Israel, comes from a far country for your name’s sake… hear in heaven… in order that all the peoples of the earth may know your name” (8:41–43). And looking far ahead, he prayed for a day when Israel might be carried off into exile for their sins: if they repented there, would God hear and forgive (8:46–50)? That day would come, as we will see in Lesson 17.</p>
 
 <p>When he finished, “fire came down from heaven and consumed the burnt offering and the sacrifices, and the glory of the LORD filled the temple,” and the people fell on their faces and worshiped: “For he is good, for his steadfast love endures forever” (2 Chr. 7:1, 3). Solomon blessed the people with words that echo Joshua 21:45: “Not one word has failed of all his good promise” (1 Kings 8:56).</p>
+
+<!--doctrine-->
+<div class="sg-doctrine">
+<div class="sg-doc-head"><span class="sg-doc-kicker">Core Doctrine 15 of 26 &middot; Glory to God Alone</span><span class="sg-doc-name">Worship and Prayer</span></div>
+<div class="sg-doc-body">
+<p class="sg-doc-def">We were made to glorify God and enjoy him. Worship is giving God the honor he deserves, in all of life and together with his people. Prayer is bringing our requests to God, confessing our sins and thanking him for his mercies, as Solomon did at the temple. Christians now pray in Jesus’ name, because he is the way to the Father.</p>
+<div class="sg-doc-row"><b>Key verses</b>1 Kings 8:27–30; Psalm 95:1–7; John 4:23–24; Philippians 4:6</div>
+<div class="sg-doc-row"><b>What the church confesses</b><em>“Man’s chief end is to glorify God, and to enjoy him for ever.”</em> (Westminster Shorter Catechism 1)<br><em>“Prayer is an offering up of our desires unto God, for things agreeable to his will, in the name of Christ, with confession of our sins, and thankful acknowledgment of his mercies.”</em> (Westminster Shorter Catechism 98)</div>
+<div class="sg-doc-row"><b>Why it matters</b>Your life has a purpose bigger than yourself, and the God who made you invites you to talk to him.</div>
+</div>
+</div>
+<!--/doctrine-->
 
 <h2 class="sg-section"><span class="sg-num">Part Four:</span> The Wise King’s Foolish Heart</h2>
 

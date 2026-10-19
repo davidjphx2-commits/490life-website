@@ -66,6 +66,14 @@ table.sg-syn td:first-child { font-weight: 600; color: var(--gold-deep); backgro
 .sg-thread-tag { display: inline-block; font-size: 0.74rem; font-weight: 600; letter-spacing: 0.06em; text-transform: uppercase; border-radius: 999px; padding: 0.1rem 0.6rem; margin-right: 0.45rem; color: #fff; }
 .sg-dwell { background: var(--deep, #0E3B45); }
 .sg-lamb { background: var(--gold-deep); }
+.sg-doctrine { margin: 2rem 0; border: 1.5px solid var(--deep, #0E3B45); border-radius: var(--radius, 8px); background: #fff; overflow: hidden; }
+.sg-doc-head { background: var(--deep, #0E3B45); color: #fff; padding: 0.7rem 1.3rem; }
+.sg-doc-kicker { display: block; font-size: 0.72rem; letter-spacing: 0.2em; text-transform: uppercase; font-weight: 700; color: #E8D3A0; }
+.sg-doc-name { display: block; font-family: var(--display, 'Cormorant Garamond', Georgia, serif); font-size: 1.6rem; font-weight: 600; line-height: 1.15; }
+.sg-doc-body { padding: 1rem 1.3rem 0.5rem; }
+.sg-doc-def { margin: 0 0 0.8rem; line-height: 1.6; }
+.sg-doc-row { font-size: 0.95rem; line-height: 1.55; margin: 0 0 0.7rem; padding-top: 0.55rem; border-top: 1px solid #A9D6CE; }
+.sg-doc-row b { display: block; font-size: 0.7rem; letter-spacing: 0.14em; text-transform: uppercase; color: #2F7F86; margin-bottom: 0.15rem; }
 .sg-seriesnav { font-size: 0.82rem; letter-spacing: 0.12em; text-transform: uppercase; color: var(--ocean); font-weight: 600; margin: 0 0 1.6rem; }
 .sg-seriesnav a { color: var(--ocean); }
 .sg-next { margin: 2.6rem 0 0; text-transform: none; letter-spacing: 0; font-size: 1rem; background: var(--paper-warm); border: 1px solid var(--gold-soft); border-radius: var(--radius); padding: 0.9rem 1.2rem; color: var(--ink); font-weight: 400; }
@@ -165,6 +173,18 @@ table.sg-syn td:first-child { font-weight: 600; color: var(--gold-deep); backgro
 <p>Then God confirmed that covenant, a binding promise, with Noah and “every living creature” (9:10): “never again shall all flesh be cut off by the waters of the flood” (9:11). The sign was the rainbow. “While the earth remains, seedtime and harvest, cold and heat, summer and winter, day and night, shall not cease” (8:22). Reformed teachers have often called this a covenant of preservation. God promised to keep the world going, sun and rain and harvest for the just and the unjust (theologians call this common grace), so that his plan of rescue would have a world to unfold in. Every time you see a rainbow, you are looking at God’s promise to hold the world together until Jesus, the promised Offspring who has already come, comes again.</p>
 
 <p>But notice why God made that promise. “I will never again curse the ground because of man, for the intention of man’s heart is evil from his youth” (8:21). The flood washed the earth, but it did not wash the human heart. Almost the next thing we read about Noah is that he got drunk and lay uncovered in his tent (9:20–21). The man who found grace was still a sinner who needed it. Something deeper was needed.</p>
+
+<!--doctrine-->
+<div class="sg-doctrine">
+<div class="sg-doc-head"><span class="sg-doc-kicker">Core Doctrine 5 of 26</span><span class="sg-doc-name">God’s Justice and Mercy</span></div>
+<div class="sg-doc-body">
+<p class="sg-doc-def">God is perfectly just. He does not overlook evil, and sin brings real judgment, as the flood shows. He is also rich in mercy. He saved Noah and his family, set his bow in the sky, and patiently holds back judgment so that people may turn to him.</p>
+<div class="sg-doc-row"><b>Key verses</b>Genesis 6:5–8; 9:8–17; Exodus 34:6–7; 2 Peter 3:9</div>
+<div class="sg-doc-row"><b>What the church confesses</b><em>“All mankind by their fall lost communion with God, are under his wrath and curse…”</em> (Westminster Shorter Catechism 19)<br><em>“most loving, gracious, merciful, long-suffering, abundant in goodness and truth, forgiving iniquity, transgression, and sin; the rewarder of them that diligently seek him; and withal, most just, and terrible in his judgments, hating all sin, and who will by no means clear the guilty.”</em> (Westminster Confession of Faith 2.1, describing God)</div>
+<div class="sg-doc-row"><b>Why it matters</b>God’s justice means evil will not win. His mercy means there is still time to come to him.</div>
+</div>
+</div>
+<!--/doctrine-->
 
 <h2 class="sg-section"><span class="sg-num">Part Four:</span> Babel</h2>
 

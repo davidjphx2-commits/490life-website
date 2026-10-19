@@ -66,6 +66,14 @@ table.sg-syn td:first-child { font-weight: 600; color: var(--gold-deep); backgro
 .sg-thread-tag { display: inline-block; font-size: 0.74rem; font-weight: 600; letter-spacing: 0.06em; text-transform: uppercase; border-radius: 999px; padding: 0.1rem 0.6rem; margin-right: 0.45rem; color: #fff; }
 .sg-dwell { background: var(--deep, #0E3B45); }
 .sg-lamb { background: var(--gold-deep); }
+.sg-doctrine { margin: 2rem 0; border: 1.5px solid var(--deep, #0E3B45); border-radius: var(--radius, 8px); background: #fff; overflow: hidden; }
+.sg-doc-head { background: var(--deep, #0E3B45); color: #fff; padding: 0.7rem 1.3rem; }
+.sg-doc-kicker { display: block; font-size: 0.72rem; letter-spacing: 0.2em; text-transform: uppercase; font-weight: 700; color: #E8D3A0; }
+.sg-doc-name { display: block; font-family: var(--display, 'Cormorant Garamond', Georgia, serif); font-size: 1.6rem; font-weight: 600; line-height: 1.15; }
+.sg-doc-body { padding: 1rem 1.3rem 0.5rem; }
+.sg-doc-def { margin: 0 0 0.8rem; line-height: 1.6; }
+.sg-doc-row { font-size: 0.95rem; line-height: 1.55; margin: 0 0 0.7rem; padding-top: 0.55rem; border-top: 1px solid #A9D6CE; }
+.sg-doc-row b { display: block; font-size: 0.7rem; letter-spacing: 0.14em; text-transform: uppercase; color: #2F7F86; margin-bottom: 0.15rem; }
 .sg-seriesnav { font-size: 0.82rem; letter-spacing: 0.12em; text-transform: uppercase; color: var(--ocean); font-weight: 600; margin: 0 0 1.6rem; }
 .sg-seriesnav a { color: var(--ocean); }
 .sg-next { margin: 2.6rem 0 0; text-transform: none; letter-spacing: 0; font-size: 1rem; background: var(--paper-warm); border: 1px solid var(--gold-soft); border-radius: var(--radius); padding: 0.9rem 1.2rem; color: var(--ink); font-weight: 400; }
@@ -205,6 +213,18 @@ table.sg-syn td:first-child { font-weight: 600; color: var(--gold-deep); backgro
 <div class="sg-thread-row"><span class="sg-thread-tag sg-dwell">God with his people</span> Humanity is driven out of the garden, and cherubim guard the way back (Gen. 3:24). When God later gives Israel a tabernacle, the curtain that closes off the Most Holy Place, the inner room of his presence, has cherubim woven into it (Ex. 26:31). The way in is still guarded. Solomon’s temple hung the same kind of curtain, with cherubim worked on it (2 Chron. 3:14). When Jesus died, “the curtain of the temple was torn in two, from top to bottom” (Matt. 27:51), and the road back to God was opened “through the curtain, that is, through his flesh” (Heb. 10:20).</div>
 <div class="sg-thread-row"><span class="sg-thread-tag sg-lamb">The Lamb</span> Adam and Eve tried to cover their shame with fig leaves. God covered them with skins (Gen. 3:21), and something died so that they could be clothed. Genesis does not call this a sacrifice, and no animal could take away sin (Heb. 10:4). But the picture is planted here: when sinners cannot cover themselves, God provides the covering, and it costs a life. Isaiah later gives God’s redeemed people this song: “he has clothed me with the garments of salvation; he has covered me with the robe of righteousness” (Isa. 61:10).</div>
 </div>
+
+<!--doctrine-->
+<div class="sg-doctrine">
+<div class="sg-doc-head"><span class="sg-doc-kicker">Core Doctrine 4 of 26</span><span class="sg-doc-name">Original Sin</span></div>
+<div class="sg-doc-body">
+<p class="sg-doc-def">When Adam, the head of the human race, disobeyed God, all humanity fell with him. Since then every person is born guilty and with a heart bent away from God. Sin is more than bad choices. It is a condition we cannot cure ourselves.</p>
+<div class="sg-doc-row"><b>Key verses</b>Genesis 3; Psalm 51:5; Romans 5:12, 18–19; Ephesians 2:1–3</div>
+<div class="sg-doc-row"><b>What the church confesses</b><em>“The covenant being made with Adam, not only for himself, but for his posterity; all mankind, descending from him by ordinary generation, sinned in him, and fell with him, in his first transgression.”</em> (Westminster Shorter Catechism 16)</div>
+<div class="sg-doc-row"><b>Why it matters</b>This explains the world and your own heart. It also explains why better advice is not enough. We need a Savior.</div>
+</div>
+</div>
+<!--/doctrine-->
 
 <h2 class="sg-section"><span class="sg-num">The Turn:</span> The Second Adam in a Garden</h2>
 

@@ -66,6 +66,14 @@ table.sg-syn td:first-child { font-weight: 600; color: var(--gold-deep); backgro
 .sg-thread-tag { display: inline-block; font-size: 0.74rem; font-weight: 600; letter-spacing: 0.06em; text-transform: uppercase; border-radius: 999px; padding: 0.1rem 0.6rem; margin-right: 0.45rem; color: #fff; }
 .sg-dwell { background: var(--deep, #0E3B45); }
 .sg-lamb { background: var(--gold-deep); }
+.sg-doctrine { margin: 2rem 0; border: 1.5px solid var(--deep, #0E3B45); border-radius: var(--radius, 8px); background: #fff; overflow: hidden; }
+.sg-doc-head { background: var(--deep, #0E3B45); color: #fff; padding: 0.7rem 1.3rem; }
+.sg-doc-kicker { display: block; font-size: 0.72rem; letter-spacing: 0.2em; text-transform: uppercase; font-weight: 700; color: #E8D3A0; }
+.sg-doc-name { display: block; font-family: var(--display, 'Cormorant Garamond', Georgia, serif); font-size: 1.6rem; font-weight: 600; line-height: 1.15; }
+.sg-doc-body { padding: 1rem 1.3rem 0.5rem; }
+.sg-doc-def { margin: 0 0 0.8rem; line-height: 1.6; }
+.sg-doc-row { font-size: 0.95rem; line-height: 1.55; margin: 0 0 0.7rem; padding-top: 0.55rem; border-top: 1px solid #A9D6CE; }
+.sg-doc-row b { display: block; font-size: 0.7rem; letter-spacing: 0.14em; text-transform: uppercase; color: #2F7F86; margin-bottom: 0.15rem; }
 .sg-seriesnav { font-size: 0.82rem; letter-spacing: 0.12em; text-transform: uppercase; color: var(--ocean); font-weight: 600; margin: 0 0 1.6rem; }
 .sg-seriesnav a { color: var(--ocean); }
 .sg-next { margin: 2.6rem 0 0; text-transform: none; letter-spacing: 0; font-size: 1rem; background: var(--paper-warm); border: 1px solid var(--gold-soft); border-radius: var(--radius); padding: 0.9rem 1.2rem; color: var(--ink); font-weight: 400; }
@@ -164,6 +172,18 @@ table.sg-syn td:first-child { font-weight: 600; color: var(--gold-deep); backgro
 <p>And what does the moral law do in our lives? Since the Reformation, Christians have usually named three uses. First, it is a <strong>mirror</strong>. It shows us our sin and drives us to Christ. “Through the law comes knowledge of sin” (Rom. 3:20), and so “the law was our guardian until Christ came, in order that we might be justified by faith” (Gal. 3:24). Second, it is a <strong>restraint</strong>. Even in people who do not know God, the law’s warnings hold back evil and keep a society livable (1 Tim. 1:9–10). Third, for those who belong to Christ, it is a <strong>guide</strong>, “a rule of life informing them of the will of God, and their duty” (WCF 19.6). Believers are “not under the law, as a covenant of works, to be thereby justified, or condemned” (WCF 19.6). That is the covenant Adam broke in Lesson 3, and Christ kept it in our place. So the law can no longer condemn a believer. It still shows us how to love.</p>
 
 <p>The mirror shows a hard truth: no one keeps the law. “No mere man since the fall is able in this life perfectly to keep the commandments of God, but doth daily break them in thought, word and deed” (WSC 82). James says, “whoever keeps the whole law but fails in one point has become guilty of all of it” (James 2:10). The law is holy, “and the commandment is holy and righteous and good” (Rom. 7:12). The fault lies with us.</p>
+
+<!--doctrine-->
+<div class="sg-doctrine">
+<div class="sg-doc-head"><span class="sg-doc-kicker">Core Doctrine 9 of 26</span><span class="sg-doc-name">The Law of God</span></div>
+<div class="sg-doc-body">
+<p class="sg-doc-def">God’s moral law, summed up in the Ten Commandments, shows us his holy character. It exposes our sin and drives us to Christ, who kept it perfectly for us. For those who belong to him, it becomes a guide for a grateful life, written on the heart by the Spirit.</p>
+<div class="sg-doc-row"><b>Key verses</b>Exodus 20:1–17; Romans 3:20; Galatians 3:24; Jeremiah 31:33; Matthew 22:37–40</div>
+<div class="sg-doc-row"><b>What the church confesses</b><em>“The moral law is summarily comprehended in the ten commandments.”</em> (Westminster Shorter Catechism 41)</div>
+<div class="sg-doc-row"><b>Why it matters</b>The law cannot save you, but it tells you the truth about yourself and shows you how to love God and your neighbor.</div>
+</div>
+</div>
+<!--/doctrine-->
 
 <h2 class="sg-section"><span class="sg-num">Part Five:</span> The Blood of the Covenant, and a Golden Calf</h2>
 
