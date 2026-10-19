@@ -217,7 +217,7 @@ table.sg-syn td:first-child { font-weight: 600; color: var(--gold-deep); backgro
 <li>For further reading: Dale Ralph Davis, <em>1 Kings: The Wisdom and the Folly</em>; Philip Graham Ryken, <em>1 Kings</em> (Reformed Expository Commentary).</li>
 </ul>
 
-<div class="sg-seriesnav sg-next"><strong>Next, Lesson 16:</strong> A Kingdom Divided, Prophets Sent <em>(coming soon)</em> &middot; <a href="/bible-study/">All lessons</a></div>
+<div class="sg-seriesnav sg-next"><strong>Next, Lesson 16:</strong> <a href="/bible-study/kingdom-divided/">A Kingdom Divided, Prophets Sent</a> &middot; <a href="/bible-study/">All lessons</a></div>
 
 <hr>
 
