@@ -212,7 +212,7 @@ table.sg-syn td:first-child { font-weight: 600; color: var(--gold-deep); backgro
 <li>For further reading: O. Palmer Robertson, <em>The Christ of the Prophets</em>; Westminster Shorter Catechism 24 (Christ’s office as a prophet).</li>
 </ul>
 
-<div class="sg-seriesnav sg-next"><strong>Next, Lesson 17:</strong> Exile: The Temple Falls <em>(coming soon)</em> &middot; <a href="/bible-study/">All lessons</a></div>
+<div class="sg-seriesnav sg-next"><strong>Next, Lesson 17:</strong> <a href="/bible-study/exile/">Exile: The Temple Falls</a> &middot; <a href="/bible-study/">All lessons</a></div>
 
 <hr>
 
