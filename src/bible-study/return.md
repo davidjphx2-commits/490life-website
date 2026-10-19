@@ -217,7 +217,7 @@ table.sg-syn td:first-child { font-weight: 600; color: var(--gold-deep); backgro
 <li>For further reading: Derek Kidner, <em>Ezra and Nehemiah</em> (Tyndale Old Testament Commentaries); Iain M. Duguid, <em>Haggai, Zechariah, Malachi</em> (EP Study Commentary).</li>
 </ul>
 
-<div class="sg-seriesnav sg-next"><strong>Next, Lesson 19:</strong> Who Jesus Is <em>(coming soon)</em> &middot; <a href="/bible-study/">All lessons</a></div>
+<div class="sg-seriesnav sg-next"><strong>Next, Lesson 19:</strong> <a href="/bible-study/who-jesus-is/">Who Jesus Is</a> &middot; <a href="/bible-study/">All lessons</a></div>
 
 <hr>
 
