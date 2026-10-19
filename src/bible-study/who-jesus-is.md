@@ -211,7 +211,7 @@ table.sg-syn td:first-child { font-weight: 600; color: var(--gold-deep); backgro
 <li>For further reading: Sinclair B. Ferguson, <em>In Christ Alone</em>; Timothy Keller, <em>Hidden Christmas</em>; B. B. Warfield, <em>The Person and Work of Christ</em>.</li>
 </ul>
 
-<div class="sg-seriesnav sg-next"><strong>Next, Lesson 20:</strong> The Kingdom of God <em>(coming soon)</em> &middot; <a href="/bible-study/">All lessons</a></div>
+<div class="sg-seriesnav sg-next"><strong>Next, Lesson 20:</strong> <a href="/bible-study/kingdom/">The Kingdom of God</a> &middot; <a href="/bible-study/">All lessons</a></div>
 
 <hr>
 
