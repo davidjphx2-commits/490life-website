@@ -214,7 +214,7 @@ table.sg-syn td:first-child { font-weight: 600; color: var(--gold-deep); backgro
 <li>For further reading: Westminster Larger Catechism 191 (on “Thy kingdom come”); Timothy Keller, <em>King’s Cross</em>.</li>
 </ul>
 
-<div class="sg-seriesnav sg-next"><strong>Next, Lesson 21:</strong> The Cross: The Final Lamb <em>(coming soon)</em> &middot; <a href="/bible-study/">All lessons</a></div>
+<div class="sg-seriesnav sg-next"><strong>Next, Lesson 21:</strong> <a href="/bible-study/cross/">The Cross: The Final Lamb</a> &middot; <a href="/bible-study/">All lessons</a></div>
 
 <hr>
 
