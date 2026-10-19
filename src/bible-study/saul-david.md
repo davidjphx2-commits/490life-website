@@ -219,7 +219,7 @@ table.sg-syn td:first-child { font-weight: 600; color: var(--gold-deep); backgro
 <li>For further reading: Dale Ralph Davis, <em>2 Samuel: Out of Every Adversity</em>; Robert D. Bergen, <em>1, 2 Samuel</em> (New American Commentary).</li>
 </ul>
 
-<div class="sg-seriesnav sg-next"><strong>Next, Lesson 15:</strong> Solomon and the First Temple <em>(coming soon)</em> &middot; <a href="/bible-study/">All lessons</a></div>
+<div class="sg-seriesnav sg-next"><strong>Next, Lesson 15:</strong> <a href="/bible-study/solomon-temple/">Solomon and the First Temple</a> &middot; <a href="/bible-study/">All lessons</a></div>
 
 <hr>
 
