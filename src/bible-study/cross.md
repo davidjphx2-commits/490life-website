@@ -207,7 +207,7 @@ table.sg-syn td:first-child { font-weight: 600; color: var(--gold-deep); backgro
 <li>For further reading: John Murray, <em>Redemption Accomplished and Applied</em>; Donald Macleod, <em>Christ Crucified</em>; J. I. Packer and Mark Dever, <em>In My Place Condemned He Stood</em>.</li>
 </ul>
 
-<div class="sg-seriesnav sg-next"><strong>Next, Lesson 22:</strong> Resurrection and Ascension <em>(coming soon)</em> &middot; <a href="/bible-study/">All lessons</a></div>
+<div class="sg-seriesnav sg-next"><strong>Next, Lesson 22:</strong> <a href="/bible-study/resurrection/">Resurrection and Ascension</a> &middot; <a href="/bible-study/">All lessons</a></div>
 
 <hr>
 
