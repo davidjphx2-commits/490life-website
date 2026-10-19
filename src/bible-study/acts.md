@@ -209,7 +209,7 @@ table.sg-syn td:first-child { font-weight: 600; color: var(--gold-deep); backgro
 <li>For further reading: Mark Dever, <em>What Is a Healthy Church?</em>; Michael Green, <em>Evangelism in the Early Church</em>.</li>
 </ul>
 
-<div class="sg-seriesnav sg-next"><strong>Next, Lesson 24:</strong> Paul’s Journeys and Letters <em>(coming soon)</em> &middot; <a href="/bible-study/">All lessons</a></div>
+<div class="sg-seriesnav sg-next"><strong>Next, Lesson 24:</strong> <a href="/bible-study/paul/">Paul’s Journeys and Letters</a> &middot; <a href="/bible-study/">All lessons</a></div>
 
 <hr>
 
