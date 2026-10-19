@@ -224,7 +224,7 @@ table.sg-syn td:first-child { font-weight: 600; color: var(--gold-deep); backgro
 <li>For further reading: Sinclair B. Ferguson, <em>Faithful God: An Exposition of the Book of Ruth</em>; Iain M. Duguid, <em>Esther and Ruth</em> (Reformed Expository Commentary).</li>
 </ul>
 
-<div class="sg-seriesnav sg-next"><strong>Next, Lesson 14:</strong> Saul, David, and a Forever King <em>(coming soon)</em> &middot; <a href="/bible-study/">All lessons</a></div>
+<div class="sg-seriesnav sg-next"><strong>Next, Lesson 14:</strong> <a href="/bible-study/saul-david/">Saul, David, and a Forever King</a> &middot; <a href="/bible-study/">All lessons</a></div>
 
 <hr>
 
