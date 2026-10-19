@@ -208,7 +208,7 @@ table.sg-syn td:first-child { font-weight: 600; color: var(--gold-deep); backgro
 <li>For further reading: Richard B. Gaffin Jr., <em>Resurrection and Redemption</em>; Timothy Keller, <em>Hope in Times of Fear</em>.</li>
 </ul>
 
-<div class="sg-seriesnav sg-next"><strong>Next, Lesson 23:</strong> Acts: The Spirit and the Church <em>(coming soon)</em> &middot; <a href="/bible-study/">All lessons</a></div>
+<div class="sg-seriesnav sg-next"><strong>Next, Lesson 23:</strong> <a href="/bible-study/acts/">Acts: The Spirit and the Church</a> &middot; <a href="/bible-study/">All lessons</a></div>
 
 <hr>
 
