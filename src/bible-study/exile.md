@@ -215,7 +215,7 @@ table.sg-syn td:first-child { font-weight: 600; color: var(--gold-deep); backgro
 <li>For further reading: Philip Graham Ryken, <em>Jeremiah and Lamentations</em> (Preaching the Word); Iain M. Duguid, <em>Ezekiel</em> (NIV Application Commentary); Dale Ralph Davis, <em>The Message of Daniel</em>.</li>
 </ul>
 
-<div class="sg-seriesnav sg-next"><strong>Next, Lesson 18:</strong> Return: The Second Temple and the Silent Years <em>(coming soon)</em> &middot; <a href="/bible-study/">All lessons</a></div>
+<div class="sg-seriesnav sg-next"><strong>Next, Lesson 18:</strong> <a href="/bible-study/return/">Return: The Second Temple and the Silent Years</a> &middot; <a href="/bible-study/">All lessons</a></div>
 
 <hr>
 
