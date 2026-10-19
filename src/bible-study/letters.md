@@ -216,7 +216,7 @@ table.sg-syn td:first-child { font-weight: 600; color: var(--gold-deep); backgro
 <li>On the general letters: Douglas J. Moo, <em>The Letter of James</em>; Edmund P. Clowney, <em>The Message of 1 Peter</em>; John Stott, <em>The Letters of John</em>.</li>
 </ul>
 
-<div class="sg-seriesnav sg-next"><strong>Next, Lesson 26:</strong> Revelation and the New Creation <em>(coming soon)</em> &middot; <a href="/bible-study/">All lessons</a></div>
+<div class="sg-seriesnav sg-next"><strong>Next, Lesson 26:</strong> <a href="/bible-study/revelation/">Revelation and the New Creation</a> &middot; <a href="/bible-study/">All lessons</a></div>
 
 <hr>
 
