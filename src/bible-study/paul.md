@@ -215,7 +215,7 @@ table.sg-syn td:first-child { font-weight: 600; color: var(--gold-deep); backgro
 <li>For further reading: R. C. Sproul, <em>Faith Alone</em>; Timothy Keller, <em>Romans 1–7 For You</em>.</li>
 </ul>
 
-<div class="sg-seriesnav sg-next"><strong>Next, Lesson 25:</strong> Peter, James, John, and Hebrews <em>(coming soon)</em> &middot; <a href="/bible-study/">All lessons</a></div>
+<div class="sg-seriesnav sg-next"><strong>Next, Lesson 25:</strong> <a href="/bible-study/letters/">Peter, James, John, and Hebrews</a> &middot; <a href="/bible-study/">All lessons</a></div>
 
 <hr>
 
