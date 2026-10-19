@@ -95,11 +95,11 @@ table.sg-syn td:first-child { font-weight: 600; color: var(--gold-deep); backgro
 
 <h2 class="sg-section"><span class="sg-num">Introduction:</span> The Dark Ages of Israel</h2>
 
-<p>Lesson 12 ended on a high note. God had kept every promise and brought his people into the land. But it ended with a question too: would Israel finish what God had started? The book of Judges answers with a sad no. Tribe after tribe “did not drive out” the Canaanites who remained (Judg. 1:27–28). And then came a sentence that should chill anyone who has ever tried to pass on faith to their children:</p>
+<p>This lesson opens Unit 4, “The Kingdom.” Lesson 12 ended on a high note. God had kept every promise and brought his people into the land. But it ended with a question too: would Israel finish what God had started? The book of Judges answers with a sad no. Tribe after tribe “did not drive out” the Canaanites who remained (Judg. 1:27–28). And then came a sentence that should chill anyone who has ever tried to pass on faith to their children:</p>
 
 <div class="sg-verse"><span class="sg-ref">Judges 2:10</span> &nbsp;“And all that generation also were gathered to their fathers. And there arose another generation after them who did not know the LORD or the work that he had done for Israel.”</div>
 
-<p>Moses had told parents to teach God’s words to their children at home, on the road, at bedtime, and first thing in the morning (Deut. 6:7). Within one generation, it had stopped happening. What followed was more than three hundred years of spiritual chaos, roughly 1380 to 1050 BC, the dark ages of Israel’s history.</p>
+<p>Moses had told parents to teach God’s words to their children at home, on the road, at bedtime, and first thing in the morning (Deut. 6:7). Within one generation, it had stopped happening. What followed was more than three hundred years of spiritual chaos, roughly 1375 to 1050 BC, the dark ages of Israel’s history.</p>
 
 <p>But in the middle of those dark years, the Bible tucks a small, beautiful book about a widow, a foreigner, and a kind farmer. It opens, “In the days when the judges ruled” (Ruth 1:1). Judges shows how bad things got. Ruth shows what God was quietly doing anyway. This lesson puts the two side by side.</p>
 
@@ -151,7 +151,7 @@ table.sg-syn td:first-child { font-weight: 600; color: var(--gold-deep); backgro
 
 <h2 class="sg-section"><span class="sg-num">Part Three:</span> Right in His Own Eyes</h2>
 
-<p>The last chapters of Judges stop following the judges and show what ordinary life had become. A man named Micah makes idols “for the LORD,” sets up a private shrine, and hires a wandering Levite as his priest. A whole tribe steals that priest and his idols. And the book ends with a crime and a civil war so terrible that they are among the darkest chapters in the Bible (Judg. 19–21). Four times the writer says “there was no king in Israel,” and the book ends on the full line:</p>
+<p>The last chapters of Judges stop following the judges and show what ordinary life had become. A man named Micah keeps idols made from silver his mother dedicated “to the LORD” (17:3), sets up a private shrine, and hires a wandering Levite as his priest. A whole tribe steals that priest and his idols. And the book ends with a crime and a civil war so terrible that they are among the darkest chapters in the Bible (Judg. 19–21). Four times the writer says “there was no king in Israel,” and the book ends on the full line:</p>
 
 <div class="sg-verse"><span class="sg-ref">Judges 21:25</span> &nbsp;“In those days there was no king in Israel. Everyone did what was right in his own eyes.”</div>
 

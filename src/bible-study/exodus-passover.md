@@ -153,7 +153,7 @@ table.sg-syn td:first-child { font-weight: 600; color: var(--gold-deep); backgro
 
 <p>At midnight, the judgment fell. “The LORD struck down all the firstborn in the land of Egypt, from the firstborn of Pharaoh who sat on his throne to the firstborn of the captive who was in the dungeon… there was not a house where someone was not dead” (12:29–30). But in the houses marked with blood, the LORD passed over.</p>
 
-<p>Take a moment with this, because it is the heart of the lesson. Were the Israelite families saved because they were better people than the Egyptians? No. They had turned on Moses and would not listen to him (5:21; 6:9), and many of them clung to the idols of Egypt (Ezek. 20:7–8; Josh. 24:14). The destroyer (12:23) did not pass over the houses of good people. He passed over the houses with blood on the door. That night God asked one question of every house: is there blood on the door? A lamb had died in that house, in place of the firstborn.</p>
+<p>Take a moment with this, because it is the heart of the lesson. Were the Israelite families saved because they were better people than the Egyptians? No. They had turned on Moses and would not listen to him (5:21; 6:9), and many of them clung to the idols of Egypt (Ezek. 20:7–8; Josh. 24:14). The LORD did not pass over the houses of good people. He passed over the houses with blood on the door, and he would not allow the destroyer to enter them (12:23). That night God asked one question of every house: is there blood on the door? A lamb had died in that house, in place of the firstborn.</p>
 
 <p>That night Pharaoh finally broke. “Up, go out from among my people… and go, serve the LORD” (12:31). After 430 years in Egypt, “on that very day, all the hosts of the LORD went out from the land of Egypt” (12:40–41). That number fits our timeline: Jacob’s family came down around 1876 BC, and Israel came out in 1446 BC. Genesis gave the round number, four hundred; Exodus gives the exact one.</p>
 
@@ -197,7 +197,7 @@ table.sg-syn td:first-child { font-weight: 600; color: var(--gold-deep); backgro
 <div class="sg-doc-body">
 <p class="sg-doc-def">To redeem is to set a slave free by paying a price. God redeemed Israel from Egypt by the blood of the Passover lamb and the power of his arm. That rescue was a picture of a greater one: Christ redeems sinners from sin, death, and the devil by his own blood.</p>
 <div class="sg-doc-row"><b>Key verses</b>Exodus 6:6; 12:13; Mark 10:45; 1 Peter 1:18–19</div>
-<div class="sg-doc-row"><b>What the church confesses</b><em>“The only Redeemer of God’s elect is the Lord Jesus Christ.”</em> (Westminster Shorter Catechism 21)</div>
+<div class="sg-doc-row"><b>What the church confesses</b><em>“We are made partakers of the redemption purchased by Christ, by the effectual application of it to us by his Holy Spirit.”</em> (Westminster Shorter Catechism 29)</div>
 <div class="sg-doc-row"><b>Why it matters</b>Freedom from sin is not cheap. Christ paid for it with his own blood, and everyone who trusts him belongs to the One who paid it.</div>
 </div>
 </div>

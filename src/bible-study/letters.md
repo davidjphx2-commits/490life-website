@@ -171,7 +171,7 @@ table.sg-syn td:first-child { font-weight: 600; color: var(--gold-deep); backgro
 
 <h2 class="sg-section"><span class="sg-num">Part Four:</span> John: Love and Assurance</h2>
 
-<p>Early tradition says John was the youngest of the twelve and the last of them to die. In his Gospel he never uses his own name and calls himself the disciple “whom Jesus loved” (John 13:23). The same tradition says he lived to old age in Ephesus, caring for the churches of that region, and wrote his three letters there, probably around AD 85 to 95.</p>
+<p>Early tradition says John outlived the rest of the twelve. In his Gospel he never uses his own name and calls himself the disciple “whom Jesus loved” (John 13:23). The same tradition says he lived to old age in Ephesus, caring for the churches of that region, and wrote his three letters there, probably around AD 85 to 95.</p>
 
 <div class="sg-figure sg-small">
 <img src="/assets/whole-story-25-john.jpg" alt="An old white-bearded man sits on a wooden bench in a courtyard, speaking gently to a gathered group of men, women, and children">

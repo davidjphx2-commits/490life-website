@@ -113,7 +113,7 @@ table.sg-syn td:first-child { font-weight: 600; color: var(--gold-deep); backgro
 <div class="sg-plus">=</div>
 <div class="sg-part"><div class="sg-pg">Greek <em>pneuma</em></div><div class="sg-pt">John 3:8</div><div class="sg-pd">“The wind blows where it wishes.” The same word means wind and Spirit.</div></div>
 </div>
-<div class="sg-payoff"><b>Payoff:</b> The Holy Spirit is not a force or an energy. He is a Person, the third Person of the Trinity, fully God with the Father and the Son (WSC 6). Jesus calls him “another Helper,” another one like himself. The same Spirit who hovered over creation and gives life to every human being (Job 33:4) came at Pentecost with the sound of a rushing wind, to make God’s people his home.</div>
+<div class="sg-payoff"><b>Payoff:</b> The Holy Spirit is not a force or an energy. He is a person, the third person of the Trinity, fully God with the Father and the Son (WSC 6). Jesus calls him “another Helper,” another one like himself. The same Spirit who hovered over creation and gives life to every human being (Job 33:4) came at Pentecost with the sound of a rushing wind, to make God’s people his home.</div>
 </div>
 
 <h2 class="sg-section"><span class="sg-num">Part One:</span> The Day of Pentecost</h2>
@@ -124,7 +124,7 @@ table.sg-syn td:first-child { font-weight: 600; color: var(--gold-deep); backgro
 
 <p>Peter, the same man who had denied Jesus seven weeks earlier, stood up and preached. He explained that this was what the prophet Joel had promised: “I will pour out my Spirit on all flesh” (Acts 2:17; Joel 2:28). He told them about Jesus, whom they had crucified and God had raised. “Let all the house of Israel therefore know for certain that God has made him both Lord and Christ, this Jesus whom you crucified” (2:36).</p>
 
-<p>The crowd was “cut to the heart” and asked, “Brothers, what shall we do?” Peter answered: “Repent and be baptized every one of you in the name of Jesus Christ for the forgiveness of your sins, and you will receive the gift of the Holy Spirit. For the promise is for you and for your children and for all who are far off, everyone whom the Lord our God calls to himself” (2:37–39). That day about three thousand people believed and were baptized (2:41). The water did not wash away their sins by itself. Baptism was God’s visible mark and seal on those who belonged to Jesus, and Peter was careful to say the promise included their children. The church was born.</p>
+<p>The crowd was “cut to the heart” and asked, “Brothers, what shall we do?” Peter answered: “Repent and be baptized every one of you in the name of Jesus Christ for the forgiveness of your sins, and you will receive the gift of the Holy Spirit. For the promise is for you and for your children and for all who are far off, everyone whom the Lord our God calls to himself” (2:37–39). That day about three thousand people believed and were baptized (2:41). The water did not wash away their sins. Christ did, and baptism was his visible mark and seal on those who belonged to him. The church was born.</p>
 
 <!--doctrine-->
 <div class="sg-doctrine">

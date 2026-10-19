@@ -153,7 +153,7 @@ table.sg-syn td:first-child { font-weight: 600; color: var(--gold-deep); backgro
 
 <p>What was the cup? In the Old Testament, “the cup” is a picture of God’s wrath against sin. Isaiah speaks of Jerusalem drinking “from the hand of the LORD the cup of his wrath” (Isa. 51:17), and God told Jeremiah, “Take from my hand this cup of the wine of wrath” (Jer. 25:15). The nails were real, but they were not the deepest thing he faced. He was facing the full weight of God’s judgment against the sins of his people. And he chose to drink it.</p>
 
-<p>Soldiers came with torches and arrested him, and “they all left him and fled” (Mark 14:50). Through the night he was put on trial. The high priest asked him, “Are you the Christ, the Son of the Blessed?” Jesus answered, “I am” (14:61–62), and they condemned him for blasphemy. In the morning they brought him to the Roman governor, Pontius Pilate. Pilate offered the crowd a choice: he would release one prisoner, Jesus or a rebel and murderer named Barabbas (Luke 23:19). The crowd chose Barabbas. “So Pilate, wishing to satisfy the crowd, released for them Barabbas, and having scourged Jesus, he delivered him to be crucified” (15:15). The guilty man walked free, and the innocent one went to the cross in his place.</p>
+<p>Soldiers came with torches and arrested him, and “they all left him and fled” (Mark 14:50). Through the night he was put on trial. The high priest asked him, “Are you the Christ, the Son of the Blessed?” Jesus answered, “I am” (14:61–62), and they condemned him for blasphemy. In the morning they brought him to the Roman governor, Pontius Pilate. Pilate offered the crowd a choice: he would release one prisoner, Jesus or a rebel and murderer named Barabbas (Luke 23:19). The crowd chose Barabbas. “So Pilate, wishing to satisfy the crowd, released for them Barabbas, and having scourged Jesus, he delivered him to be crucified” (Mark 15:15). The guilty man walked free, and the innocent one went to the cross in his place.</p>
 
 <h2 class="sg-section"><span class="sg-num">Part Three:</span> The Cross</h2>
 
@@ -191,7 +191,7 @@ table.sg-syn td:first-child { font-weight: 600; color: var(--gold-deep); backgro
 
 <h2 class="sg-section"><span class="sg-num">The Turn:</span> For Me</h2>
 
-<p>It is possible to know all of this as history and miss the heart of it. The apostle Paul did not miss it. He wrote, “the life I now live in the flesh I live by faith in the Son of God, who loved me and gave himself for me” (Gal. 2:20). Not just for the world in general. For me.</p>
+<p>It is possible to know all of this as history and miss the heart of it. The apostle Paul did not miss it. He wrote, “the life I now live in the flesh I live by faith in the Son of God, who loved me and gave himself for me” (Gal. 2:20). Not for a faceless crowd. For me.</p>
 
 <p>“God shows his love for us in that while we were still sinners, Christ died for us” (Rom. 5:8). He did not wait for you to clean up. He did not die for people who had cleaned themselves up. He died for sinners, for the ungodly, for his enemies. And because his work is finished, there is nothing left for you to pay. You cannot add to “It is finished.” You can only receive it.</p>
 

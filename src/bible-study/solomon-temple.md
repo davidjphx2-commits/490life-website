@@ -135,7 +135,7 @@ table.sg-syn td:first-child { font-weight: 600; color: var(--gold-deep); backgro
 
 <p>Then Solomon built the temple. The Bible dates it with unusual precision: “In the four hundred and eightieth year after the people of Israel came out of the land of Egypt, in the fourth year of Solomon’s reign over Israel… he began to build the house of the LORD” (1 Kings 6:1). That verse is one of the main anchors for the dates in this series. Count back 480 years from 966 BC and you reach the exodus in about 1446 BC.</p>
 
-<p>Where did he build it? “On Mount Moriah” (2 Chr. 3:1). That name should ring a bell. Abraham took Isaac to “the land of Moriah” to sacrifice him, and there God provided a ram in his place (Gen. 22:2, 13; Lesson 6). Chronicles uses the same name on purpose: about a thousand years later, on Mount Moriah, Israel’s altar would burn day after day.</p>
+<p>Where did he build it? “On Mount Moriah” (2 Chr. 3:1). That name should ring a bell. Abraham took Isaac to “the land of Moriah” to sacrifice him, and there God provided a ram in his place (Gen. 22:2, 13; Lesson 6). Chronicles uses the same name on purpose: more than a thousand years later, on Mount Moriah, Israel’s altar would burn day after day.</p>
 
 <p>The temple followed the plan of the tabernacle, but larger and permanent: a courtyard with a great bronze altar and a huge bronze basin called “the sea,” resting on twelve bronze oxen (7:23–25), a Holy Place, and an inner room, the Most Holy Place, a perfect cube “twenty cubits long, twenty cubits wide, and twenty cubits high” (about 30 feet each way), overlaid with pure gold (6:20). It took seven years to build (6:38).</p>
 
@@ -192,7 +192,7 @@ table.sg-syn td:first-child { font-weight: 600; color: var(--gold-deep); backgro
 
 <div class="sg-thread">
 <div class="sg-thread-head">Thread Watch</div>
-<div class="sg-thread-row"><span class="sg-thread-tag sg-lamb">The Lamb</span> The temple stood on Mount Moriah, where God provided a ram in Isaac’s place (Gen. 22). For nearly a thousand years, lambs and bulls died on that mountain. Nearby, outside the city walls, another Son would one day be offered, and this time no substitute would take his place. He was the substitute.</div>
+<div class="sg-thread-row"><span class="sg-thread-tag sg-lamb">The Lamb</span> The temple stood on Mount Moriah, long taken to be the place where God provided a ram in Isaac’s place (Gen. 22). For nearly a thousand years, lambs and bulls died on that mountain. Nearby, outside the city walls, another Son would one day be offered, and this time no substitute would take his place. He was the substitute.</div>
 <div class="sg-thread-row"><span class="sg-thread-tag sg-dwell">God with his people</span> The cloud of glory filled Solomon’s temple as it filled the tabernacle. But Solomon admitted that even the highest heaven cannot contain God. And God warned that if Israel turned away, “this house will become a heap of ruins” (9:8). In 586 BC the Babylonians burned it (2 Kings 25:9). God’s dwelling with his people would need a better temple.</div>
 </div>
 

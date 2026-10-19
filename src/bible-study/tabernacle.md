@@ -122,7 +122,7 @@ table.sg-syn td:first-child { font-weight: 600; color: var(--gold-deep); backgro
 
 <p>Two details in these chapters are worth noticing. First, God paid for his house through willing gifts: “From every man whose heart moves him you shall receive the contribution for me” (25:2). The people gave so generously that the craftsmen had to come to Moses and say, “The people bring much more than enough,” and Moses had to tell everyone to stop giving (36:5–7). That is what grace does to slaves who have just been set free.</p>
 
-<p>Second, God chose a craftsman named Bezalel and said, “I have filled him with the Spirit of God, with ability and intelligence, with knowledge and all craftsmanship, to devise artistic designs, to work in gold, silver, and bronze” (31:3–4). Bezalel is the first person God himself says he has filled with his Spirit, and he was an artist. Beauty and skill in the service of God are gifts of the Spirit.</p>
+<p>Second, God chose a craftsman named Bezalel and said, “I have filled him with the Spirit of God, with ability and intelligence, with knowledge and all craftsmanship, to devise artistic designs, to work in gold, silver, and bronze” (31:3–4). Bezalel is the first person in the Bible said to be filled with the Spirit of God, and he was an artist. Beauty and skill in the service of God are gifts of the Spirit.</p>
 
 <h2 class="sg-section"><span class="sg-num">Part Two:</span> A Walk Through the Tent</h2>
 
