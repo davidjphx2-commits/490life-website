@@ -10,6 +10,10 @@ const expectPages = [
   "seventy-times-seven/index.html",
   "teachings/index.html",
   "teachings/weekly/index.html",
+  "teachings/deeper/index.html",
+  "teachings/rightly-handling-the-word/index.html",
+  "teachings/rightly-handling-the-word-beginners-guide/index.html",
+  "assets/490-life-study-guide-rightly-handling-the-word-beginners-guide.pdf",
   "teachings/necessities-of-effective-prayer-mark-11/index.html",
   "teachings/the-end-of-counting/index.html",
   "bible-study/index.html",
@@ -148,6 +152,11 @@ for (const file of htmlFiles(SITE)) {
   }
 }
 
+const weekly = fs.readFileSync(path.join(SITE, "teachings/weekly/index.html"), "utf8");
+if (weekly.includes('href="/teachings/rightly-handling-the-word/"')) failures.push("WEEKLY lists a deeper study (rightly-handling-the-word)");
+if (!weekly.includes('href="/teachings/rightly-handling-the-word-beginners-guide/"')) failures.push("WEEKLY missing the Beginner's Guide");
+const deeperPage = fs.readFileSync(path.join(SITE, "teachings/deeper/index.html"), "utf8");
+if (!deeperPage.includes('href="/teachings/rightly-handling-the-word/"')) failures.push("DEEPER page missing Rightly Handling the Word");
 const home = fs.readFileSync(path.join(SITE, "index.html"), "utf8");
 if (!home.includes('id="subscribe"')) failures.push("HOME missing #subscribe section");
 if (!home.includes("sibforms.com/serve")) failures.push("HOME missing Brevo form action");

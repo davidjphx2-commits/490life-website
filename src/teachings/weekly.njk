@@ -15,7 +15,7 @@ eleventyExcludeFromCollections: true
       <p class="lead narrow">Scripture taken seriously: the context, the original words, and what it asks of us. Some weeks that&rsquo;s a single passage; some weeks it&rsquo;s several verses woven into one study. A new one lands every week or so, and some weeks &ldquo;or so&rdquo; does a lot of heavy lifting. <a href="/#subscribe">Join the list</a> and each one comes to you the day it&rsquo;s ready. No calendar math required.</p>
     </div>
     <div class="teaching-list">
-      {% for post in collections.teachings | reverse %}
+      {% for post in collections.teachings | weeklyOnly | reverse %}
       <article class="teaching-card">
         <div class="passage-badge">{{ post.data.passage }}</div>
         <h3><a href="{{ post.url }}">{{ post.data.title }}</a></h3>

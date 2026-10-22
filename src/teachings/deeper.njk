@@ -1,0 +1,54 @@
+---
+layout: base.njk
+title: "Deeper Studies"
+description: "Longer, careful studies for readers who want to dig in: how to read the Bible well, and more to come."
+permalink: /teachings/deeper/
+tags: []
+eleventyExcludeFromCollections: true
+---
+
+<style>
+.deep-list { display: grid; gap: 1.6rem; margin-top: 2.4rem; }
+.deep-card { display: grid; grid-template-columns: 300px 1fr; background: #fff; border: 1px solid var(--gold-soft); border-radius: var(--radius); overflow: hidden; }
+.deep-card .art { background: var(--mist); }
+.deep-card .art img { width: 100%; height: 100%; object-fit: cover; display: block; }
+.deep-card .body { padding: 1.5rem 1.7rem; display: flex; flex-direction: column; gap: 0.55rem; }
+.deep-card h3 { font-size: 1.8rem; color: var(--deep); }
+.deep-card h3 a { color: inherit; text-decoration: none; }
+.deep-card .passage { font-size: 0.86rem; color: var(--gold-deep); font-weight: 600; letter-spacing: 0.04em; }
+.deep-card p { color: var(--ink-soft); font-size: 0.98rem; line-height: 1.6; margin: 0; }
+.deep-card .meta { font-size: 0.86rem; color: var(--ink-faint); border-top: 1px solid var(--line); padding-top: 0.7rem; margin-top: 0.3rem; }
+.deep-card .links { display: flex; flex-wrap: wrap; gap: 1.2rem; font-size: 0.92rem; font-weight: 600; }
+.deep-card .links a { color: var(--ocean); text-decoration: none; }
+.deep-card .links a.short { color: var(--gold-deep); }
+@media (max-width: 760px) { .deep-card { grid-template-columns: 1fr; } .deep-card .art { aspect-ratio: 4 / 3; } }
+</style>
+
+<section>
+  <div class="container">
+    <div class="center">
+      <div class="eyebrow">Teachings</div>
+      <h2 class="section-title">Deeper Studies.</h2>
+      <p class="lead narrow">Some subjects deserve more than a weekly study. These are longer, careful studies for readers who want to dig in: more Scripture, more of the original languages, and more of what faithful teachers have said through the centuries. Take them slowly, in more than one sitting. If you are just starting out, each one has a shorter version to begin with.</p>
+    </div>
+    <div class="deep-list">
+      {% for post in collections.teachings | deeperOnly | reverse %}
+      <article class="deep-card">
+        <div class="art"><img src="{{ post.data.ogImage }}" alt="" loading="lazy"></div>
+        <div class="body">
+          <div class="passage">{{ post.data.passage }}</div>
+          <h3><a href="{{ post.url }}">{{ post.data.title }}</a></h3>
+          <p>{{ post.data.description }}</p>
+          <div class="meta">{{ post.data.studyLength }} &middot; {{ post.data.studyTime }}</div>
+          <div class="links">
+            <a href="{{ post.url }}">Read the full study &rarr;</a>
+            {%- if post.data.shortVersion %}<a class="short" href="{{ post.data.shortVersion }}">New to this? Start with the short version &rarr;</a>{% endif %}
+          </div>
+        </div>
+      </article>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+
+{% include "signup.njk" %}
