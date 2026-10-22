@@ -40,7 +40,7 @@ eleventyExcludeFromCollections: true
 
     <div class="track-grid">
       <a class="track" href="/teachings/weekly/">
-        <div class="art"><img src="{{ latest.data.ogImage or '/assets/whole-story-01-scroll.jpg' }}" alt="" loading="eager"></div>
+        <div class="art"><img src="{{ (latest.data.ogImage or '/assets/whole-story-01-scroll.jpg') | card }}" alt="" loading="eager" width="800" height="589"></div>
         <div class="body">
           <div class="eyebrow">Weekly Teachings</div>
           <h3>One truth, opened up</h3>
@@ -50,7 +50,7 @@ eleventyExcludeFromCollections: true
         </div>
       </a>
       <a class="track study" href="/bible-study/">
-        <div class="art"><img src="/assets/whole-story-01-river.jpg" alt="" loading="eager"></div>
+        <div class="art"><img src="{{ '/assets/whole-story-01-river.jpg' | card }}" alt="" loading="eager" width="800" height="589"></div>
         <div class="body">
           <div class="eyebrow">Bible Study &middot; 26 Lessons</div>
           <h3>The Whole Story</h3>
@@ -60,7 +60,7 @@ eleventyExcludeFromCollections: true
         </div>
       </a>
       <a class="track deep" href="/teachings/deeper/">
-        <div class="art"><img src="/assets/teaching-rhw-ezra.jpg" alt="" loading="eager"></div>
+        <div class="art"><img src="{{ '/assets/teaching-rhw-ezra.jpg' | card }}" alt="" loading="eager" width="800" height="589"></div>
         <div class="body">
           <div class="eyebrow">Deeper Studies</div>
           <h3>For when you are ready to dig in</h3>

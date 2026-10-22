@@ -34,7 +34,7 @@ eleventyExcludeFromCollections: true
     <div class="deep-list">
       {% for post in collections.teachings | deeperOnly | reverse %}
       <article class="deep-card">
-        <div class="art"><img src="{{ post.data.ogImage }}" alt="" loading="lazy"></div>
+        <div class="art"><img src="{{ post.data.ogImage | card }}" alt="" loading="lazy"></div>
         <div class="body">
           <div class="passage">{{ post.data.passage }}</div>
           <h3><a href="{{ post.url }}">{{ post.data.title }}</a></h3>
