@@ -1,7 +1,7 @@
 ---
 layout: base.njk
 title: "Teachings"
-description: "Three ways to study Scripture with David: weekly teachings, The Whole Story (a 26-lesson walk through the entire Bible), and Deeper Studies for readers who want to dig in."
+description: "Three ways to study Scripture with David: weekly teachings, The Whole Story (a 52-week walk through the entire Bible), and Deeper Studies for readers who want to dig in."
 permalink: /teachings/
 tags: []
 eleventyExcludeFromCollections: true
@@ -29,7 +29,7 @@ eleventyExcludeFromCollections: true
 
 {%- set latest = collections.teachings | weeklyOnly | reverse | first %}
 {%- set deeper = collections.teachings | deeperOnly | reverse %}
-{%- set lessonCount = collections.bibleStudy | lessonsOnly | length %}
+{%- set weekCount = collections.bibleStudy | weeksOnly | length %}
 <section>
   <div class="container">
     <div class="center">
@@ -52,10 +52,10 @@ eleventyExcludeFromCollections: true
       <a class="track study" href="/bible-study/">
         <div class="art"><img src="{{ '/assets/whole-story-01-river.jpg' | card }}" alt="" loading="eager" width="800" height="589"></div>
         <div class="body">
-          <div class="eyebrow">Bible Study &middot; 26 Lessons</div>
+          <div class="eyebrow">Bible Study &middot; 52 Weeks</div>
           <h3>The Whole Story</h3>
           <p>A walk through the whole Bible, Genesis to Revelation, for anyone who did not grow up in church. Real dates, a timeline, and the two threads that carry the gospel from the garden to the cross to the city of God.</p>
-          <div class="meta"><b>{{ lessonCount }} of 26</b> lessons published &middot; start with Lesson 1</div>
+          <div class="meta"><b>{{ weekCount }} of 52</b> weeks published &middot; start with Week 1</div>
           <span class="go">Start the Bible study &rarr;</span>
         </div>
       </a>

@@ -6,6 +6,7 @@ module.exports = function (eleventyConfig) {
     new Date(d).toLocaleDateString("en-US", { year: "numeric", month: "long", day: "numeric", timeZone: "UTC" }));
   eleventyConfig.addFilter("isoDate", (d) => new Date(d).toISOString());
   eleventyConfig.addFilter("lessonsOnly", (posts) => (posts || []).filter((p) => p.data.lesson));
+  eleventyConfig.addFilter("weeksOnly", (posts) => (posts || []).filter((p) => p.data.week));
   // Card-size copies live in src/assets/cards/; fall back to the original if no copy exists.
   const cardDir = require("path").join(__dirname, "src", "assets", "cards");
   eleventyConfig.addFilter("card", (url) => {
@@ -15,6 +16,7 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addFilter("weeklyOnly", (posts) => (posts || []).filter((p) => p.data.track !== "deeper"));
   eleventyConfig.addFilter("deeperOnly", (posts) => (posts || []).filter((p) => p.data.track === "deeper"));
   eleventyConfig.addFilter("lessonPost", (posts, n) => (posts || []).find((p) => p.data.lesson === n));
+  eleventyConfig.addFilter("weekPost", (posts, n) => (posts || []).find((p) => p.data.week === n));
   return {
     dir: { input: "src", includes: "_includes", data: "_data", output: "_site" },
     htmlTemplateEngine: "njk",

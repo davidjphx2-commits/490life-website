@@ -1,9 +1,10 @@
 ---
 title: "The God Who Is There"
-passage: "Genesis 1:1 · Exodus 3:14 · Psalm 19 · Isaiah 6"
-date: 2026-10-17
-description: "Lesson 2 of The Whole Story. Before the beginning there was God. Who is he? The God who names himself I AM, shows himself in the sky and in his Word, is holy, holy, holy, and is one God in three persons, who needs nothing and loves freely, and has made himself known in Jesus."
+passage: "Genesis 1:1 · Psalm 19 · Exodus 3 · Isaiah 6"
+date: 2026-10-23
+description: "Week 3 of The Whole Story. Who made God? Nobody. The God who was there before the beginning, who shows himself in the sky and in his word, and who is holy enough to make Isaiah cry, “Woe is me!”"
 series: "The Whole Story"
+week: 3
 lesson: 2
 bookCallout: false
 ogImage: /assets/whole-story-02-sky.jpg
@@ -79,7 +80,7 @@ table.sg-syn td:first-child { font-weight: 600; color: var(--gold-deep); backgro
 .sg-next { margin: 2.6rem 0 0; text-transform: none; letter-spacing: 0; font-size: 1rem; background: var(--paper-warm); border: 1px solid var(--gold-soft); border-radius: var(--radius); padding: 0.9rem 1.2rem; color: var(--ink); font-weight: 400; }
 </style>
 
-<div class="sg-seriesnav"><a href="/bible-study/">The Whole Story</a> &middot; Lesson 2 of 26</div>
+<div class="sg-seriesnav"><a href="/bible-study/">The Whole Story</a> &middot; Week 3 of 52</div>
 
 <div class="sg-hero">
 <img src="/assets/whole-story-02-sky.jpg" alt="A young shepherd sitting on a rocky hillside at night beside his sheep, looking up at a sky full of stars and the Milky Way">
@@ -90,7 +91,7 @@ table.sg-syn td:first-child { font-weight: 600; color: var(--gold-deep); backgro
 </div>
 
 <div class="sg-here">
-<svg viewBox="0 0 700 92" xmlns="http://www.w3.org/2000/svg" style="width:100%;max-width:880px;" role="img" aria-labelledby="here2Title"><title id="here2Title">You are here: Lesson 2, Before the beginning: “from everlasting to everlasting you are God” (Ps 90:2)</title><defs><linearGradient id="here2Fill" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#FFFFFF"/><stop offset="1" stop-color="#F2F7F6"/></linearGradient><filter id="here2Shadow" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="3" stdDeviation="4" flood-color="#1B2A2E" flood-opacity="0.18"/></filter><marker id="here2Arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#0E3B45"/></marker><marker id="here2ArrowGold" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#A2761F"/></marker></defs><text x="20" y="16" text-anchor="start" font-size="10.5" fill="#A2761F" font-weight="700">YOU ARE HERE · LESSON 2</text><rect x="80.0" y="52" width="276.3" height="14" fill="#F2F7F6" stroke="#FFFFFF" stroke-width="0.6"/><rect x="356.3" y="52" width="41.4" height="14" fill="#D7ECE8" stroke="#FFFFFF" stroke-width="0.6"/><rect x="397.7" y="52" width="61.4" height="14" fill="#A9D6CE" stroke="#FFFFFF" stroke-width="0.6"/><rect x="459.1" y="52" width="56.6" height="14" fill="#2F7F86" stroke="#FFFFFF" stroke-width="0.6"/><rect x="515.7" y="52" width="66.3" height="14" fill="#0E3B45" stroke="#FFFFFF" stroke-width="0.6"/><rect x="582.0" y="52" width="22.3" height="14" fill="#A2761F" stroke="#FFFFFF" stroke-width="0.6"/><rect x="604.3" y="52" width="60.7" height="14" fill="#E8D3A0" stroke="#FFFFFF" stroke-width="0.6"/><rect x="665.0" y="52" width="14.3" height="14" fill="#C8A24C" stroke="#FFFFFF" stroke-width="0.6"/><rect x="80" y="52" width="600" height="14" fill="none" stroke="#1B2A2E" stroke-width="0.8"/><text x="94.3" y="80" text-anchor="middle" font-size="9" fill="#7A8A8E">4000 BC</text><text x="380.0" y="80" text-anchor="middle" font-size="9" fill="#7A8A8E">2000 BC</text><text x="665.7" y="80" text-anchor="middle" font-size="9" fill="#7A8A8E">BC | AD</text><path d="M40.0,48 l-7,-11 l14,0 z" fill="#A2761F"/><line x1="40.0" y1="48" x2="40.0" y2="70" stroke="#A2761F" stroke-width="2"/><text x="52" y="44" text-anchor="start" font-size="11.5" fill="#1B2A2E" font-weight="700">Before the beginning: “from everlasting to everlasting you are God” (Ps 90:2)</text></svg>
+<svg viewBox="0 0 700 92" xmlns="http://www.w3.org/2000/svg" style="width:100%;max-width:880px;" role="img" aria-labelledby="here2Title"><title id="here2Title">You are here: Week 3 of 52, Before the beginning: “from everlasting to everlasting you are God” (Ps 90:2)</title><defs><linearGradient id="here2Fill" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#FFFFFF"/><stop offset="1" stop-color="#F2F7F6"/></linearGradient><filter id="here2Shadow" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="3" stdDeviation="4" flood-color="#1B2A2E" flood-opacity="0.18"/></filter><marker id="here2Arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#0E3B45"/></marker><marker id="here2ArrowGold" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#A2761F"/></marker></defs><text x="20" y="16" text-anchor="start" font-size="10.5" fill="#A2761F" font-weight="700">YOU ARE HERE · WEEK 3 OF 52</text><rect x="80.0" y="52" width="276.3" height="14" fill="#F2F7F6" stroke="#FFFFFF" stroke-width="0.6"/><rect x="356.3" y="52" width="41.4" height="14" fill="#D7ECE8" stroke="#FFFFFF" stroke-width="0.6"/><rect x="397.7" y="52" width="61.4" height="14" fill="#A9D6CE" stroke="#FFFFFF" stroke-width="0.6"/><rect x="459.1" y="52" width="56.6" height="14" fill="#2F7F86" stroke="#FFFFFF" stroke-width="0.6"/><rect x="515.7" y="52" width="66.3" height="14" fill="#0E3B45" stroke="#FFFFFF" stroke-width="0.6"/><rect x="582.0" y="52" width="22.3" height="14" fill="#A2761F" stroke="#FFFFFF" stroke-width="0.6"/><rect x="604.3" y="52" width="60.7" height="14" fill="#E8D3A0" stroke="#FFFFFF" stroke-width="0.6"/><rect x="665.0" y="52" width="14.3" height="14" fill="#C8A24C" stroke="#FFFFFF" stroke-width="0.6"/><rect x="80" y="52" width="600" height="14" fill="none" stroke="#1B2A2E" stroke-width="0.8"/><text x="94.3" y="80" text-anchor="middle" font-size="9" fill="#7A8A8E">4000 BC</text><text x="380.0" y="80" text-anchor="middle" font-size="9" fill="#7A8A8E">2000 BC</text><text x="665.7" y="80" text-anchor="middle" font-size="9" fill="#7A8A8E">BC | AD</text><path d="M40.0,48 l-7,-11 l14,0 z" fill="#A2761F"/><line x1="40.0" y1="48" x2="40.0" y2="70" stroke="#A2761F" stroke-width="2"/><text x="52" y="44" text-anchor="start" font-size="11.5" fill="#1B2A2E" font-weight="700">Before the beginning: “from everlasting to everlasting you are God” (Ps 90:2)</text></svg>
 </div>
 
 <h2 class="sg-section"><span class="sg-num">Introduction:</span> Who Made God?</h2>
@@ -101,7 +102,7 @@ table.sg-syn td:first-child { font-weight: 600; color: var(--gold-deep); backgro
 
 <p>Last week we stood back and looked at the whole story in four acts. This week we go back before Act One, before there was a world or a single star, and ask the first question of the story: who is the God who is there? The phrase comes from Francis Schaeffer, who used it as the title of a book in 1968 to describe the God the Bible actually presents. God is not an idea people came up with to explain things. He is a real, personal God who is really there, whether anyone believes in him or not.</p>
 
-<p>This may be the most important lesson in the series. What you believe about God shapes everything else you believe: about yourself, about right and wrong, about suffering, about whether anyone is listening when you pray. John Calvin, a sixteenth-century pastor in Geneva, opened his great work on the Christian faith by saying that nearly all true wisdom comes down to two things, “the knowledge of God and of ourselves” (<em>Institutes</em> 1.1.1). We will spend the next lesson on ourselves. Today, God.</p>
+<p>This may be the most important pair of weeks in the series. What you believe about God shapes everything else you believe: about yourself, about right and wrong, about suffering, about whether anyone is listening when you pray. John Calvin, a sixteenth-century pastor in Geneva, opened his great work on the Christian faith by saying that nearly all true wisdom comes down to two things, “the knowledge of God and of ourselves” (<em>Institutes</em> 1.1.1). We will spend Weeks 5 and 6 on ourselves. Today, God.</p>
 
 <h2 class="sg-section"><span class="sg-num">The Word:</span> I AM</h2>
 
@@ -139,7 +140,7 @@ table.sg-syn td:first-child { font-weight: 600; color: var(--gold-deep); backgro
 
 <p>Think about what that does to the way people usually picture God. Many of us assume, without ever saying it, that God is a bit like us: lonely, needy, or bored, so he made people to keep him company or to do things for him. The Bible says the opposite. You cannot give God anything he lacks, because he lacks nothing. Every breath you have ever taken came from him. Theologians call this God’s <em>aseity</em>, from Latin words meaning “from himself.” He has life in himself, and everything else has life from him.</p>
 
-<p>At first that can feel cold, as if God does not need us and therefore does not care. It turns out to be the best news in the world, and you will see why in Part Five. A God who needs nothing from you is a God who can only give. He did not make you because he was empty. He made you because he was full.</p>
+<p>At first that can feel cold, as if God does not need us and therefore does not care. It turns out to be the best news in the world, and you will see why next week. A God who needs nothing from you is a God who can only give. He did not make you because he was empty. He made you because he was full.</p>
 
 <p>Hebrews puts the starting point plainly: “whoever would draw near to God must believe that he exists and that he rewards those who seek him” (Heb. 11:6). He is, and he can be found.</p>
 
@@ -192,96 +193,27 @@ table.sg-syn td:first-child { font-weight: 600; color: var(--gold-deep); backgro
 
 <p>When God described himself to Moses on the mountain, he put both sides together in one breath: “The LORD, the LORD, a God merciful and gracious, slow to anger, and abounding in steadfast love and faithfulness, keeping steadfast love for thousands, forgiving iniquity and transgression and sin, but who will by no means clear the guilty” (Ex. 34:6–7). Merciful, and just. Forgiving, and he will not pretend sin is nothing. For most of the Old Testament, the question hangs in the air: how can God be both? The cross is the answer, and we are walking toward it.</p>
 
-<h2 class="sg-section"><span class="sg-num">Part Four:</span> One God in Three Persons</h2>
+<h2 class="sg-section"><span class="sg-num">The Turn:</span> The God Who Speaks</h2>
 
-<p>Now we come to the deepest thing the Bible says about God, and the thing that most surprises people who did not grow up in church. The Bible insists, from start to finish, that there is only one God. Faithful Jews still recite it every morning and evening (see Deut. 6:7): “Hear, O Israel: The LORD our God, the LORD is one” (Deut. 6:4). And yet, as the story unfolds, we meet the Father, we meet the Son, and we meet the Holy Spirit, and each one is fully God.</p>
+<p>Here is the wonder of this week. The God who is there is infinite, eternal, and unchangeable, and holy enough to make Isaiah cry, “Woe is me!” And he has not stayed hidden. He spoke the world into being, he spoke to Moses from a burning bush, and he speaks in his written word. “Long ago, at many times and in many ways, God spoke to our fathers by the prophets, but in these last days he has spoken to us by his Son” (Heb. 1:1–2).</p>
 
-<p>The hints are there on the first page. “In the beginning, God created the heavens and the earth.… And the Spirit of God was hovering over the face of the waters. And God said, ‘Let there be light’” (Gen. 1:1–3). God, his Spirit, and his spoken Word, all at work in creation. A few verses later God says, “Let us make man in our image” (1:26). Those early readers could not have explained it fully. The New Testament opens it up. John deliberately echoes Genesis: “In the beginning was the Word, and the Word was with God, and the Word was God.… All things were made through him” (John 1:1, 3). The Word was <em>with</em> God, so he is distinct from the Father. The Word <em>was</em> God, so he is not a lesser being. And John tells us who the Word is: “And the Word became flesh and dwelt among us” (1:14). He is Jesus.</p>
+<p>Remember the coal from the altar. A holy God provided the cleansing that a sinful man could not provide for himself. That is the pattern of the whole Bible, and it points to the cross. If God feels distant or unknowable to you, start where he has made himself known. Open his word, and look for his Son.</p>
 
-<div class="sg-figure">
-<img src="/assets/whole-story-02-jordan.jpg" alt="A man standing in a river just risen from the water, a dove descending toward him from an opening in the clouds, while a prophet in a rough garment watches from the bank">
-<div class="sg-cap">“The heavens were opened to him, and he saw the Spirit of God descending like a dove and coming to rest on him; and behold, a voice from heaven said, ‘This is my beloved Son, with whom I am well pleased’” (Matt. 3:16–17).</div>
-</div>
-
-<p>At the Jordan River, around AD 27–29, all three appear at once. The Son stands in the water. The Spirit descends like a dove. The Father speaks from heaven. And when Jesus sent his followers out at the end of Matthew’s Gospel, he told them to baptize “in the name of the Father and of the Son and of the Holy Spirit” (Matt. 28:19). Mark that word: <em>name</em>, singular. One name, three persons.</p>
-
-<p>A word about that word <em>person</em>. In the Trinity, a “person” does not mean a separate being, the way three people in a room are three beings. It means the Father, the Son, and the Spirit are truly distinct from one another in how they relate: the Father is the Father of the Son, the Son is the Son of the Father, and the Spirit comes from the Father and the Son (WCF 2.3). They share one being. When the Catechism below says “substance” or “Godhead,” it means that one divine being. One What, three Whos.</p>
-
-<p>The church gathered all of this into the word <em>Trinity</em> (“tri-unity”). The word is not in the Bible, but everything it describes is. The Shorter Catechism puts it simply: “There are three persons in the Godhead; the Father, the Son, and the Holy Ghost; and these three are one God, the same in substance, equal in power and glory” (WSC 6). “Holy Ghost” is the older English for the Holy Spirit.</p>
-
-<div class="diagram-card">
-<svg viewBox="0 0 700 460" xmlns="http://www.w3.org/2000/svg" style="width:100%;max-width:880px;" role="img" aria-labelledby="shTitle"><title id="shTitle">The Shield of the Trinity: the Father, the Son, and the Holy Spirit each is God; the Father is not the Son, the Son is not the Spirit, the Spirit is not the Father</title><defs><linearGradient id="shFill" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#FFFFFF"/><stop offset="1" stop-color="#F2F7F6"/></linearGradient><filter id="shShadow" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="3" stdDeviation="4" flood-color="#1B2A2E" flood-opacity="0.18"/></filter><marker id="shArrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#0E3B45"/></marker><marker id="shArrowGold" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#A2761F"/></marker></defs><text x="350" y="26" text-anchor="middle" font-size="16" fill="#1B2A2E" font-weight="700">The Shield of the Trinity</text><path d="M350,46 C430,52 520,62 560,74 C566,210 520,330 350,420 C180,330 134,210 140,74 C180,62 270,52 350,46 Z" fill="#F2F7F6" stroke="#A2761F" stroke-width="2"/><line x1="225" y1="120" x2="475" y2="120" stroke="#7A8A8E" stroke-width="2.5"/><line x1="475" y1="120" x2="350" y2="345" stroke="#7A8A8E" stroke-width="2.5"/><line x1="350" y1="345" x2="225" y2="120" stroke="#7A8A8E" stroke-width="2.5"/><line x1="225" y1="120" x2="350" y2="195" stroke="#A2761F" stroke-width="3"/><line x1="475" y1="120" x2="350" y2="195" stroke="#A2761F" stroke-width="3"/><line x1="350" y1="345" x2="350" y2="195" stroke="#A2761F" stroke-width="3"/><rect x="318.0" y="109" width="64" height="22" rx="11" fill="#FFFFFF" stroke="#4E6166" stroke-width="1.4"/><text x="350" y="124.5" text-anchor="middle" font-size="11.5" fill="#4E6166" font-weight="700" font-style="italic">is not</text><rect x="380.0" y="221" width="64" height="22" rx="11" fill="#FFFFFF" stroke="#4E6166" stroke-width="1.4"/><text x="412" y="236.5" text-anchor="middle" font-size="11.5" fill="#4E6166" font-weight="700" font-style="italic">is not</text><rect x="256.0" y="221" width="64" height="22" rx="11" fill="#FFFFFF" stroke="#4E6166" stroke-width="1.4"/><text x="288" y="236.5" text-anchor="middle" font-size="11.5" fill="#4E6166" font-weight="700" font-style="italic">is not</text><rect x="262.5" y="146.5" width="50" height="22" rx="11" fill="#FFFFFF" stroke="#A2761F" stroke-width="1.4"/><text x="287.5" y="162.0" text-anchor="middle" font-size="11.5" fill="#A2761F" font-weight="700" font-style="italic">is</text><rect x="387.5" y="146.5" width="50" height="22" rx="11" fill="#FFFFFF" stroke="#A2761F" stroke-width="1.4"/><text x="412.5" y="162.0" text-anchor="middle" font-size="11.5" fill="#A2761F" font-weight="700" font-style="italic">is</text><rect x="325.0" y="271.0" width="50" height="22" rx="11" fill="#FFFFFF" stroke="#A2761F" stroke-width="1.4"/><text x="350" y="286.5" text-anchor="middle" font-size="11.5" fill="#A2761F" font-weight="700" font-style="italic">is</text><circle cx="225" cy="120" r="46" fill="#0E3B45" stroke="#FFFFFF" stroke-width="3"/><text x="225" y="125.0" text-anchor="middle" font-size="14.5" fill="#FFFFFF" font-weight="700">Father</text><circle cx="475" cy="120" r="46" fill="#0E3B45" stroke="#FFFFFF" stroke-width="3"/><text x="475" y="125.0" text-anchor="middle" font-size="14.5" fill="#FFFFFF" font-weight="700">Son</text><circle cx="350" cy="345" r="46" fill="#0E3B45" stroke="#FFFFFF" stroke-width="3"/><text x="350" y="341.5" text-anchor="middle" font-size="13.5" fill="#FFFFFF" font-weight="700">Holy</text><text x="350" y="358.5" text-anchor="middle" font-size="13.5" fill="#FFFFFF" font-weight="700">Spirit</text><circle cx="350" cy="195" r="40" fill="#A2761F" stroke="#FFFFFF" stroke-width="3"/><text x="350" y="200.0" text-anchor="middle" font-size="16" fill="#FFFFFF" font-weight="700">God</text><text x="70" y="160" text-anchor="middle" font-size="11.5" fill="#A2761F" font-weight="700">Each person</text><text x="70" y="175" text-anchor="middle" font-size="11.5" fill="#A2761F" font-weight="700">is fully God</text><text x="630" y="160" text-anchor="middle" font-size="11.5" fill="#4E6166" font-weight="700">No person is</text><text x="630" y="175" text-anchor="middle" font-size="11.5" fill="#4E6166" font-weight="700">another person</text><text x="350" y="446" text-anchor="middle" font-size="11.5" fill="#4E6166" font-style="italic">“These three are one God, the same in substance, equal in power and glory” (WSC 6).</text></svg>
-</div>
-
-<p>Christians have drawn this diagram for about eight hundred years. It is called the Shield of the Trinity, and it keeps us from the two most common mistakes. Some people think God is one person who wears three masks, appearing sometimes as the Father, sometimes as the Son, sometimes as the Spirit. That cannot be right, because at the Jordan all three are present at the same moment, and elsewhere the Son prays to the Father (John 17:1) and promises to send the Spirit from the Father (John 15:26). Others think of the Father, Son, and Spirit as three gods, or three thirds of one god. That cannot be right either, because God is one, and each person is fully God. The shield holds both truths: each person <em>is</em> God, and no person <em>is</em> another.</p>
-
-<p>Will you fully understand this? No. Neither do I, and neither did Augustine or Calvin. Most comparisons you will hear (water, ice, and steam; an egg with shell, white, and yolk) end up teaching one of the two mistakes. It is better to say what the Bible says and then bow. A God you could fully figure out would be a God about your size. The Trinity is exactly what you would expect if the God who is there is far greater than us and has truly told us about himself.</p>
-
-<p class="sg-refs"><b>Also read:</b> John 14:16–17, 26; 2 Corinthians 13:14; Ephesians 1:3–14; Matthew 28:18–20</p>
-
-<!--doctrine-->
-<div class="sg-doctrine">
-<div class="sg-doc-head"><span class="sg-doc-kicker">Core Doctrine 2 of 26</span><span class="sg-doc-name">The Trinity</span></div>
-<div class="sg-doc-body">
-<p class="sg-doc-def">There is one God, and he exists eternally as three persons: the Father, the Son, and the Holy Spirit. They are not three gods, and they are not one God wearing three masks. Each person is fully God, equal in power and glory, and each is distinct from the others.</p>
-<div class="sg-doc-row"><b>Key verses</b>Deuteronomy 6:4; Matthew 28:19; John 1:1–3; 2 Corinthians 13:14</div>
-<div class="sg-doc-row"><b>What the church confesses</b><em>“There are three persons in the Godhead; the Father, the Son, and the Holy Ghost; and these three are one God, the same in substance, equal in power and glory.”</em> (Westminster Shorter Catechism 6)<br><em>“Very God of very God, begotten, not made, being of one substance with the Father.”</em> (Nicene Creed, on the Son)</div>
-<div class="sg-doc-row"><b>Why it matters</b>God did not create us because he was lonely. The Father, the Son, and the Spirit have loved one another forever, and the gospel invites us into that love.</div>
-</div>
-</div>
-<!--/doctrine-->
-
-<h2 class="sg-section"><span class="sg-num">Part Five:</span> The God Who Needs Nothing and Loves Freely</h2>
-
-<p>The Trinity matters for your life, not only for your doctrine. The Bible says “God is love” (1 John 4:8). If God were a single, solitary person, we might wonder whether his love had to wait for a world to give it somewhere to go. God has never been alone, and his love has never been waiting. On the night before he died, Jesus prayed to his Father about the glory “that you have given me because you loved me before the foundation of the world” (John 17:24). Before there were stars, the Father loved the Son and the Son loved the Father, in the Holy Spirit, who is himself fully God. The Father did not need the Son the way a lonely man needs a friend. Father, Son, and Spirit are the one God, and this love is simply what God is, full and complete forever.</p>
-
-<p>So go back to Part One. God does not need you. He was perfectly happy and full of love before you existed. That means he did not create the world to fill a hole in himself. He created it out of fullness, to share what he already had. God could have made nothing at all and lost nothing. He made the world because he freely willed to. The elders in Revelation sing, “Worthy are you, our Lord and God, to receive glory and honor and power, for you created all things, and by your will they existed and were created” (Rev. 4:11). He made all things by his own free will, and he was glad to.</p>
-
-<p>And that changes how you can come to him. You do not have to earn your way in by being useful. You cannot make him love you by giving him something he lacks. The only way to come to a God like this is with empty hands, the way Isaiah came, the way every one of us must come. Paul ends a long, hard chapter about God’s plan by simply breaking into worship: “For from him and through him and to him are all things. To him be glory forever. Amen” (Rom. 11:36).</p>
-
-<div class="sg-thread">
-<div class="sg-thread-head">Thread Watch</div>
-<div class="sg-thread-row"><span class="sg-thread-tag sg-dwell">God with his people</span> The God who fills heaven and earth needs no house: “Do I not fill heaven and earth? declares the LORD” (Jer. 23:24). So when this God later chooses to live in a tent among his people, it will be pure grace, never need.</div>
-<div class="sg-thread-row"><span class="sg-thread-tag sg-lamb">The Lamb</span> The rescue was planned before there was anything to rescue. Peter says we were ransomed “with the precious blood of Christ, like that of a lamb without blemish or spot,” and that Christ “was foreknown before the foundation of the world” (1 Pet. 1:19–20). Before the first star, the Lamb was already chosen.</div>
-</div>
-
-<h2 class="sg-section"><span class="sg-num">The Turn:</span> The God Who Has Made Himself Known</h2>
-
-<p>Moses hid his face at the bush. Isaiah cried “Woe is me” in the temple. Even the seraphim cover their faces. And John, after all of that, writes one of the most daring sentences in the Bible:</p>
-
-<div class="sg-verse"><span class="sg-ref">John 1:18</span> &nbsp;“No one has ever seen God; God the only Son, who is at the Father’s side, he has made him known.”</div>
-
-<p>That sounds like it contradicts Isaiah, who said, “my eyes have seen the King.” John answers it himself. Writing about Isaiah’s vision, he says, “Isaiah said these things because he saw his glory and spoke of him” (John 12:41), and the “him” is Jesus. What Isaiah saw in the temple was the glory of the Son, the one who makes the Father known.</p>
-
-<p>The word for “made him known” is the root of our word “exegesis,” to lead out, to explain. Jesus is God explaining himself. If you want to know what the God who is there is like, you do not have to climb to heaven or decode the stars. Look at Jesus. Look at him touching lepers, welcoming children, weeping at a friend’s grave, forgiving a sinful woman who wept at his feet (Luke 7:47–48). When Philip, one of the Twelve, asked Jesus to show them the Father, Jesus answered, “Whoever has seen me has seen the Father” (John 14:9).</p>
-
-<p>And look at what Jesus came to do. Isaiah needed a coal from the altar to take away his guilt. Every one of us stands where Isaiah stood, with unclean lips and an unclean heart, before a God who is holy, holy, holy. Jesus came to be the sacrifice on that altar. The holy God met his own standards himself, in his Son, so that he could be both just and merciful at once. That is what you will watch unfold, lesson by lesson, all the way to the cross.</p>
-
-<p>Through the prophet Jeremiah, God told his people what was worth boasting about. Not wisdom, not strength, not money, “but let him who boasts boast in this, that he understands and knows me, that I am the LORD who practices steadfast love, justice, and righteousness in the earth” (Jer. 9:24). And Jesus told us what eternal life is: “that they know you, the only true God, and Jesus Christ whom you have sent” (John 17:3).</p>
-
-<p>So this is the invitation of the whole Bible, and of this lesson. The God who is there can be known. He has spoken. He has come. He calls you to turn from your sin and trust his Son, and he promises that whoever comes to him will be received. If you already know him, then let this lesson make you smaller and him larger in your eyes, and let that be a relief. If you do not yet know him, you do not need to understand everything first. You need to come as Isaiah came, honest about your sin, and trust Jesus, the sacrifice God provided, to take your guilt away. He has promised, “whoever comes to me I will never cast out” (John 6:37).</p>
-
-<h3 class="sg-h3">Living It: Six Practices for This Week</h3>
+<h3 class="sg-h3">Living It: Three Practices for This Week</h3>
 
 <div class="sg-principle"><span class="sg-pnum">1</span><strong>Look up.</strong> Spend five minutes outside one night this week looking at the sky. Read Psalm 19:1–6 out loud while you do. Let the sky preach to you.</div>
 <div class="sg-principle"><span class="sg-pnum">2</span><strong>Learn the Catechism answer.</strong> Memorize WSC 4: “God is a spirit, infinite, eternal, and unchangeable, in his being, wisdom, power, holiness, justice, goodness and truth.” It takes about a week of saying it once a day.</div>
 <div class="sg-principle"><span class="sg-pnum">3</span><strong>Watch for LORD.</strong> As you read your Bible, notice every time “LORD” appears in small capitals, and remember the bush. That is God’s own name.</div>
-<div class="sg-principle"><span class="sg-pnum">4</span><strong>Pray as a Christian.</strong> Pray to the Father, through the Son, by the help of the Spirit (Eph. 2:18). Then close your prayers this week with the blessing Paul gave the Corinthians: “The grace of the Lord Jesus Christ and the love of God and the fellowship of the Holy Spirit be with you all” (2 Cor. 13:14).</div>
-<div class="sg-principle"><span class="sg-pnum">5</span><strong>Correct one picture.</strong> Write down one way you have imagined God as smaller, needier, or moodier than he is. Then find one verse from this lesson that corrects it.</div>
-<div class="sg-principle"><span class="sg-pnum">6</span><strong>Memorize Exodus 3:14.</strong> “God said to Moses, ‘I AM WHO I AM.’” Carry it into every hard day this week. He is.</div>
 
-<p class="sg-refs"><b>Before Lesson 3:</b> Read Genesis 1–2 and Psalm 8. Lesson 3 asks what it means that God made us in his own image.</p>
+<p class="sg-refs"><b>Before Week 4:</b> Read Matthew 3:13–17 and John 1:1–18. Week 4 opens the deepest truth about God: one God in three persons.</p>
 
-<h2 class="sg-section"><span class="sg-num">For Discussion</span></h2>
+<h2 class="sg-section"><span class="sg-num">For Discussion</span> </h2>
 
 <ol>
-<li>How would you have answered a child who asked, “Who made God?” before this lesson? How would you answer now?</li>
-<li>Read Acts 17:24–25. Why might it be good news, and not cold news, that God does not need anything from us?</li>
+<li>How would you have answered a child who asked, “Who made God?” before this week? How would you answer now?</li>
 <li>Psalm 19 shows God speaking through the sky and through his Word. What can the stars tell you about God? What can they never tell you?</li>
 <li>Walk through the seven words in WSC 4 (being, wisdom, power, holiness, justice, goodness, truth). Which one do you most need to remember is infinite, eternal, and unchangeable this week? Why?</li>
 <li>Isaiah saw God’s holiness and cried, “Woe is me!” Why do you think seeing God clearly made him see himself clearly? What did God do about it?</li>
-<li>Using the Shield of the Trinity, explain in your own words why God is not one person in three masks, and not three gods.</li>
-<li>Jesus said, “Whoever has seen me has seen the Father” (John 14:9). What is one thing about Jesus in the Gospels that shows you what God is like?</li>
 </ol>
 
 <h2 class="sg-section"><span class="sg-num">Sources &amp; For Further Study</span></h2>
@@ -291,12 +223,11 @@ table.sg-syn td:first-child { font-weight: 600; color: var(--gold-deep); backgro
 <li>John Calvin, <em>Institutes of the Christian Religion</em> 1.1.1 (Beveridge translation).</li>
 <li>On יהוה and אֶהְיֶה: Brown, Driver, and Briggs, <em>A Hebrew and English Lexicon of the Old Testament</em>, s.v. הָיָה; Koehler and Baumgartner, <em>HALOT</em>, s.v. יהוה.</li>
 <li>Francis A. Schaeffer, <em>The God Who Is There</em> (1968).</li>
-<li>On the Shield of the Trinity (<em>Scutum Fidei</em>): a diagram of this kind appears in manuscripts of Peter of Poitiers (c. 1210), and in shield form in English manuscripts of the 1200s.</li>
 <li>For further reading: J. I. Packer, <em>Knowing God</em>; A. W. Tozer, <em>The Knowledge of the Holy</em>; R. C. Sproul, <em>The Holiness of God</em>; Michael Reeves, <em>Delighting in the Trinity</em>.</li>
 </ul>
 
-<div class="sg-seriesnav sg-next"><strong>Next, Lesson 3:</strong> <a href="/bible-study/creation-and-the-image-of-god/">Creation and the Image of God</a> &middot; <a href="/bible-study/">All lessons</a></div>
+<div class="sg-seriesnav sg-next"><strong>Next, Week 4:</strong> <a href="/bible-study/one-god-in-three-persons/">One God in Three Persons</a> &middot; <a href="/bible-study/">All weeks</a></div>
 
 <hr>
 
-<p><em>Leading a small group? This lesson comes as a beautifully formatted, printable PDF, along with a 4-page Small Group Guide: discussion pages for your group and leader notes with a session plan and answer key. Both are free when you <a href="/#subscribe">join the weekly list</a>.</em></p>
+<p><em>Leading a small group? This week comes as a beautifully formatted, printable PDF, along with a 2-page Small Group Guide: a discussion page for your group and leader notes with a session plan and answer key. Both are free when you <a href="/#subscribe">join the weekly list</a>.</em></p>

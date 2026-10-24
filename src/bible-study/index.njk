@@ -1,7 +1,7 @@
 ---
 layout: base.njk
 title: "The Whole Story: A Bible Study"
-description: "A 26-lesson walk through the whole Bible for anyone who did not grow up in church: one story from creation to new creation, with real dates, a timeline, and the two threads that carry the gospel from Genesis to Revelation."
+description: "A 52-week walk through the whole Bible for anyone who did not grow up in church: one story from creation to new creation, with real dates, a timeline, and the two threads that carry the gospel from Genesis to Revelation."
 permalink: /bible-study/
 ogImage: /assets/whole-story-01-river.jpg
 ---
@@ -33,7 +33,7 @@ ogImage: /assets/whole-story-01-river.jpg
     <div class="center">
       <div class="eyebrow">Bible Study</div>
       <h2 class="section-title">The Whole Story.</h2>
-      <p class="lead narrow">Most people meet the Bible in pieces: a manger, an ark, a verse on a mug. This study puts the pieces together. Over twenty-six lessons we walk the whole Bible from the first page to the last, with real dates, a timeline you can keep in your head, and two threads that run from Genesis to Revelation. It is written for anyone who did not grow up in church, and for anyone who did and never saw how it all fits.</p>
+      <p class="lead narrow">Most people meet the Bible in pieces: a manger, an ark, a verse on a mug. This study puts the pieces together. Over fifty-two weeks we walk the whole Bible from the first page to the last, one short step at a time, with real dates, a timeline you can keep in your head, and two threads that run from Genesis to Revelation. It is written for anyone who did not grow up in church, and for anyone who did and never saw how it all fits.</p>
     </div>
 
     <div class="ws-hero">
@@ -43,17 +43,17 @@ ogImage: /assets/whole-story-01-river.jpg
 
     <div class="ws-how">
       <div><b>One story</b><p>Creation, Fall, Redemption, Restoration. Every page of the Bible belongs to one of these four acts, and all of it points to Jesus (Luke 24:27).</p></div>
-      <div><b>Real history</b><p>Every lesson shows where it sits on the timeline, from Adam to Abraham, Moses, David, the temple, the exile, Jesus, and the church.</p></div>
+      <div><b>Real history</b><p>Every week shows where it sits on the timeline, from Adam to Abraham, Moses, David, the temple, the exile, Jesus, and the church.</p></div>
       <div><b>Two threads</b><p>God dwelling with his people, and the Lamb. Follow them from the garden to the tabernacle to the cross to the city of God.</p></div>
-      <div><b>For groups</b><p>Each lesson has discussion questions and practices for the week, plus a printable lesson PDF and a 4-page Small Group Guide with leader notes, free for <a href="/#subscribe">subscribers</a>.</p></div>
+      <div><b>For groups</b><p>Each week is sized for one group meeting, with discussion questions and practices, plus a printable PDF and a 2-page Small Group Guide with leader notes, free for <a href="/#subscribe">subscribers</a>.</p></div>
     </div>
 
     {%- set published = collections.bibleStudy %}
     {%- for unit in wholeStory.units %}
     <div class="ws-unit">
       <h3><span>Unit {{ loop.index }}:</span> {{ unit.name }}</h3>
-      {%- for l in unit.lessons %}
-        {%- set post = published | lessonPost(l.n) %}
+      {%- for l in unit.weeks %}
+        {%- set post = published | weekPost(l.n) %}
       <div class="ws-lesson{% if post %} live{% endif %}">
         <span class="ws-num">{{ l.n }}</span>
         <div class="ws-body">
