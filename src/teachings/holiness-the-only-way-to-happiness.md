@@ -97,7 +97,7 @@ ogType: article
 <p>In ancient Israel a cistern was a pit dug out of rock and plastered to hold rainwater. It was hard work, and it held flat, still water at best. A spring was the opposite: fresh water bubbling up on its own, free. Jeremiah&rsquo;s picture is almost comic. God&rsquo;s people walked away from a spring to go dig their own tanks, and the tanks were cracked. That is the world&rsquo;s pursuit of happiness in one sentence. It is not that people want too much. It is that they settle for leaky substitutes, and they work very hard to do it. &ldquo;They who go to the creature for blessedness,&rdquo; Watson wrote, &ldquo;go to the wrong box&rdquo; (<em>The Beatitudes</em>, ch. 2).</p>
 
 <div class="sg-figure">
-<img src="/assets/teaching-happiness-cisterns.jpg" alt="A dry and cracked stone cistern holding the world's abandoned treasures: a tipped goblet, scattered coins, a small crown, and a wreath">
+<img src="/assets/teaching-happiness-cisterns.jpg" alt="A dry and cracked stone cistern holding the world's abandoned treasures: a tipped goblet, scattered coins, a small crown, a laurel wreath, and a hand mirror">
 <div class="sg-cap">&ldquo;Broken cisterns that can hold no water&rdquo; (Jer. 2:13). Every one of them was dug with great effort. None of them holds anything.</div>
 </div>
 
