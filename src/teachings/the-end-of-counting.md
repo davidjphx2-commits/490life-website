@@ -1,8 +1,12 @@
 ---
-title: "The End of Counting"
+title: "The End of Counting: Deeper Study"
 passage: "Matthew 18:21–35 · Luke 17:3–4 · Colossians 3:13"
 date: 2026-09-06
 description: "Peter asked how many times he had to forgive. Jesus answered with a number too big to track, a story about two ledgers, and a word that means release. This study opens the Greek behind forgiveness and shows why the forgiven are the only people who can forgive."
+track: deeper
+shortVersion: /teachings/the-end-of-counting-beginners-guide/
+studyLength: "About 4,700 words · 13-page study guide"
+studyTime: "Plan on one or two sittings"
 bookCallout: true
 ogImage: /assets/teaching-counting-cover.jpg
 ogType: article
@@ -47,6 +51,8 @@ table.sg-syn td:first-child { font-weight: 600; color: var(--gold-deep); backgro
 .sg-sources li { margin-bottom: 0.35rem; }
 @media (max-width: 560px) { .sg-plus { display: none; } .sg-part { max-width: none; } }
 </style>
+
+<div style="background: var(--paper-warm, #FBF6EA); border: 1px solid var(--gold-soft); border-left: 5px solid var(--gold); border-radius: var(--radius); padding: 1rem 1.3rem; margin: 0 0 2rem;"><strong>New to this?</strong> This is one of our <a href="/teachings/deeper/">Deeper Studies</a>, a long and careful study. If you are just starting out, begin with the five-page short version, <a href="/teachings/the-end-of-counting-beginners-guide/">The End of Counting</a>, then come back here when you are ready to dig in.</div>
 
 <div class="sg-hero">
 <img src="/assets/teaching-counting-cover.jpg" alt="An open ledger, its columns of debt washed out by light from a cross">

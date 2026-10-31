@@ -1,8 +1,12 @@
 ---
-title: "The Battle for the Mind"
+title: "The Battle for the Mind: Deeper Study"
 passage: "Matthew 4:17 · 2 Corinthians 10:3–5 · Romans 12:2"
 date: 2026-08-24
 description: "Three commands of Scripture (repent, take every thought captive, be transformed by the renewing of your mind) turn out to be one campaign. The battlefield is your mind, and the Greek behind each verse shows you how the fight is actually won."
+track: deeper
+shortVersion: /teachings/the-battle-for-the-mind-beginners-guide/
+studyLength: "About 3,900 words · 13-page study guide"
+studyTime: "Plan on one or two sittings"
 bookCallout: true
 ogImage: /assets/teaching-battle-cover.jpg
 ogType: article
@@ -48,6 +52,8 @@ table.sg-syn td:first-child { font-weight: 600; color: var(--gold-deep); backgro
 @media (max-width: 560px) { .sg-plus { display: none; } .sg-part { max-width: none; } }
 </style>
 
+<div style="background: var(--paper-warm, #FBF6EA); border: 1px solid var(--gold-soft); border-left: 5px solid var(--gold); border-radius: var(--radius); padding: 1rem 1.3rem; margin: 0 0 2rem;"><strong>New to this?</strong> This is one of our <a href="/teachings/deeper/">Deeper Studies</a>, a long and careful study. If you are just starting out, begin with the five-page short version, <a href="/teachings/the-battle-for-the-mind-beginners-guide/">The Battle for the Mind</a>, then come back here when you are ready to dig in.</div>
+
 <div class="sg-hero">
 <img src="/assets/teaching-battle-cover.jpg" alt="The battle for the mind: a citadel of light under siege">
 <div class="sg-verses">
@@ -90,9 +96,9 @@ table.sg-syn td:first-child { font-weight: 600; color: var(--gold-deep); backgro
 <div class="sg-payoff"><b>Payoff:</b> Metanoia is not &ldquo;feel sorry.&rdquo; It is a <em>transformation of perception</em>. Jesus is not demanding an emotional performance; he is commanding a renovation of the lens so complete that reality itself looks different. Behavior changes as a consequence, because the lens changed first. (A caution for careful students: word roots are a guide, not a proof, but here the New Testament&rsquo;s actual usage matches the anatomy: metanoia consistently describes a decisive change of mind and direction, not a quantity of sorrow.)</div>
 </div>
 
-<p>Two details sharpen the picture. First, the verb in Matthew 4:17 (<em>metanoeite</em>) is a <strong>present imperative</strong>: in context, an ongoing posture rather than a one-time transaction. The risen Christ still says it to established believers in Revelation 3:19. Repentance is not the door you walked through once; it is the direction you keep walking. Second, in Mark 1:15 Jesus pairs it with a twin command: &ldquo;repent <em>and believe</em> the gospel.&rdquo; The two imperatives stand together grammatically. Turning and trusting are two sides of one motion. Every turn <em>from</em> a lie is a turn <em>to</em> the truth.</p>
+<p>Two details sharpen the picture. First, the verb in Matthew 4:17 (<em>metanoeite</em>) is a <strong>present imperative</strong>: in context, an ongoing posture rather than a one-time transaction. The risen Christ still says it to established believers in Revelation 3:19. Repentance is not the door you walked through once; it is the direction you keep walking. Second, in Mark 1:15 Jesus pairs it with a twin command: &ldquo;repent <em>and believe</em> in the gospel.&rdquo; The two imperatives stand together grammatically. Turning and trusting are two sides of one motion. Every turn <em>from</em> a lie is a turn <em>to</em> the truth.</p>
 
-<p>Paul adds the critical distinction in 2 Corinthians 7:10: &ldquo;Godly sorrow produces repentance&hellip; but worldly sorrow produces death.&rdquo; Notice: sorrow <em>produces</em> repentance, so sorrow is not repentance. Grief is the catalyst; the changed mind is the product. Many sincere believers live in a loop of sin, guilt, tears, and promises, and mistake the emotional exhaustion for repentance, &ldquo;feeling repented&rdquo; while the lens never actually shifts. That loop is worldly sorrow, and Paul says it goes nowhere.</p>
+<p>Paul adds the critical distinction in 2 Corinthians 7:10: &ldquo;Godly grief produces a repentance that leads to salvation without regret, whereas worldly grief produces death.&rdquo; Notice: sorrow <em>produces</em> repentance, so sorrow is not repentance. Grief is the catalyst; the changed mind is the product. Many sincere believers live in a loop of sin, guilt, tears, and promises, and mistake the emotional exhaustion for repentance, &ldquo;feeling repented&rdquo; while the lens never actually shifts. That loop is worldly sorrow, and Paul says it goes nowhere.</p>
 
 <p>Jesus painted metanoia in one sentence of the prodigal son&rsquo;s story: <em>&ldquo;when he came to himself&rdquo;</em> (Luke 15:17). No weeping performance. A moment of sudden clarity in a pigpen. He had believed his father&rsquo;s house was a prison and the far country was freedom; in one quiet instant he saw reality correctly. The walk home followed the seeing.</p>
 

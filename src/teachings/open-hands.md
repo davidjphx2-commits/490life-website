@@ -1,8 +1,12 @@
 ---
-title: "Open Hands"
+title: "Open Hands: Deeper Study"
 passage: "1 Peter 5:6–7 · Proverbs 3:5–6 · Luke 22:42"
 date: 2026-09-18
 description: "Ten signs you are still holding on, and the God who can be trusted with everything you release. A short study on what surrender actually is, what it is not, and why letting go is the safest thing a Christian ever does."
+track: deeper
+shortVersion: /teachings/open-hands-beginners-guide/
+studyLength: "About 4,600 words · 12-page study guide"
+studyTime: "Plan on one or two sittings"
 bookCallout: true
 ogImage: /assets/teaching-open-hands-cover.jpg
 ogType: article
@@ -46,6 +50,8 @@ ogType: article
 .sg-sources li { margin-bottom: 0.35rem; }
 @media (max-width: 560px) { .sg-plus { display: none; } .sg-part { max-width: none; } }
 </style>
+
+<div style="background: var(--paper-warm, #FBF6EA); border: 1px solid var(--gold-soft); border-left: 5px solid var(--gold); border-radius: var(--radius); padding: 1rem 1.3rem; margin: 0 0 2rem;"><strong>New to this?</strong> This is one of our <a href="/teachings/deeper/">Deeper Studies</a>, a long and careful study. If you are just starting out, begin with the five-page short version, <a href="/teachings/open-hands-beginners-guide/">Open Hands</a>, then come back here when you are ready to dig in.</div>
 
 <div class="sg-hero">
 <img src="/assets/teaching-open-hands-cover.jpg" alt="Open hands: two hands held open and empty, palms up, under falling light">

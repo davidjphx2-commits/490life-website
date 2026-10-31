@@ -1,8 +1,12 @@
 ---
-title: "Holiness, the Only Way to Happiness"
+title: "Holiness, the Only Way to Happiness: Deeper Study"
 passage: "Psalm 16:11 · John 15:11 · Hebrews 12:14"
 date: 2026-10-24
 description: "Everyone wants to be happy, and the world digs cistern after cistern to find it. A study of six broken cisterns, the Bible's word for the happy man, and why the Puritans and Reformers insisted that holiness is not the price of joy but the road into it."
+track: deeper
+shortVersion: /teachings/holiness-the-only-way-to-happiness-beginners-guide/
+studyLength: "About 5,200 words · 15-page study guide"
+studyTime: "Plan on two or three sittings"
 bookCallout: true
 ogImage: /assets/teaching-happiness-cover.jpg
 ogType: article
@@ -49,6 +53,8 @@ ogType: article
 .sg-sources li { margin-bottom: 0.35rem; }
 @media (max-width: 560px) { .sg-plus { display: none; } .sg-part { max-width: none; } }
 </style>
+
+<div style="background: var(--paper-warm, #FBF6EA); border: 1px solid var(--gold-soft); border-left: 5px solid var(--gold); border-radius: var(--radius); padding: 1rem 1.3rem; margin: 0 0 2rem;"><strong>New to this?</strong> This is one of our <a href="/teachings/deeper/">Deeper Studies</a>, a long and careful study. If you are just starting out, begin with the five-page short version, <a href="/teachings/holiness-the-only-way-to-happiness-beginners-guide/">Holiness, the Only Way to Happiness</a>, then come back here when you are ready to dig in.</div>
 
 <div class="sg-hero">
 <img src="/assets/teaching-happiness-cover.jpg" alt="A clear spring pouring from a cleft in a rock into a bright pool, with a cracked and empty stone cistern beside it">

@@ -1,8 +1,12 @@
 ---
-title: "The Necessities for Effective Prayer"
+title: "The Necessities for Effective Prayer: Deeper Study"
 passage: "Mark 11:22-25"
 date: 2026-08-08
 description: "Jesus interrupts Passion Week to teach on prayer: all of heaven's resources are at the disposal of the believer who prays. Five necessities: remember, trust, believe, ask, forgive."
+track: deeper
+shortVersion: /teachings/necessities-of-effective-prayer-mark-11-beginners-guide/
+studyLength: "About 2,800 words · 11-page study guide"
+studyTime: "Plan on one or two sittings"
 bookCallout: true
 ogImage: /assets/teaching-prayer-cover.jpg
 ogType: article
@@ -41,6 +45,8 @@ ogType: article
 .sg-sources li { margin-bottom: 0.35rem; }
 @media (max-width: 560px) { .sg-plus { display: none; } .sg-part { max-width: none; } }
 </style>
+
+<div style="background: var(--paper-warm, #FBF6EA); border: 1px solid var(--gold-soft); border-left: 5px solid var(--gold); border-radius: var(--radius); padding: 1rem 1.3rem; margin: 0 0 2rem;"><strong>New to this?</strong> This is one of our <a href="/teachings/deeper/">Deeper Studies</a>, a long and careful study. If you are just starting out, begin with the five-page short version, <a href="/teachings/necessities-of-effective-prayer-mark-11-beginners-guide/">The Necessities for Effective Prayer</a>, then come back here when you are ready to dig in.</div>
 
 <div class="sg-hero">
 <img src="/assets/teaching-prayer-cover.jpg" alt="A man kneeling in prayer on the Mount of Olives, heaven opened above Jerusalem">

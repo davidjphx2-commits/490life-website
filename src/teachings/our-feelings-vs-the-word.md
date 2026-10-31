@@ -1,8 +1,12 @@
 ---
-title: "Our Feelings vs. the Word"
+title: "Our Feelings vs. the Word: Deeper Study"
 passage: "Proverbs 4:23 · Romans 12:2 · 1 Peter 1:5"
 date: 2026-10-01
 description: "Eleven popular sayings about fear, anger, anxiety, the past, and control, each set beside what God's Word actually says. A study on why our feelings are real but never the final authority, and why the One who keeps us is better than the faith we hold."
+track: deeper
+shortVersion: /teachings/our-feelings-vs-the-word-beginners-guide/
+studyLength: "About 5,700 words · 15-page study guide"
+studyTime: "Plan on two or three sittings"
 bookCallout: true
 ogImage: /assets/teaching-feelings-cover.jpg
 ogType: article
@@ -49,6 +53,8 @@ ogType: article
 .sg-sources li { margin-bottom: 0.35rem; }
 @media (max-width: 560px) { .sg-plus { display: none; } .sg-part { max-width: none; } }
 </style>
+
+<div style="background: var(--paper-warm, #FBF6EA); border: 1px solid var(--gold-soft); border-left: 5px solid var(--gold); border-radius: var(--radius); padding: 1rem 1.3rem; margin: 0 0 2rem;"><strong>New to this?</strong> This is one of our <a href="/teachings/deeper/">Deeper Studies</a>, a long and careful study. If you are just starting out, begin with the five-page short version, <a href="/teachings/our-feelings-vs-the-word-beginners-guide/">Our Feelings vs. the Word</a>, then come back here when you are ready to dig in.</div>
 
 <div class="sg-hero">
 <img src="/assets/teaching-feelings-cover.jpg" alt="An open book resting on a flat rock at the edge of a stormy sea, waves breaking behind it and gold light falling on its pages">
