@@ -25,7 +25,8 @@ ogImage: /assets/whole-story-01-river.jpg
 .ws-lesson.live .ws-body .t a:hover { color: var(--ocean); }
 .ws-body .p { font-size: 0.86rem; color: var(--ink-faint); }
 .ws-tag { font-size: 0.72rem; letter-spacing: 0.14em; text-transform: uppercase; color: var(--ink-faint); white-space: nowrap; }
-.ws-lesson.live .ws-tag { color: var(--ocean); font-weight: 600; }
+.ws-lesson.live .ws-tag { color: var(--ocean); font-weight: 600; text-decoration: none; }
+.ws-lesson.live .ws-tag:hover { color: var(--deep); text-decoration: underline; }
 </style>
 
 <section>
@@ -60,7 +61,7 @@ ogImage: /assets/whole-story-01-river.jpg
           <div class="t">{% if post %}<a href="{{ post.url }}">{{ l.title }}</a>{% else %}{{ l.title }}{% endif %}</div>
           <div class="p">{{ l.passage }}</div>
         </div>
-        <span class="ws-tag">{% if post %}Read now{% else %}Coming soon{% endif %}</span>
+        {% if post %}<a class="ws-tag" href="{{ post.url }}">Read now</a>{% else %}<span class="ws-tag">Coming soon</span>{% endif %}
       </div>
       {%- endfor %}
     </div>
