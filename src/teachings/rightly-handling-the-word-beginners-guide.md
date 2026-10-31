@@ -1,5 +1,5 @@
 ---
-title: "Rightly Handling the Word: A Beginner’s Guide"
+title: "Rightly Handling the Word"
 passage: "2 Timothy 2:15 · Acts 17:11 · Luke 24:27"
 date: 2026-10-21
 description: "The basic tools for reading the Bible well, for anyone just starting out: what hermeneutics is, three questions to ask of any passage, reading in context, knowing what kind of writing you are reading, the world behind the text, letting Scripture explain Scripture, five common mistakes, and a simple method you can use every time."
@@ -45,7 +45,7 @@ ogType: article
 
 <div class="bg-hero"><img src="/assets/teaching-rhw-cover.jpg" alt="A farmer guiding an ox-drawn plow across a field at dawn, leaving one long straight furrow toward the rising sun"></div>
 
-<div class="bg-start"><strong>This is the short version.</strong> A beginner&rsquo;s guide to the basic tools of Bible study. When you are ready for more, the full study is waiting: <a href="/teachings/rightly-handling-the-word/">Rightly Handling the Word</a>, one of our <a href="/teachings/deeper/">Deeper Studies</a>.</div>
+<div class="bg-start"><strong>This is the short version.</strong> A beginner&rsquo;s guide to the basic tools of Bible study. When you are ready for more, the full study is waiting: <a href="/teachings/rightly-handling-the-word/">Rightly Handling the Word: Deeper Study</a>, one of our <a href="/teachings/deeper/">Deeper Studies</a>.</div>
 
 <div class="bg-verse"><b>2 Timothy 2:15</b>“Do your best to present yourself to God as one approved, a worker who has no need to be ashamed, rightly handling the word of truth.”</div>
 
@@ -68,7 +68,7 @@ ogType: article
 
 <div class="bgw"><h2 style="margin-top:0">A simple method you can use every time</h2><table><tr><th>Step</th><th>Ask yourself</th></tr><tr><td>Pray</td><td>Have I asked God to open my eyes and make me willing to obey?</td></tr><tr><td>1. Read</td><td>What does it say? Who is speaking, and to whom? What happens? What words repeat?</td></tr><tr><td>2. Interpret</td><td>What kind of writing is this? What comes before and after? What did it mean to the first readers?</td></tr><tr><td>3. Evaluate</td><td>Does my reading fit what the rest of the Bible clearly teaches? If it seems to clash, I go back and look again.</td></tr><tr><td>4. Apply</td><td>What does this show me about God? About myself? What is one thing I should believe, change, or do?</td></tr><tr><td>5. Correlate</td><td>How does this connect to the whole story of the Bible, and how does it point to Jesus?</td></tr></table><h2>Your starter toolkit</h2><ul><li><b>A good translation.</b> Choose one that is accurate and readable, like the ESV, CSB, or NASB.</li><li><b>A study Bible.</b> The ESV Study Bible or the Reformation Study Bible gives you introductions, notes, maps, and cross-references in one place.</li><li><b>A notebook.</b> Write down what you notice and the questions you have.</li><li><b>A church.</b> God gives teachers to his people. Ask your pastor and others who know the Bible well; you were never meant to study alone (Acts 8:31).</li></ul><h2>Where to start</h2><p>Read whole books, not scattered verses. A good path for a new reader: <b>the Gospel of Mark</b> to meet Jesus, then <b>Philippians</b>, a short letter full of joy, then <b>Genesis</b> to see where the story begins. A chapter a day is plenty.</p><h2>Every road leads to Jesus</h2><p>Bible study is more than learning facts. Its goal is to know God through his Son. After he rose from the dead, Jesus walked with two discouraged disciples and opened the Scriptures to them:</p><div class="bg-verse"><b>Luke 24:27</b>“And beginning with Moses and all the Prophets, he interpreted to them in all the Scriptures the things concerning himself.”</div><p>Read carefully, read humbly, and keep reading until you find him on every page. Jesus said of the Scriptures, “it is they that bear witness about me” (John 5:39).</p></div>
 
-<div class="bg-start"><strong>Ready to go deeper?</strong> The full study, <a href="/teachings/rightly-handling-the-word/">Rightly Handling the Word</a>, takes these tools further: logic and how Jesus and Paul reasoned, the circles of context, what to do when two passages seem to clash, eight errors that bend the text, and a printable step-by-step path.</div>
+<div class="bg-start"><strong>Ready to go deeper?</strong> The full study, <a href="/teachings/rightly-handling-the-word/">Rightly Handling the Word: Deeper Study</a>, takes these tools further: logic and how Jesus and Paul reasoned, the circles of context, what to do when two passages seem to clash, eight errors that bend the text, and a printable step-by-step path.</div>
 
 <hr>
 

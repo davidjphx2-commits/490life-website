@@ -1,8 +1,12 @@
 ---
-title: "The Love of the Spirit"
+title: "The Love of the Spirit: Deeper Study"
 passage: "Romans 15:30 · Romans 5:5 · Galatians 4:6"
 date: 2026-10-29
 description: "We talk about the love of the Father and the love of Jesus, but rarely about the love of the Holy Spirit. A study on the Spirit as a person who loves us and is worthy of the same love we give the Father and the Son, drawing on Scripture, the Puritans, Edwards, Spurgeon, and Piper."
+track: deeper
+shortVersion: /teachings/the-love-of-the-spirit-beginners-guide/
+studyLength: "About 8,300 words · 24-page study guide"
+studyTime: "Plan on two or three sittings"
 bookCallout: true
 ogImage: /assets/teaching-spirit-cover.jpg
 ogType: article
@@ -56,6 +60,8 @@ table.sg-syn td:first-child { font-weight: 600; color: var(--gold-deep); backgro
 .diagram-card { margin: 2rem auto; }
 @media (max-width: 560px) { .sg-plus { display: none; } .sg-part { max-width: none; } }
 </style>
+
+<div style="background: var(--paper-warm, #FBF6EA); border: 1px solid var(--gold-soft); border-left: 5px solid var(--gold); border-radius: var(--radius); padding: 1rem 1.3rem; margin: 0 0 2rem;"><strong>New to this?</strong> This is one of our <a href="/teachings/deeper/">Deeper Studies</a>, a long and careful study. If you are just starting out, begin with the five-page short version, <a href="/teachings/the-love-of-the-spirit-beginners-guide/">The Love of the Spirit</a>, then come back here when you are ready to dig in.</div>
 
 <div class="sg-hero">
 <img src="/assets/teaching-spirit-cover.jpg" alt="A stone church at night, its front washed in gold light from a small lantern set on the ground before it">

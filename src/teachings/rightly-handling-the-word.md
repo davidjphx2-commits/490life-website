@@ -1,5 +1,5 @@
 ---
-title: "Rightly Handling the Word"
+title: "Rightly Handling the Word: Deeper Study"
 passage: "2 Timothy 2:15 · Acts 17:11 · Ezra 7:10"
 date: 2026-10-03
 description: "How to read the Bible the way it asks to be read: with prayer, sound logic, careful attention to context, the author's own meaning, and the rest of Scripture as the final interpreter. An in-depth, step-by-step study with flowcharts and diagrams, grounded in the Reformed confessions and teachers from Augustine to R.C. Sproul."
@@ -70,7 +70,7 @@ table.sg-syn td:first-child { font-weight: 600; color: var(--gold-deep); backgro
 </div>
 </div>
 
-<div style="background: var(--paper-warm, #FBF6EA); border: 1px solid var(--gold-soft); border-left: 5px solid var(--gold); border-radius: var(--radius); padding: 1rem 1.3rem; margin: 0 0 2rem;"><strong>New to Bible study?</strong> This is one of our <a href="/teachings/deeper/">Deeper Studies</a>, a long and careful study. If you are just starting out, begin with the five-page <a href="/teachings/rightly-handling-the-word-beginners-guide/">Beginner&rsquo;s Guide</a>, then come back here when you are ready to dig in.</div>
+<div style="background: var(--paper-warm, #FBF6EA); border: 1px solid var(--gold-soft); border-left: 5px solid var(--gold); border-radius: var(--radius); padding: 1rem 1.3rem; margin: 0 0 2rem;"><strong>New to Bible study?</strong> This is one of our <a href="/teachings/deeper/">Deeper Studies</a>, a long and careful study. If you are just starting out, begin with the five-page short version, <a href="/teachings/rightly-handling-the-word-beginners-guide/">Rightly Handling the Word</a>, then come back here when you are ready to dig in.</div>
 
 <h2 class="sg-section"><span class="sg-num">Introduction:</span> Every Christian Is an Interpreter</h2>
 
