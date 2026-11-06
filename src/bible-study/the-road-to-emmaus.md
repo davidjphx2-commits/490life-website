@@ -6,6 +6,7 @@ description: "Week 1 of The Whole Story. Two discouraged disciples walk home wit
 series: "The Whole Story"
 week: 1
 lesson: 1
+youtube: "https://youtu.be/6sQt2MGdwMY"
 bookCallout: false
 ogImage: /assets/whole-story-01-road.jpg
 ogType: article

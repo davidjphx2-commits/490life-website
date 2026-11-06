@@ -356,6 +356,9 @@ h2.section-title { font-size: clamp(2.1rem, 4vw, 3rem); margin-bottom: 1rem; }
 .post-body strong { color: var(--ink); font-weight: 600; }
 .book-callout { background: var(--mist); border: 1px solid var(--line); border-left: 3px solid var(--gold); border-radius: var(--radius); padding: 1.4rem 1.6rem; margin: 2.2rem 0; font-size: 1rem; color: var(--ink-soft); }
 .book-callout a { font-weight: 600; }
+.video-note { background: var(--mist); border: 1px solid var(--line); border-left: 3px solid var(--gold); border-radius: var(--radius); padding: 1.1rem 1.4rem; margin: 0 0 2rem; font-size: 1rem; color: var(--ink-soft); }
+.video-note-link { display: inline-block; margin-top: 0.7rem; font-size: 0.78rem; font-weight: 600; letter-spacing: 0.1em; text-transform: uppercase; color: #fff; background: var(--deep); border-radius: 100px; padding: 0.45rem 1.1rem; text-decoration: none; }
+.video-note-link:hover { background: var(--gold-deep); color: #fff; }
 
 /* ── Resource pages ───────────────────────────────────── */
 .resource-strip { display: flex; flex-wrap: wrap; gap: 0.5rem; justify-content: center; margin: 1.3rem auto 0; }

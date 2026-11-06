@@ -165,6 +165,9 @@ if (!home.includes("/almost-there/")) failures.push("HOME missing almost-there r
 if (!home.includes("/coaching/") || !home.includes("/speaking/")) failures.push("HOME missing coaching/speaking links");
 if (!home.includes('class="nav-toggle"')) failures.push("HOME missing mobile nav toggle");
 
+const emmaus = fs.readFileSync(path.join(SITE, "bible-study/the-road-to-emmaus/index.html"), "utf8");
+if (!emmaus.includes('class="video-note"') || !emmaus.includes("https://youtu.be/6sQt2MGdwMY")) failures.push("WHOLE STORY Lesson 1 missing YouTube video note");
+
 const book = fs.readFileSync(path.join(SITE, "seventy-times-seven/index.html"), "utf8");
 const amazonCount = (book.match(/a\.co\/d\/04EfFHKO/g) || []).length;
 if (amazonCount < 3) failures.push(`BOOK page has ${amazonCount} Amazon CTAs (expected >= 3)`);
