@@ -31,7 +31,7 @@ layout: base.njk
 {% if youtube %}
 <div class="video-note">
   <strong>Prefer to watch or listen?</strong> This lesson is also an animated, narrated video on the 490 Life YouTube channel. You can watch it, or simply listen along in YouTube.
-  <a class="video-note-link" href="{{ youtube }}" target="_blank" rel="noopener">Watch {% if lesson %}Lesson {{ lesson }} {% endif %}on YouTube</a>
+  <a class="video-note-link" href="{{ youtube }}" target="_blank" rel="noopener">Watch {% if week %}Week {{ week }} {% elif lesson %}Lesson {{ lesson }} {% endif %}on YouTube</a>
 </div>
 {% endif %}
 {{ content | safe }}
