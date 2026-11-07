@@ -6,6 +6,7 @@ description: "Week 2 of The Whole Story. The whole Bible in one glance: four act
 series: "The Whole Story"
 week: 2
 lesson: 1
+youtube: "https://youtu.be/odezf94qO-w"
 bookCallout: false
 ogImage: /assets/whole-story-01-river.jpg
 ogType: article
