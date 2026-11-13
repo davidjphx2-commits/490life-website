@@ -1,7 +1,7 @@
 ---
 title: "Worship in Spirit and Truth: Deeper Study"
 passage: "John 4:23–24 · Revelation 1:4–6 · Leviticus 10:1–3"
-date: 2026-11-15
+date: 2026-11-12
 description: "What makes worship good? Not style, but substance. A study on who sets the terms of worship, why it is Trinitarian, why we worship Jesus, how sinners are made priests, and what to do with our hearts, drawing on Scripture, Calvin, the Puritans, Edwards, Sproul, MacArthur, Piper, and Keller."
 track: deeper
 shortVersion: /teachings/worship-in-spirit-and-truth-beginners-guide/

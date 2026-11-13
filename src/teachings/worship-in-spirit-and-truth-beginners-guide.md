@@ -1,7 +1,7 @@
 ---
 title: "Worship in Spirit and Truth"
 passage: "John 4:23–24 · Revelation 1:4–6 · Leviticus 10:1–3"
-date: 2026-11-15
+date: 2026-11-12
 description: "A short, beginner-friendly study of worship: why everyone worships something, who decides what pleases God, what “spirit and truth” means, why we worship Jesus, how sinners are made able to worship, and how our hearts and feelings fit in."
 deeperVersion: /teachings/worship-in-spirit-and-truth/
 bookCallout: true
